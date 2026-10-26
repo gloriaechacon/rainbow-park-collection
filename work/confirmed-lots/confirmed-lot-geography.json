@@ -1,0 +1,1734 @@
+{
+  "asOf": "2026-10-13",
+  "coordinateSystem": "EPSG:4326",
+  "sourceParcelCRS": "EPSG:2237, US survey feet",
+  "userReportedLotCount": 13,
+  "providedPinCount": 11,
+  "matchedCountyParcelCount": 11,
+  "summary": "11 pins resueltos; cada pin intersecta exactamente una parcela oficial distinta. 1 parcela de0.24ac,9 de0.23ac y1 agrupada de0.70ac. La agrupada puede equivaler a3lotes originales, pendiente de confirmar.",
+  "sources": {
+    "parcels": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0",
+    "streets": "https://gis.marionfl.org/public/rest/services/General/Streets/MapServer/0"
+  },
+  "lots": [
+    {
+      "id": "RP-01",
+      "pinIndex": 1,
+      "sourceURL": "https://maps.app.goo.gl/dkEdyTc1Uh5jeSD89?g_st=ic",
+      "resolvedURL": "https://www.google.com/maps?q=29.1505813,-82.3847744&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=7ead72b7-ffea-44f0-becd-ad13c9853416&g_st=ic",
+      "pin": {
+        "lat": 29.1505813,
+        "lon": -82.3847744,
+        "basis": "Coordenadas del pin: parámetro q en redirección Google Maps; no centro de cámara"
+      },
+      "parcelId": "2003-124-001",
+      "parcelPolygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.38468416388896,
+              29.15047245290522
+            ],
+            [
+              -82.38491880463991,
+              29.150474029293974
+            ],
+            [
+              -82.38491441359541,
+              29.1508682510987
+            ],
+            [
+              -82.38467870485701,
+              29.15086717130933
+            ],
+            [
+              -82.38468416388896,
+              29.15047245290522
+            ]
+          ]
+        ]
+      },
+      "center": {
+        "lat": 29.150670624415984,
+        "lon": -82.38479899492273
+      },
+      "countyAcres": 0.24,
+      "countyZoning": "R1",
+      "countyResidentialBuildings": 0,
+      "gisAreaSqFt": 10768.56,
+      "gisAreaAcres": 0.2472,
+      "front": {
+        "index": 0,
+        "coordinates": [
+          [
+            -82.38468416388896,
+            29.15047245290522
+          ],
+          [
+            -82.38491880463991,
+            29.150474029293974
+          ]
+        ],
+        "lengthFt": 74.9,
+        "nearestStreet": "SW 38TH PL",
+        "roadCenterlineDistanceFt": 18.83,
+        "frontBearingDegrees": 180.44,
+        "gridFrontBearingDegrees": 180.63
+      },
+      "depthFtApprox": 143.45,
+      "edges": [
+        {
+          "index": 0,
+          "coordinates": [
+            [
+              -82.38468416388896,
+              29.15047245290522
+            ],
+            [
+              -82.38491880463991,
+              29.150474029293974
+            ]
+          ],
+          "lengthFt": 74.9,
+          "nearestStreet": "SW 38TH PL",
+          "roadCenterlineDistanceFt": 18.83,
+          "frontBearingDegrees": 180.44,
+          "gridFrontBearingDegrees": 180.63
+        },
+        {
+          "index": 1,
+          "coordinates": [
+            [
+              -82.38491880463991,
+              29.150474029293974
+            ],
+            [
+              -82.38491441359541,
+              29.1508682510987
+            ]
+          ],
+          "lengthFt": 143.36,
+          "nearestStreet": "SW 160TH AVE",
+          "roadCenterlineDistanceFt": 20.78,
+          "frontBearingDegrees": 270.56,
+          "gridFrontBearingDegrees": 270.75
+        },
+        {
+          "index": 2,
+          "coordinates": [
+            [
+              -82.38491441359541,
+              29.1508682510987
+            ],
+            [
+              -82.38467870485701,
+              29.15086717130933
+            ]
+          ],
+          "lengthFt": 75.24,
+          "nearestStreet": "SW 160TH AVE",
+          "roadCenterlineDistanceFt": 58.3,
+          "frontBearingDegrees": 0.3,
+          "gridFrontBearingDegrees": 0.49
+        },
+        {
+          "index": 3,
+          "coordinates": [
+            [
+              -82.38467870485701,
+              29.15086717130933
+            ],
+            [
+              -82.38468416388896,
+              29.15047245290522
+            ]
+          ],
+          "lengthFt": 143.54,
+          "nearestStreet": "SW 160TH AVE",
+          "roadCenterlineDistanceFt": 95.85,
+          "frontBearingDegrees": 90.69,
+          "gridFrontBearingDegrees": 90.88
+        }
+      ],
+      "precision": "Polígono catastral oficial; coincide con el pin aportado. No es un levantamiento topográfico.",
+      "source": "Marion County GIS / Marion County Property Appraiser",
+      "parcelSourceURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3847744%2C+%22y%22%3A+29.1505813%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+      "roadsSourceURL": "https://gis.marionfl.org/public/rest/services/General/Streets/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3847744%2C+%22y%22%3A+29.1505813%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STREET%2CROAD_TYPE%2CRESP_MAINT%2CCLASS&returnGeometry=true&outSR=2237&distance=90&units=esriSRUnit_Meter",
+      "frontBasis": "Lado de unos 76ft más próximo a la línea central de una calle en el GIS oficial. Orientación estimada, sujeta al acceso y levantamiento final.",
+      "inventoryStatus": "Ubicación aportada por el cliente; disponibilidad comercial y titularidad no verificadas",
+      "countyAlternateKey": 496243
+    },
+    {
+      "id": "RP-02",
+      "pinIndex": 2,
+      "sourceURL": "https://maps.app.goo.gl/QtZ1aMbaiZ57RX2T7?g_st=ic",
+      "resolvedURL": "https://www.google.com/maps?q=29.1468072,-82.3842276&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=df7190dd-3341-41a4-8be0-d8b981551bea&g_st=ic",
+      "pin": {
+        "lat": 29.1468072,
+        "lon": -82.3842276,
+        "basis": "Coordenadas del pin: parámetro q en redirección Google Maps; no centro de cámara"
+      },
+      "parcelId": "2003-106-022",
+      "parcelPolygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.38393478243543,
+              29.146691465142307
+            ],
+            [
+              -82.3843632604877,
+              29.146693905405858
+            ],
+            [
+              -82.38436030425441,
+              29.146901204198606
+            ],
+            [
+              -82.38393157136666,
+              29.14689873398454
+            ],
+            [
+              -82.38393478243543,
+              29.146691465142307
+            ]
+          ]
+        ]
+      },
+      "center": {
+        "lat": 29.146796337498404,
+        "lon": -82.38414748439183
+      },
+      "countyAcres": 0.23,
+      "countyZoning": "R1",
+      "countyResidentialBuildings": 0,
+      "gisAreaSqFt": 10313.32,
+      "gisAreaAcres": 0.2368,
+      "front": {
+        "index": 1,
+        "coordinates": [
+          [
+            -82.3843632604877,
+            29.146693905405858
+          ],
+          [
+            -82.38436030425441,
+            29.146901204198606
+          ]
+        ],
+        "lengthFt": 75.39,
+        "nearestStreet": "SW 159TH CT",
+        "roadCenterlineDistanceFt": 20.57,
+        "frontBearingDegrees": 270.71,
+        "gridFrontBearingDegrees": 270.9
+      },
+      "depthFtApprox": 136.82,
+      "edges": [
+        {
+          "index": 0,
+          "coordinates": [
+            [
+              -82.38393478243543,
+              29.146691465142307
+            ],
+            [
+              -82.3843632604877,
+              29.146693905405858
+            ]
+          ],
+          "lengthFt": 136.78,
+          "nearestStreet": "SW 159TH CT",
+          "roadCenterlineDistanceFt": 89.32,
+          "frontBearingDegrees": 180.37,
+          "gridFrontBearingDegrees": 180.56
+        },
+        {
+          "index": 1,
+          "coordinates": [
+            [
+              -82.3843632604877,
+              29.146693905405858
+            ],
+            [
+              -82.38436030425441,
+              29.146901204198606
+            ]
+          ],
+          "lengthFt": 75.39,
+          "nearestStreet": "SW 159TH CT",
+          "roadCenterlineDistanceFt": 20.57,
+          "frontBearingDegrees": 270.71,
+          "gridFrontBearingDegrees": 270.9
+        },
+        {
+          "index": 2,
+          "coordinates": [
+            [
+              -82.38436030425441,
+              29.146901204198606
+            ],
+            [
+              -82.38393157136666,
+              29.14689873398454
+            ]
+          ],
+          "lengthFt": 136.86,
+          "nearestStreet": "SW 159TH CT",
+          "roadCenterlineDistanceFt": 88.62,
+          "frontBearingDegrees": 0.38,
+          "gridFrontBearingDegrees": 0.56
+        },
+        {
+          "index": 3,
+          "coordinates": [
+            [
+              -82.38393157136666,
+              29.14689873398454
+            ],
+            [
+              -82.38393478243543,
+              29.146691465142307
+            ]
+          ],
+          "lengthFt": 75.38,
+          "nearestStreet": "SW 159TH CT",
+          "roadCenterlineDistanceFt": 157.37,
+          "frontBearingDegrees": 90.78,
+          "gridFrontBearingDegrees": 90.97
+        }
+      ],
+      "precision": "Polígono catastral oficial; coincide con el pin aportado. No es un levantamiento topográfico.",
+      "source": "Marion County GIS / Marion County Property Appraiser",
+      "parcelSourceURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3842276%2C+%22y%22%3A+29.1468072%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+      "roadsSourceURL": "https://gis.marionfl.org/public/rest/services/General/Streets/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3842276%2C+%22y%22%3A+29.1468072%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STREET%2CROAD_TYPE%2CRESP_MAINT%2CCLASS&returnGeometry=true&outSR=2237&distance=90&units=esriSRUnit_Meter",
+      "frontBasis": "Lado de unos 76ft más próximo a la línea central de una calle en el GIS oficial. Orientación estimada, sujeta al acceso y levantamiento final.",
+      "inventoryStatus": "Ubicación aportada por el cliente; disponibilidad comercial y titularidad no verificadas",
+      "countyAlternateKey": 494291
+    },
+    {
+      "id": "RP-03",
+      "pinIndex": 3,
+      "sourceURL": "https://maps.app.goo.gl/3YU7FPiFZGgV1gmC9?g_st=ic",
+      "resolvedURL": "https://www.google.com/maps?q=29.1466435,-82.3842266&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=106ad677-f092-433d-9ba5-1c77533330c5&g_st=ic",
+      "pin": {
+        "lat": 29.1466435,
+        "lon": -82.3842266,
+        "basis": "Coordenadas del pin: parámetro q en redirección Google Maps; no centro de cámara"
+      },
+      "parcelId": "2003-106-023",
+      "parcelPolygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.38393478243543,
+              29.146691465142307
+            ],
+            [
+              -82.38393799659637,
+              29.146484200796127
+            ],
+            [
+              -82.3843662105542,
+              29.146486608428933
+            ],
+            [
+              -82.3843632604877,
+              29.146693905405858
+            ],
+            [
+              -82.38393478243543,
+              29.146691465142307
+            ]
+          ]
+        ]
+      },
+      "center": {
+        "lat": 29.14658905564213,
+        "lon": -82.38415056772128
+      },
+      "countyAcres": 0.23,
+      "countyZoning": "R1",
+      "countyResidentialBuildings": 0,
+      "gisAreaSqFt": 10306.93,
+      "gisAreaAcres": 0.2366,
+      "front": {
+        "index": 2,
+        "coordinates": [
+          [
+            -82.3843662105542,
+            29.146486608428933
+          ],
+          [
+            -82.3843632604877,
+            29.146693905405858
+          ]
+        ],
+        "lengthFt": 75.38,
+        "nearestStreet": "SW 159TH CT",
+        "roadCenterlineDistanceFt": 21.31,
+        "frontBearingDegrees": 270.71,
+        "gridFrontBearingDegrees": 270.9
+      },
+      "depthFtApprox": 136.74,
+      "edges": [
+        {
+          "index": 0,
+          "coordinates": [
+            [
+              -82.38393478243543,
+              29.146691465142307
+            ],
+            [
+              -82.38393799659637,
+              29.146484200796127
+            ]
+          ],
+          "lengthFt": 75.37,
+          "nearestStreet": "SW 159TH CT",
+          "roadCenterlineDistanceFt": 158.03,
+          "frontBearingDegrees": 90.78,
+          "gridFrontBearingDegrees": 90.97
+        },
+        {
+          "index": 1,
+          "coordinates": [
+            [
+              -82.38393799659637,
+              29.146484200796127
+            ],
+            [
+              -82.3843662105542,
+              29.146486608428933
+            ]
+          ],
+          "lengthFt": 136.7,
+          "nearestStreet": "SW 159TH CT",
+          "roadCenterlineDistanceFt": 90.01,
+          "frontBearingDegrees": 180.37,
+          "gridFrontBearingDegrees": 180.55
+        },
+        {
+          "index": 2,
+          "coordinates": [
+            [
+              -82.3843662105542,
+              29.146486608428933
+            ],
+            [
+              -82.3843632604877,
+              29.146693905405858
+            ]
+          ],
+          "lengthFt": 75.38,
+          "nearestStreet": "SW 159TH CT",
+          "roadCenterlineDistanceFt": 21.31,
+          "frontBearingDegrees": 270.71,
+          "gridFrontBearingDegrees": 270.9
+        },
+        {
+          "index": 3,
+          "coordinates": [
+            [
+              -82.3843632604877,
+              29.146693905405858
+            ],
+            [
+              -82.38393478243543,
+              29.146691465142307
+            ]
+          ],
+          "lengthFt": 136.78,
+          "nearestStreet": "SW 159TH CT",
+          "roadCenterlineDistanceFt": 89.32,
+          "frontBearingDegrees": 0.37,
+          "gridFrontBearingDegrees": 0.56
+        }
+      ],
+      "precision": "Polígono catastral oficial; coincide con el pin aportado. No es un levantamiento topográfico.",
+      "source": "Marion County GIS / Marion County Property Appraiser",
+      "parcelSourceURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3842266%2C+%22y%22%3A+29.1466435%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+      "roadsSourceURL": "https://gis.marionfl.org/public/rest/services/General/Streets/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3842266%2C+%22y%22%3A+29.1466435%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STREET%2CROAD_TYPE%2CRESP_MAINT%2CCLASS&returnGeometry=true&outSR=2237&distance=90&units=esriSRUnit_Meter",
+      "frontBasis": "Lado de unos 76ft más próximo a la línea central de una calle en el GIS oficial. Orientación estimada, sujeta al acceso y levantamiento final.",
+      "inventoryStatus": "Ubicación aportada por el cliente; disponibilidad comercial y titularidad no verificadas",
+      "countyAlternateKey": 4192280
+    },
+    {
+      "id": "RP-04",
+      "pinIndex": 4,
+      "sourceURL": "https://maps.app.goo.gl/hSBR6mwFy2DesUZDA?g_st=ic",
+      "resolvedURL": "https://www.google.com/maps?q=29.1464657,-82.3842390&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=434d4005-a278-4d37-89dc-5e0e45819fa7&g_st=ic",
+      "pin": {
+        "lat": 29.1464657,
+        "lon": -82.384239,
+        "basis": "Coordenadas del pin: parámetro q en redirección Google Maps; no centro de cámara"
+      },
+      "parcelId": "2003-106-024",
+      "parcelPolygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.38394120765608,
+              29.146276933745693
+            ],
+            [
+              -82.38436916369044,
+              29.146279309632277
+            ],
+            [
+              -82.3843662105542,
+              29.146486608428933
+            ],
+            [
+              -82.38393799659637,
+              29.146484200796127
+            ],
+            [
+              -82.38394120765608,
+              29.146276933745693
+            ]
+          ]
+        ]
+      },
+      "center": {
+        "lat": 29.146381773605498,
+        "lon": -82.3841536496844
+      },
+      "countyAcres": 0.23,
+      "countyZoning": "R1",
+      "countyResidentialBuildings": 0,
+      "gisAreaSqFt": 10300.77,
+      "gisAreaAcres": 0.2365,
+      "front": {
+        "index": 1,
+        "coordinates": [
+          [
+            -82.38436916369044,
+            29.146279309632277
+          ],
+          [
+            -82.3843662105542,
+            29.146486608428933
+          ]
+        ],
+        "lengthFt": 75.39,
+        "nearestStreet": "SW 159TH CT",
+        "roadCenterlineDistanceFt": 22.04,
+        "frontBearingDegrees": 270.71,
+        "gridFrontBearingDegrees": 270.9
+      },
+      "depthFtApprox": 136.66,
+      "edges": [
+        {
+          "index": 0,
+          "coordinates": [
+            [
+              -82.38394120765608,
+              29.146276933745693
+            ],
+            [
+              -82.38436916369044,
+              29.146279309632277
+            ]
+          ],
+          "lengthFt": 136.61,
+          "nearestStreet": "SW 159TH CT",
+          "roadCenterlineDistanceFt": 90.71,
+          "frontBearingDegrees": 180.36,
+          "gridFrontBearingDegrees": 180.55
+        },
+        {
+          "index": 1,
+          "coordinates": [
+            [
+              -82.38436916369044,
+              29.146279309632277
+            ],
+            [
+              -82.3843662105542,
+              29.146486608428933
+            ]
+          ],
+          "lengthFt": 75.39,
+          "nearestStreet": "SW 159TH CT",
+          "roadCenterlineDistanceFt": 22.04,
+          "frontBearingDegrees": 270.71,
+          "gridFrontBearingDegrees": 270.9
+        },
+        {
+          "index": 2,
+          "coordinates": [
+            [
+              -82.3843662105542,
+              29.146486608428933
+            ],
+            [
+              -82.38393799659637,
+              29.146484200796127
+            ]
+          ],
+          "lengthFt": 136.7,
+          "nearestStreet": "SW 159TH CT",
+          "roadCenterlineDistanceFt": 90.01,
+          "frontBearingDegrees": 0.37,
+          "gridFrontBearingDegrees": 0.55
+        },
+        {
+          "index": 3,
+          "coordinates": [
+            [
+              -82.38393799659637,
+              29.146484200796127
+            ],
+            [
+              -82.38394120765608,
+              29.146276933745693
+            ]
+          ],
+          "lengthFt": 75.37,
+          "nearestStreet": "SW 159TH CT",
+          "roadCenterlineDistanceFt": 158.68,
+          "frontBearingDegrees": 90.78,
+          "gridFrontBearingDegrees": 90.97
+        }
+      ],
+      "precision": "Polígono catastral oficial; coincide con el pin aportado. No es un levantamiento topográfico.",
+      "source": "Marion County GIS / Marion County Property Appraiser",
+      "parcelSourceURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.384239%2C+%22y%22%3A+29.1464657%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+      "roadsSourceURL": "https://gis.marionfl.org/public/rest/services/General/Streets/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.384239%2C+%22y%22%3A+29.1464657%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STREET%2CROAD_TYPE%2CRESP_MAINT%2CCLASS&returnGeometry=true&outSR=2237&distance=90&units=esriSRUnit_Meter",
+      "frontBasis": "Lado de unos 76ft más próximo a la línea central de una calle en el GIS oficial. Orientación estimada, sujeta al acceso y levantamiento final.",
+      "inventoryStatus": "Ubicación aportada por el cliente; disponibilidad comercial y titularidad no verificadas",
+      "countyAlternateKey": 494305
+    },
+    {
+      "id": "RP-05",
+      "pinIndex": 5,
+      "sourceURL": "https://maps.app.goo.gl/mynLnMyGwMwd7Vx69?g_st=ic",
+      "resolvedURL": "https://www.google.com/maps?q=29.1496089,-82.3813171&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=2fdcdf59-acdc-4e5e-a2f4-235e9ffd4e01&g_st=ic",
+      "pin": {
+        "lat": 29.1496089,
+        "lon": -82.3813171,
+        "basis": "Coordenadas del pin: parámetro q en redirección Google Maps; no centro de cámara"
+      },
+      "parcelId": "2003-120-029",
+      "parcelPolygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.38124387405603,
+              29.149933445427664
+            ],
+            [
+              -82.38124774304302,
+              29.149562170419173
+            ],
+            [
+              -82.38148423775046,
+              29.149563690719127
+            ],
+            [
+              -82.38148026047953,
+              29.1499349155108
+            ],
+            [
+              -82.38124387405603,
+              29.149933445427664
+            ]
+          ]
+        ]
+      },
+      "center": {
+        "lat": 29.149748541265478,
+        "lon": -82.38136402635406
+      },
+      "countyAcres": 0.23,
+      "countyZoning": "R1",
+      "countyResidentialBuildings": 0,
+      "gisAreaSqFt": 10189.27,
+      "gisAreaAcres": 0.2339,
+      "front": {
+        "index": 1,
+        "coordinates": [
+          [
+            -82.38124774304302,
+            29.149562170419173
+          ],
+          [
+            -82.38148423775046,
+            29.149563690719127
+          ]
+        ],
+        "lengthFt": 75.49,
+        "nearestStreet": "SW 38TH STREET RD",
+        "roadCenterlineDistanceFt": 29.55,
+        "frontBearingDegrees": 180.42,
+        "gridFrontBearingDegrees": 180.61
+      },
+      "depthFtApprox": 135.0,
+      "edges": [
+        {
+          "index": 0,
+          "coordinates": [
+            [
+              -82.38124387405603,
+              29.149933445427664
+            ],
+            [
+              -82.38124774304302,
+              29.149562170419173
+            ]
+          ],
+          "lengthFt": 135.01,
+          "nearestStreet": "SW 38TH STREET RD",
+          "roadCenterlineDistanceFt": 96.94,
+          "frontBearingDegrees": 90.52,
+          "gridFrontBearingDegrees": 90.71
+        },
+        {
+          "index": 1,
+          "coordinates": [
+            [
+              -82.38124774304302,
+              29.149562170419173
+            ],
+            [
+              -82.38148423775046,
+              29.149563690719127
+            ]
+          ],
+          "lengthFt": 75.49,
+          "nearestStreet": "SW 38TH STREET RD",
+          "roadCenterlineDistanceFt": 29.55,
+          "frontBearingDegrees": 180.42,
+          "gridFrontBearingDegrees": 180.61
+        },
+        {
+          "index": 2,
+          "coordinates": [
+            [
+              -82.38148423775046,
+              29.149563690719127
+            ],
+            [
+              -82.38148026047953,
+              29.1499349155108
+            ]
+          ],
+          "lengthFt": 134.99,
+          "nearestStreet": "SW 38TH STREET RD",
+          "roadCenterlineDistanceFt": 97.16,
+          "frontBearingDegrees": 270.54,
+          "gridFrontBearingDegrees": 270.72
+        },
+        {
+          "index": 3,
+          "coordinates": [
+            [
+              -82.38148026047953,
+              29.1499349155108
+            ],
+            [
+              -82.38124387405603,
+              29.149933445427664
+            ]
+          ],
+          "lengthFt": 75.46,
+          "nearestStreet": "SW 38TH PL",
+          "roadCenterlineDistanceFt": 152.81,
+          "frontBearingDegrees": 0.41,
+          "gridFrontBearingDegrees": 0.59
+        }
+      ],
+      "precision": "Polígono catastral oficial; coincide con el pin aportado. No es un levantamiento topográfico.",
+      "source": "Marion County GIS / Marion County Property Appraiser",
+      "parcelSourceURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3813171%2C+%22y%22%3A+29.1496089%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+      "roadsSourceURL": "https://gis.marionfl.org/public/rest/services/General/Streets/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3813171%2C+%22y%22%3A+29.1496089%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STREET%2CROAD_TYPE%2CRESP_MAINT%2CCLASS&returnGeometry=true&outSR=2237&distance=90&units=esriSRUnit_Meter",
+      "frontBasis": "Lado de unos 76ft más próximo a la línea central de una calle en el GIS oficial. Orientación estimada, sujeta al acceso y levantamiento final.",
+      "inventoryStatus": "Ubicación aportada por el cliente; disponibilidad comercial y titularidad no verificadas",
+      "countyAlternateKey": 3981863
+    },
+    {
+      "id": "RP-06",
+      "pinIndex": 6,
+      "sourceURL": "https://maps.app.goo.gl/uRu7W8AQQXxGpJZ79?g_st=ic",
+      "resolvedURL": "https://www.google.com/maps?q=29.1425916,-82.3829683&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=c101c1ee-bfa6-4650-a26c-de3c8acedbb1&g_st=ic",
+      "pin": {
+        "lat": 29.1425916,
+        "lon": -82.3829683,
+        "basis": "Coordenadas del pin: parámetro q en redirección Google Maps; no centro de cámara"
+      },
+      "parcelId": "2003-103-021",
+      "parcelPolygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.38276777474991,
+              29.142689658769065
+            ],
+            [
+              -82.38297431079778,
+              29.142583766933885
+            ],
+            [
+              -82.38318598385678,
+              29.142903870823808
+            ],
+            [
+              -82.38298045305616,
+              29.143009349582204
+            ],
+            [
+              -82.38276777474991,
+              29.142689658769065
+            ]
+          ]
+        ]
+      },
+      "center": {
+        "lat": 29.142796540135556,
+        "lon": -82.38297704459575
+      },
+      "countyAcres": 0.23,
+      "countyZoning": "R3",
+      "countyResidentialBuildings": 0,
+      "gisAreaSqFt": 10253.68,
+      "gisAreaAcres": 0.2354,
+      "front": {
+        "index": 0,
+        "coordinates": [
+          [
+            -82.38276777474991,
+            29.142689658769065
+          ],
+          [
+            -82.38297431079778,
+            29.142583766933885
+          ]
+        ],
+        "lengthFt": 76.35,
+        "nearestStreet": "SW 41ST STREET RD",
+        "roadCenterlineDistanceFt": 33.21,
+        "frontBearingDegrees": 149.59,
+        "gridFrontBearingDegrees": 149.9
+      },
+      "depthFtApprox": 134.61,
+      "edges": [
+        {
+          "index": 0,
+          "coordinates": [
+            [
+              -82.38276777474991,
+              29.142689658769065
+            ],
+            [
+              -82.38297431079778,
+              29.142583766933885
+            ]
+          ],
+          "lengthFt": 76.35,
+          "nearestStreet": "SW 41ST STREET RD",
+          "roadCenterlineDistanceFt": 33.21,
+          "frontBearingDegrees": 149.59,
+          "gridFrontBearingDegrees": 149.9
+        },
+        {
+          "index": 1,
+          "coordinates": [
+            [
+              -82.38297431079778,
+              29.142583766933885
+            ],
+            [
+              -82.38318598385678,
+              29.142903870823808
+            ]
+          ],
+          "lengthFt": 134.59,
+          "nearestStreet": "SW 41ST STREET RD",
+          "roadCenterlineDistanceFt": 100.24,
+          "frontBearingDegrees": 239.99,
+          "gridFrontBearingDegrees": 240.05
+        },
+        {
+          "index": 2,
+          "coordinates": [
+            [
+              -82.38318598385678,
+              29.142903870823808
+            ],
+            [
+              -82.38298045305616,
+              29.143009349582204
+            ]
+          ],
+          "lengthFt": 76.0,
+          "nearestStreet": "SW 40TH PLACE RD",
+          "roadCenterlineDistanceFt": 156.37,
+          "frontBearingDegrees": 329.56,
+          "gridFrontBearingDegrees": 329.88
+        },
+        {
+          "index": 3,
+          "coordinates": [
+            [
+              -82.38298045305616,
+              29.143009349582204
+            ],
+            [
+              -82.38276777474991,
+              29.142689658769065
+            ]
+          ],
+          "lengthFt": 134.62,
+          "nearestStreet": "SW 41ST STREET RD",
+          "roadCenterlineDistanceFt": 100.79,
+          "frontBearingDegrees": 59.84,
+          "gridFrontBearingDegrees": 59.9
+        }
+      ],
+      "precision": "Polígono catastral oficial; coincide con el pin aportado. No es un levantamiento topográfico.",
+      "source": "Marion County GIS / Marion County Property Appraiser",
+      "parcelSourceURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3829683%2C+%22y%22%3A+29.1425916%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+      "roadsSourceURL": "https://gis.marionfl.org/public/rest/services/General/Streets/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3829683%2C+%22y%22%3A+29.1425916%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STREET%2CROAD_TYPE%2CRESP_MAINT%2CCLASS&returnGeometry=true&outSR=2237&distance=90&units=esriSRUnit_Meter",
+      "frontBasis": "Lado de unos 76ft más próximo a la línea central de una calle en el GIS oficial. Orientación estimada, sujeta al acceso y levantamiento final.",
+      "inventoryStatus": "Ubicación aportada por el cliente; disponibilidad comercial y titularidad no verificadas",
+      "countyAlternateKey": 493775
+    },
+    {
+      "id": "RP-07",
+      "pinIndex": 7,
+      "sourceURL": "https://maps.app.goo.gl/gf4cEFFMxmtkX4pr6?g_st=ic",
+      "resolvedURL": "https://www.google.com/maps?q=29.1453562,-82.3805597&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=b3de7cef-2d6f-4e1e-867e-05b8479ae501&g_st=ic",
+      "pin": {
+        "lat": 29.1453562,
+        "lon": -82.3805597,
+        "basis": "Coordenadas del pin: parámetro q en redirección Google Maps; no centro de cámara"
+      },
+      "parcelId": "2003-111-003",
+      "parcelPolygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.38092503800657,
+              29.14543660786789
+            ],
+            [
+              -82.38050068004131,
+              29.145434356908307
+            ],
+            [
+              -82.38050345656406,
+              29.1452289028342
+            ],
+            [
+              -82.38092785531457,
+              29.14522962254087
+            ],
+            [
+              -82.38092503800657,
+              29.14543660786789
+            ]
+          ]
+        ]
+      },
+      "center": {
+        "lat": 29.145332372646404,
+        "lon": -82.38071452010102
+      },
+      "countyAcres": 0.23,
+      "countyZoning": "R1",
+      "countyResidentialBuildings": 0,
+      "gisAreaSqFt": 10158.93,
+      "gisAreaAcres": 0.2332,
+      "front": {
+        "index": 1,
+        "coordinates": [
+          [
+            -82.38050068004131,
+            29.145434356908307
+          ],
+          [
+            -82.38050345656406,
+            29.1452289028342
+          ]
+        ],
+        "lengthFt": 74.71,
+        "nearestStreet": "SW 157TH CT",
+        "roadCenterlineDistanceFt": 36.08,
+        "frontBearingDegrees": 90.68,
+        "gridFrontBearingDegrees": 90.87
+      },
+      "depthFtApprox": 135.47,
+      "edges": [
+        {
+          "index": 0,
+          "coordinates": [
+            [
+              -82.38092503800657,
+              29.14543660786789
+            ],
+            [
+              -82.38050068004131,
+              29.145434356908307
+            ]
+          ],
+          "lengthFt": 135.47,
+          "nearestStreet": "SW 157TH CT",
+          "roadCenterlineDistanceFt": 102.81,
+          "frontBearingDegrees": 0.35,
+          "gridFrontBearingDegrees": 0.53
+        },
+        {
+          "index": 1,
+          "coordinates": [
+            [
+              -82.38050068004131,
+              29.145434356908307
+            ],
+            [
+              -82.38050345656406,
+              29.1452289028342
+            ]
+          ],
+          "lengthFt": 74.71,
+          "nearestStreet": "SW 157TH CT",
+          "roadCenterlineDistanceFt": 36.08,
+          "frontBearingDegrees": 90.68,
+          "gridFrontBearingDegrees": 90.87
+        },
+        {
+          "index": 2,
+          "coordinates": [
+            [
+              -82.38050345656406,
+              29.1452289028342
+            ],
+            [
+              -82.38092785531457,
+              29.14522962254087
+            ]
+          ],
+          "lengthFt": 135.48,
+          "nearestStreet": "SW 157TH CT",
+          "roadCenterlineDistanceFt": 104.8,
+          "frontBearingDegrees": 180.11,
+          "gridFrontBearingDegrees": 180.3
+        },
+        {
+          "index": 3,
+          "coordinates": [
+            [
+              -82.38092785531457,
+              29.14522962254087
+            ],
+            [
+              -82.38092503800657,
+              29.14543660786789
+            ]
+          ],
+          "lengthFt": 75.27,
+          "nearestStreet": "SW 157TH TER",
+          "roadCenterlineDistanceFt": 154.88,
+          "frontBearingDegrees": 270.68,
+          "gridFrontBearingDegrees": 270.87
+        }
+      ],
+      "precision": "Polígono catastral oficial; coincide con el pin aportado. No es un levantamiento topográfico.",
+      "source": "Marion County GIS / Marion County Property Appraiser",
+      "parcelSourceURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3805597%2C+%22y%22%3A+29.1453562%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+      "roadsSourceURL": "https://gis.marionfl.org/public/rest/services/General/Streets/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3805597%2C+%22y%22%3A+29.1453562%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STREET%2CROAD_TYPE%2CRESP_MAINT%2CCLASS&returnGeometry=true&outSR=2237&distance=90&units=esriSRUnit_Meter",
+      "frontBasis": "Lado de unos 76ft más próximo a la línea central de una calle en el GIS oficial. Orientación estimada, sujeta al acceso y levantamiento final.",
+      "inventoryStatus": "Ubicación aportada por el cliente; disponibilidad comercial y titularidad no verificadas",
+      "countyAlternateKey": 2109718
+    },
+    {
+      "id": "RP-08",
+      "pinIndex": 8,
+      "sourceURL": "https://maps.app.goo.gl/AzAN3xu4XMK5UDVcA?g_st=ic",
+      "resolvedURL": "https://www.google.com/maps?q=29.1482124,-82.3792283&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=e13af2f6-bbae-4c2c-b2b5-af375dce6993&g_st=ic",
+      "pin": {
+        "lat": 29.1482124,
+        "lon": -82.3792283,
+        "basis": "Coordenadas del pin: parámetro q en redirección Google Maps; no centro de cámara"
+      },
+      "parcelId": "2003-113-015",
+      "parcelPolygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.37930258438921,
+              29.14811365489797
+            ],
+            [
+              -82.37929965159158,
+              29.14832058811906
+            ],
+            [
+              -82.3788733088363,
+              29.148317900104104
+            ],
+            [
+              -82.37887610691934,
+              29.148110994335518
+            ],
+            [
+              -82.37930258438921,
+              29.14811365489797
+            ]
+          ]
+        ]
+      },
+      "center": {
+        "lat": 29.148215778962854,
+        "lon": -82.3790879178684
+      },
+      "countyAcres": 0.23,
+      "countyZoning": "R1",
+      "countyResidentialBuildings": 0,
+      "gisAreaSqFt": 10242.33,
+      "gisAreaAcres": 0.2351,
+      "front": {
+        "index": 0,
+        "coordinates": [
+          [
+            -82.37930258438921,
+            29.14811365489797
+          ],
+          [
+            -82.37929965159158,
+            29.14832058811906
+          ]
+        ],
+        "lengthFt": 75.25,
+        "nearestStreet": "SW 156TH CT",
+        "roadCenterlineDistanceFt": 20.18,
+        "frontBearingDegrees": 270.71,
+        "gridFrontBearingDegrees": 270.9
+      },
+      "depthFtApprox": 136.12,
+      "edges": [
+        {
+          "index": 0,
+          "coordinates": [
+            [
+              -82.37930258438921,
+              29.14811365489797
+            ],
+            [
+              -82.37929965159158,
+              29.14832058811906
+            ]
+          ],
+          "lengthFt": 75.25,
+          "nearestStreet": "SW 156TH CT",
+          "roadCenterlineDistanceFt": 20.18,
+          "frontBearingDegrees": 270.71,
+          "gridFrontBearingDegrees": 270.9
+        },
+        {
+          "index": 1,
+          "coordinates": [
+            [
+              -82.37929965159158,
+              29.14832058811906
+            ],
+            [
+              -82.3788733088363,
+              29.148317900104104
+            ]
+          ],
+          "lengthFt": 136.1,
+          "nearestStreet": "SW 156TH CT",
+          "roadCenterlineDistanceFt": 88.22,
+          "frontBearingDegrees": 0.41,
+          "gridFrontBearingDegrees": 0.6
+        },
+        {
+          "index": 2,
+          "coordinates": [
+            [
+              -82.3788733088363,
+              29.148317900104104
+            ],
+            [
+              -82.37887610691934,
+              29.148110994335518
+            ]
+          ],
+          "lengthFt": 75.24,
+          "nearestStreet": "SW 40TH ST",
+          "roadCenterlineDistanceFt": 130.71,
+          "frontBearingDegrees": 90.68,
+          "gridFrontBearingDegrees": 90.86
+        },
+        {
+          "index": 3,
+          "coordinates": [
+            [
+              -82.37887610691934,
+              29.148110994335518
+            ],
+            [
+              -82.37930258438921,
+              29.14811365489797
+            ]
+          ],
+          "lengthFt": 136.14,
+          "nearestStreet": "SW 156TH CT",
+          "roadCenterlineDistanceFt": 88.26,
+          "frontBearingDegrees": 180.41,
+          "gridFrontBearingDegrees": 180.59
+        }
+      ],
+      "precision": "Polígono catastral oficial; coincide con el pin aportado. No es un levantamiento topográfico.",
+      "source": "Marion County GIS / Marion County Property Appraiser",
+      "parcelSourceURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3792283%2C+%22y%22%3A+29.1482124%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+      "roadsSourceURL": "https://gis.marionfl.org/public/rest/services/General/Streets/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3792283%2C+%22y%22%3A+29.1482124%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STREET%2CROAD_TYPE%2CRESP_MAINT%2CCLASS&returnGeometry=true&outSR=2237&distance=90&units=esriSRUnit_Meter",
+      "frontBasis": "Lado de unos 76ft más próximo a la línea central de una calle en el GIS oficial. Orientación estimada, sujeta al acceso y levantamiento final.",
+      "inventoryStatus": "Ubicación aportada por el cliente; disponibilidad comercial y titularidad no verificadas",
+      "countyAlternateKey": 2384301
+    },
+    {
+      "id": "RP-09",
+      "pinIndex": 9,
+      "sourceURL": "https://maps.app.goo.gl/RKLdbHRtrHzyxjZ36?g_st=ic",
+      "resolvedURL": "https://www.google.com/maps?q=29.1501687,-82.3752727&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=cd431b81-4c89-4954-ab51-c48ee2bc35a1&g_st=ic",
+      "pin": {
+        "lat": 29.1501687,
+        "lon": -82.3752727,
+        "basis": "Coordenadas del pin: parámetro q en redirección Google Maps; no centro de cámara"
+      },
+      "parcelId": "2003-122-011",
+      "parcelPolygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.37528174707296,
+              29.14989630775689
+            ],
+            [
+              -82.37527651513399,
+              29.150268944426404
+            ],
+            [
+              -82.37504154345194,
+              29.150267528014542
+            ],
+            [
+              -82.37504665270858,
+              29.149894838458945
+            ],
+            [
+              -82.37528174707296,
+              29.14989630775689
+            ]
+          ]
+        ]
+      },
+      "center": {
+        "lat": 29.15008188834161,
+        "lon": -82.37516161207839
+      },
+      "countyAcres": 0.23,
+      "countyZoning": "R1",
+      "countyResidentialBuildings": 0,
+      "gisAreaSqFt": 10167.32,
+      "gisAreaAcres": 0.2334,
+      "front": {
+        "index": 1,
+        "coordinates": [
+          [
+            -82.37527651513399,
+            29.150268944426404
+          ],
+          [
+            -82.37504154345194,
+            29.150267528014542
+          ]
+        ],
+        "lengthFt": 75.01,
+        "nearestStreet": "SW 38TH PL",
+        "roadCenterlineDistanceFt": 16.05,
+        "frontBearingDegrees": 0.4,
+        "gridFrontBearingDegrees": 0.58
+      },
+      "depthFtApprox": 135.52,
+      "edges": [
+        {
+          "index": 0,
+          "coordinates": [
+            [
+              -82.37528174707296,
+              29.14989630775689
+            ],
+            [
+              -82.37527651513399,
+              29.150268944426404
+            ]
+          ],
+          "lengthFt": 135.51,
+          "nearestStreet": "SW 38TH PL",
+          "roadCenterlineDistanceFt": 83.82,
+          "frontBearingDegrees": 270.7,
+          "gridFrontBearingDegrees": 270.89
+        },
+        {
+          "index": 1,
+          "coordinates": [
+            [
+              -82.37527651513399,
+              29.150268944426404
+            ],
+            [
+              -82.37504154345194,
+              29.150267528014542
+            ]
+          ],
+          "lengthFt": 75.01,
+          "nearestStreet": "SW 38TH PL",
+          "roadCenterlineDistanceFt": 16.05,
+          "frontBearingDegrees": 0.4,
+          "gridFrontBearingDegrees": 0.58
+        },
+        {
+          "index": 2,
+          "coordinates": [
+            [
+              -82.37504154345194,
+              29.150267528014542
+            ],
+            [
+              -82.37504665270858,
+              29.149894838458945
+            ]
+          ],
+          "lengthFt": 135.53,
+          "nearestStreet": "SW 38TH PL",
+          "roadCenterlineDistanceFt": 83.8,
+          "frontBearingDegrees": 90.69,
+          "gridFrontBearingDegrees": 90.87
+        },
+        {
+          "index": 3,
+          "coordinates": [
+            [
+              -82.37504665270858,
+              29.149894838458945
+            ],
+            [
+              -82.37528174707296,
+              29.14989630775689
+            ]
+          ],
+          "lengthFt": 75.05,
+          "nearestStreet": "SW 38TH PL",
+          "roadCenterlineDistanceFt": 151.57,
+          "frontBearingDegrees": 180.41,
+          "gridFrontBearingDegrees": 180.59
+        }
+      ],
+      "precision": "Polígono catastral oficial; coincide con el pin aportado. No es un levantamiento topográfico.",
+      "source": "Marion County GIS / Marion County Property Appraiser",
+      "parcelSourceURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3752727%2C+%22y%22%3A+29.1501687%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+      "roadsSourceURL": "https://gis.marionfl.org/public/rest/services/General/Streets/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3752727%2C+%22y%22%3A+29.1501687%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STREET%2CROAD_TYPE%2CRESP_MAINT%2CCLASS&returnGeometry=true&outSR=2237&distance=90&units=esriSRUnit_Meter",
+      "frontBasis": "Lado de unos 76ft más próximo a la línea central de una calle en el GIS oficial. Orientación estimada, sujeta al acceso y levantamiento final.",
+      "inventoryStatus": "Ubicación aportada por el cliente; disponibilidad comercial y titularidad no verificadas",
+      "countyAlternateKey": 2309644
+    },
+    {
+      "id": "RP-10",
+      "pinIndex": 10,
+      "sourceURL": "https://maps.app.goo.gl/xHquFQMqNVojJxx1A?g_st=ic",
+      "resolvedURL": "https://www.google.com/maps?q=29.1502545,-82.3758386&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=cf79821a-c101-4f66-9562-0657309a0128&g_st=ic",
+      "pin": {
+        "lat": 29.1502545,
+        "lon": -82.3758386,
+        "basis": "Coordenadas del pin: parámetro q en redirección Google Maps; no centro de cámara"
+      },
+      "parcelId": "2003-122-014",
+      "parcelPolygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.37598702094328,
+              29.149900717712708
+            ],
+            [
+              -82.37622211942953,
+              29.149902186251207
+            ],
+            [
+              -82.37645721072296,
+              29.149903654397367
+            ],
+            [
+              -82.3764513838233,
+              29.150276013959438
+            ],
+            [
+              -82.37621641110877,
+              29.150274600513285
+            ],
+            [
+              -82.3759814363402,
+              29.15027318666079
+            ],
+            [
+              -82.375746462601,
+              29.150271772393285
+            ],
+            [
+              -82.37575193170915,
+              29.149899248735693
+            ],
+            [
+              -82.37598702094328,
+              29.149900717712708
+            ]
+          ]
+        ]
+      },
+      "center": {
+        "lat": 29.150087656634145,
+        "lon": -82.37610172191458
+      },
+      "countyAcres": 0.7,
+      "countyZoning": "R1",
+      "countyResidentialBuildings": 0,
+      "gisAreaSqFt": 30484.11,
+      "gisAreaAcres": 0.6998,
+      "front": {
+        "index": 5,
+        "coordinates": [
+          [
+            -82.3759814363402,
+            29.15027318666079
+          ],
+          [
+            -82.375746462601,
+            29.150271772393285
+          ]
+        ],
+        "lengthFt": 75.01,
+        "nearestStreet": "SW 38TH PL",
+        "roadCenterlineDistanceFt": 16.15,
+        "frontBearingDegrees": 0.39,
+        "gridFrontBearingDegrees": 0.58
+      },
+      "depthFtApprox": 135.44,
+      "edges": [
+        {
+          "index": 0,
+          "coordinates": [
+            [
+              -82.37598702094328,
+              29.149900717712708
+            ],
+            [
+              -82.37622211942953,
+              29.149902186251207
+            ]
+          ],
+          "lengthFt": 75.05,
+          "nearestStreet": "SW 155TH AVE",
+          "roadCenterlineDistanceFt": 139.34,
+          "frontBearingDegrees": 180.41,
+          "gridFrontBearingDegrees": 180.59
+        },
+        {
+          "index": 1,
+          "coordinates": [
+            [
+              -82.37622211942953,
+              29.149902186251207
+            ],
+            [
+              -82.37645721072296,
+              29.149903654397367
+            ]
+          ],
+          "lengthFt": 75.04,
+          "nearestStreet": "SW 155TH AVE",
+          "roadCenterlineDistanceFt": 64.29,
+          "frontBearingDegrees": 180.41,
+          "gridFrontBearingDegrees": 180.59
+        },
+        {
+          "index": 2,
+          "coordinates": [
+            [
+              -82.37645721072296,
+              29.149903654397367
+            ],
+            [
+              -82.3764513838233,
+              29.150276013959438
+            ]
+          ],
+          "lengthFt": 135.41,
+          "nearestStreet": "SW 155TH AVE",
+          "roadCenterlineDistanceFt": 27.92,
+          "frontBearingDegrees": 270.78,
+          "gridFrontBearingDegrees": 270.97
+        },
+        {
+          "index": 3,
+          "coordinates": [
+            [
+              -82.3764513838233,
+              29.150276013959438
+            ],
+            [
+              -82.37621641110877,
+              29.150274600513285
+            ]
+          ],
+          "lengthFt": 75.01,
+          "nearestStreet": "SW 38TH PL",
+          "roadCenterlineDistanceFt": 16.21,
+          "frontBearingDegrees": 0.39,
+          "gridFrontBearingDegrees": 0.58
+        },
+        {
+          "index": 4,
+          "coordinates": [
+            [
+              -82.37621641110877,
+              29.150274600513285
+            ],
+            [
+              -82.3759814363402,
+              29.15027318666079
+            ]
+          ],
+          "lengthFt": 75.01,
+          "nearestStreet": "SW 38TH PL",
+          "roadCenterlineDistanceFt": 16.18,
+          "frontBearingDegrees": 0.39,
+          "gridFrontBearingDegrees": 0.58
+        },
+        {
+          "index": 5,
+          "coordinates": [
+            [
+              -82.3759814363402,
+              29.15027318666079
+            ],
+            [
+              -82.375746462601,
+              29.150271772393285
+            ]
+          ],
+          "lengthFt": 75.01,
+          "nearestStreet": "SW 38TH PL",
+          "roadCenterlineDistanceFt": 16.15,
+          "frontBearingDegrees": 0.39,
+          "gridFrontBearingDegrees": 0.58
+        },
+        {
+          "index": 6,
+          "coordinates": [
+            [
+              -82.375746462601,
+              29.150271772393285
+            ],
+            [
+              -82.37575193170915,
+              29.149899248735693
+            ]
+          ],
+          "lengthFt": 135.47,
+          "nearestStreet": "SW 38TH PL",
+          "roadCenterlineDistanceFt": 83.86,
+          "frontBearingDegrees": 90.73,
+          "gridFrontBearingDegrees": 90.92
+        },
+        {
+          "index": 7,
+          "coordinates": [
+            [
+              -82.37575193170915,
+              29.149899248735693
+            ],
+            [
+              -82.37598702094328,
+              29.149900717712708
+            ]
+          ],
+          "lengthFt": 75.04,
+          "nearestStreet": "SW 38TH PL",
+          "roadCenterlineDistanceFt": 151.6,
+          "frontBearingDegrees": 180.41,
+          "gridFrontBearingDegrees": 180.59
+        }
+      ],
+      "precision": "Polígono catastral oficial; coincide con el pin aportado. No es un levantamiento topográfico.",
+      "source": "Marion County GIS / Marion County Property Appraiser",
+      "parcelSourceURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3758386%2C+%22y%22%3A+29.1502545%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+      "roadsSourceURL": "https://gis.marionfl.org/public/rest/services/General/Streets/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3758386%2C+%22y%22%3A+29.1502545%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STREET%2CROAD_TYPE%2CRESP_MAINT%2CCLASS&returnGeometry=true&outSR=2237&distance=90&units=esriSRUnit_Meter",
+      "frontBasis": "Lado de unos 76ft más próximo a la línea central de una calle en el GIS oficial. Orientación estimada, sujeta al acceso y levantamiento final.",
+      "inventoryStatus": "Ubicación aportada por el cliente; disponibilidad comercial y titularidad no verificadas",
+      "countyAlternateKey": 496006,
+      "groupedParcel": true,
+      "possibleLotCount": 3,
+      "needsConfirmation": "El catastro agrupa 0.70 acres en una sola parcela con geometría aproximada 225 × 135ft y tres tramos de frente de unos75ft. Puede explicar los13lotes indicados con11pins. No se han confirmado los números de lotes originales ni límites internos; conservar contorno conjunto hasta confirmación."
+    },
+    {
+      "id": "RP-11",
+      "pinIndex": 11,
+      "sourceURL": "https://maps.app.goo.gl/cv3Yk7ZEWxuJxoNZA?g_st=ic",
+      "resolvedURL": "https://www.google.com/maps?q=29.1552723,-82.3611881&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=552eda6d-443e-4bca-9d38-2290f36baeab&g_st=ic",
+      "pin": {
+        "lat": 29.1552723,
+        "lon": -82.3611881,
+        "basis": "Coordenadas del pin: parámetro q en redirección Google Maps; no centro de cámara"
+      },
+      "parcelId": "2002-056-019",
+      "parcelPolygon": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.36086092048934,
+              29.155134683553978
+            ],
+            [
+              -82.36129034626681,
+              29.15513709017202
+            ],
+            [
+              -82.36129108360193,
+              29.15534777282172
+            ],
+            [
+              -82.3608624471471,
+              29.15534647476597
+            ],
+            [
+              -82.36086092048934,
+              29.155134683553978
+            ]
+          ]
+        ]
+      },
+      "center": {
+        "lat": 29.15524147237803,
+        "lon": -82.36107601214844
+      },
+      "countyAcres": 0.23,
+      "countyZoning": "R1",
+      "countyResidentialBuildings": 0,
+      "gisAreaSqFt": 10518.41,
+      "gisAreaAcres": 0.2415,
+      "front": {
+        "index": 1,
+        "coordinates": [
+          [
+            -82.36129034626681,
+            29.15513709017202
+          ],
+          [
+            -82.36129108360193,
+            29.15534777282172
+          ]
+        ],
+        "lengthFt": 76.61,
+        "nearestStreet": "SW 146TH AVE",
+        "roadCenterlineDistanceFt": 31.83,
+        "frontBearingDegrees": 269.82,
+        "gridFrontBearingDegrees": 270.0
+      },
+      "depthFtApprox": 136.94,
+      "edges": [
+        {
+          "index": 0,
+          "coordinates": [
+            [
+              -82.36086092048934,
+              29.155134683553978
+            ],
+            [
+              -82.36129034626681,
+              29.15513709017202
+            ]
+          ],
+          "lengthFt": 137.07,
+          "nearestStreet": "SW 146TH AVE",
+          "roadCenterlineDistanceFt": 100.46,
+          "frontBearingDegrees": 180.37,
+          "gridFrontBearingDegrees": 180.54
+        },
+        {
+          "index": 1,
+          "coordinates": [
+            [
+              -82.36129034626681,
+              29.15513709017202
+            ],
+            [
+              -82.36129108360193,
+              29.15534777282172
+            ]
+          ],
+          "lengthFt": 76.61,
+          "nearestStreet": "SW 146TH AVE",
+          "roadCenterlineDistanceFt": 31.83,
+          "frontBearingDegrees": 269.82,
+          "gridFrontBearingDegrees": 270.0
+        },
+        {
+          "index": 2,
+          "coordinates": [
+            [
+              -82.36129108360193,
+              29.15534777282172
+            ],
+            [
+              -82.3608624471471,
+              29.15534647476597
+            ]
+          ],
+          "lengthFt": 136.82,
+          "nearestStreet": "SW 146TH AVE",
+          "roadCenterlineDistanceFt": 100.14,
+          "frontBearingDegrees": 0.2,
+          "gridFrontBearingDegrees": 0.37
+        },
+        {
+          "index": 3,
+          "coordinates": [
+            [
+              -82.3608624471471,
+              29.15534647476597
+            ],
+            [
+              -82.36086092048934,
+              29.155134683553978
+            ]
+          ],
+          "lengthFt": 77.01,
+          "nearestStreet": "SW 145TH CT",
+          "roadCenterlineDistanceFt": 157.13,
+          "frontBearingDegrees": 89.64,
+          "gridFrontBearingDegrees": 89.81
+        }
+      ],
+      "precision": "Polígono catastral oficial; coincide con el pin aportado. No es un levantamiento topográfico.",
+      "source": "Marion County GIS / Marion County Property Appraiser",
+      "parcelSourceURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3611881%2C+%22y%22%3A+29.1552723%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+      "roadsSourceURL": "https://gis.marionfl.org/public/rest/services/General/Streets/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3611881%2C+%22y%22%3A+29.1552723%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STREET%2CROAD_TYPE%2CRESP_MAINT%2CCLASS&returnGeometry=true&outSR=2237&distance=90&units=esriSRUnit_Meter",
+      "frontBasis": "Lado de unos 76ft más próximo a la línea central de una calle en el GIS oficial. Orientación estimada, sujeta al acceso y levantamiento final.",
+      "inventoryStatus": "Ubicación aportada por el cliente; disponibilidad comercial y titularidad no verificadas",
+      "countyAlternateKey": 486876
+    }
+  ]
+}

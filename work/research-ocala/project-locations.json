@@ -1,0 +1,172 @@
+{
+  "asOf": "2026-10-13",
+  "coordinateSystem": "WGS84 / EPSG:4326",
+  "mapNote": "Ubicaciones de referencia para explorar el entorno regional. Los marcadores identifican direcciones, accesos o intersecciones; no representan linderos de los proyectos.",
+  "locations": [
+    {
+      "id": "classic-mile",
+      "name": "Classic Mile",
+      "lat": 29.163037,
+      "lon": -82.343067,
+      "precision": "Dirección aproximada sobre la vía",
+      "sourceURL": "https://www.ocala-news.com/2024/07/19/700-acre-horse-park-bought-by-wec-owners-for-nearly-27-million/",
+      "geocoderURL": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=13750+W+Highway+40%2C+Ocala%2C+FL+34481&benchmark=Public_AR_Current&format=json",
+      "basis": "13750 W Highway 40 publicado en el reporte de la adquisición. Coordenada interpolada del US Census Geocoder, no centro ni lindero del predio.",
+      "matchedAddress": "13750 STATE HWY 40, OCALA, FL, 34481",
+      "projectIds": [
+        "classic-mile"
+      ]
+    },
+    {
+      "id": "wec-deportivo",
+      "name": "Expansión deportiva del WEC",
+      "lat": 29.186917,
+      "lon": -82.285018,
+      "precision": "Intersección de referencia del sector",
+      "sourceURL": "https://www.marionfl.org/agencies-departments/departments-facilities-offices/growth-services/planning-zoning/wec-application-2026",
+      "geocoderURL": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=NW+100th+Ave+%26+W+Highway+40%2C+Ocala%2C+FL&f=json&outFields=%2A&maxLocations=1",
+      "basis": "Intersección SR 40 / NW 100th Avenue como referencia del extremo suroeste del sector del proyecto. El complejo se propone al norte de SR 40, hacia NW 80th. No es una huella de edificio ni el centro del predio. Esri devuelve StreetInt con puntuación 100.",
+      "matchedAddress": "NW 100th Ave & W Highway 40, Ocala, Florida, 34482",
+      "projectIds": [
+        "wec-deportivo"
+      ]
+    },
+    {
+      "id": "wec-hospitalidad",
+      "name": "The Equestrian Manor / Shoppes Off 80th",
+      "lat": 29.204014,
+      "lon": -82.252532,
+      "precision": "Referencia del conjunto de hospitalidad",
+      "sourceURL": "https://worldequestriancenter.com/growth/",
+      "geocoderURL": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=8050+NW+17th+Pl%2C+Ocala%2C+FL+34482&f=json&outFields=%2A&maxLocations=1",
+      "basis": "Punto de referencia en 8050 NW 17th Pl (The Equestrian Manor); Shoppes Off 80th anunciado junto al Manor y Riding Academy. Esri devuelve PointAddress con puntuación 100. Marcador compartido del conjunto, no ubicación de cada tienda.",
+      "matchedAddress": "8050 NW 17th Pl, Ocala, Florida, 34482",
+      "projectIds": [
+        "manor",
+        "shoppes"
+      ],
+      "addressSourceURL": "https://starwinelist.com/wine-place/genievieves"
+    },
+    {
+      "id": "eone",
+      "name": "E-ONE: expansión industrial",
+      "lat": 29.165782,
+      "lon": -82.214365,
+      "precision": "Dirección aproximada sobre la vía",
+      "sourceURL": "https://ocala.legistar.com/LegislationDetail.aspx?GUID=EC7BFE32-964A-4829-A62F-BEA3634DA049&ID=7996104&Options=&Search=",
+      "geocoderURL": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2929+SW+57th+Avenue%2C+Ocala%2C+FL+34474&benchmark=Public_AR_Current&format=json",
+      "basis": "Dirección de campus del expediente municipal: 2929 SW 57th Avenue. Coordenada interpolada del US Census Geocoder, no centro ni lindero del predio.",
+      "matchedAddress": "2929 SW 57TH AVE, OCALA, FL, 34474",
+      "projectIds": [
+        "eone"
+      ]
+    },
+    {
+      "id": "i75-norte",
+      "name": "I-75: corredor norte",
+      "lat": 29.186284,
+      "lon": -82.184606,
+      "precision": "Intersección representativa del corredor",
+      "sourceURL": "https://www.cflroads.com/project/452074-1",
+      "geocoderURL": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=I-75+%26+W+Silver+Springs+Blvd%2C+Ocala%2C+FL&f=json&outFields=%2A&maxLocations=1",
+      "basis": "Intersección de I-75 y SR 40 / W Silver Springs Boulevard dentro del tramo SR 200–SR 326. Esri devuelve StreetInt. Es un punto representativo de la obra, no su extensión.",
+      "matchedAddress": "I-75 N & W Silver Springs Blvd, Ocala, Florida, 34474",
+      "projectIds": [
+        "i75-norte"
+      ]
+    },
+    {
+      "id": "nw49",
+      "name": "Nuevo enlace I-75 / NW 49th Street",
+      "lat": 29.237809,
+      "lon": -82.190006,
+      "precision": "Punto medio del tramo mostrado por FDOT",
+      "sourceURL": "https://www.cflroads.com/project/435209-1",
+      "basis": "Promedio de los dos puntos de pathCoordinates del mapa oficial de FDOT: (29.2383909,-82.189999), (29.2372262,-82.190012). Representa la localización del intercambiador; no sus límites de obra.",
+      "projectIds": [
+        "nw49"
+      ]
+    },
+    {
+      "id": "heathbrook",
+      "name": "AdventHealth Heathbrook ER",
+      "lat": 29.146266,
+      "lon": -82.189316,
+      "precision": "Dirección aproximada sobre la vía",
+      "sourceURL": "https://www.adventhealth.com/news/adventhealth-cuts-ribbon-new-freestanding-emergency-department-meant-bring-faster-expert-emergency",
+      "geocoderURL": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=3941+SW+College+Road%2C+Ocala%2C+FL+34474&benchmark=Public_AR_Current&format=json",
+      "basis": "3941 SW College Road, dirección publicada por AdventHealth el 8 de enero de 2026. Coordenada interpolada del US Census Geocoder, no centro ni lindero del predio.",
+      "matchedAddress": "3941 SW COLLEGE RD, OCALA, FL, 34474",
+      "projectIds": [
+        "heathbrook"
+      ]
+    },
+    {
+      "id": "medical-office",
+      "name": "AdventHealth: edificio de especialidades",
+      "lat": 29.176667,
+      "lon": -82.140333,
+      "precision": "Dirección aproximada sobre la vía",
+      "sourceURL": "https://www.adventhealth.com/news/adventhealth-ocala-celebrates-grand-opening-new-medical-office-building",
+      "geocoderURL": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1219+South+Pine+Avenue%2C+Ocala%2C+FL+34471&benchmark=Public_AR_Current&format=json",
+      "basis": "1219 South Pine Avenue, dirección publicada por AdventHealth el 12 de junio de 2025. Coordenada interpolada del US Census Geocoder, no centro ni lindero del predio.",
+      "matchedAddress": "1219 S PINE AVE, OCALA, FL, 34471",
+      "projectIds": [
+        "medical-office"
+      ]
+    },
+    {
+      "id": "i75-sur",
+      "name": "I-75: conexión hacia el sur",
+      "lat": 29.150515,
+      "lon": -82.18491,
+      "precision": "Extremo norte del corredor",
+      "sourceURL": "https://www.cflroads.com/project/452074-2",
+      "geocoderURL": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=I-75+%26+SW+College+Rd%2C+Ocala%2C+FL&f=json&outFields=%2A&maxLocations=1",
+      "basis": "Intersección I-75 / SR 200 (SW College Road), límite norte del corredor de 23 millas que llega al sur de SR 44. Esri devuelve StreetInt. Punto representativo, no centro de toda la intervención.",
+      "matchedAddress": "I-75 N & SW College Rd, Ocala, Florida, 34474",
+      "projectIds": [
+        "i75-sur"
+      ]
+    },
+    {
+      "id": "smokey-willow",
+      "name": "Smokey Willow Farm",
+      "lat": 29.216456,
+      "lon": -82.284693,
+      "precision": "Dirección aproximada sobre la vía",
+      "sourceURL": "https://www.ocala-news.com/2025/12/15/wec-owners-purchase-ocala-horse-farm-for-7-5-million/",
+      "geocoderURL": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2599+NW+100th+Avenue%2C+Ocala%2C+FL+34482&benchmark=Public_AR_Current&format=json",
+      "basis": "2599 NW 100th Avenue según el reporte de adquisición. Coordenada interpolada del US Census Geocoder, no centro ni lindero del predio.",
+      "matchedAddress": "2599 NW 100TH AVE, OCALA, FL, 34482",
+      "projectIds": [
+        "smokey-willow"
+      ]
+    },
+    {
+      "id": "jockey-club",
+      "name": "Ocala Jockey Club",
+      "lat": 29.408968,
+      "lon": -82.268076,
+      "precision": "Dirección aproximada del acceso",
+      "sourceURL": "https://www.jumpmediallc.com/news/World_Equestrian_Center_Acquires_Iconic_Ocala_Jockey_Club_Property-08-05-2021/3728",
+      "geocoderURL": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=8720+W+Highway+318%2C+Reddick%2C+FL+32686&f=json&outFields=%2A&maxLocations=1",
+      "basis": "8720 W Highway 318, Reddick. Esri devuelve PointAddress con puntuación 100. Situado en el norte de Marion County; fuera del entorno inmediato de Rainbow Park.",
+      "matchedAddress": "8720 W Highway 318, Reddick, Florida, 32686",
+      "projectIds": [
+        "jockey-club"
+      ],
+      "addressSourceURL": "https://www.ocalajc.com/contact.html"
+    }
+  ],
+  "linework": {
+    "file": "fdot-corridors.json",
+    "source": "Coordenadas públicas de los mapas oficiales de cada proyecto FDOT",
+    "usage": "Se pueden dibujar las líneas provistas como trazado orientativo; no convertirlas en polígonos de propiedad."
+  },
+  "rejectedResults": [
+    "La búsqueda genérica World Equestrian Center en Esri devolvió el centro urbano de Ocala: descartada.",
+    "I-75 & NW 49th St se interpretó como número de casa 75: descartado. Se sustituyó por geometría oficial FDOT.",
+    "NW 49th St & NW 35th Ave devolvió calles invertidas: descartado."
+  ]
+}

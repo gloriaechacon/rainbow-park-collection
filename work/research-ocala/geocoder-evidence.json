@@ -1,0 +1,252 @@
+[
+  {
+    "id": "classic-mile",
+    "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=13750+W+Highway+40%2C+Ocala%2C+FL+34481&benchmark=Public_AR_Current&format=json",
+    "data": {
+      "result": {
+        "input": {
+          "address": {
+            "address": "13750 W Highway 40, Ocala, FL 34481"
+          },
+          "benchmark": {
+            "isDefault": true,
+            "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+            "id": "4",
+            "benchmarkName": "Public_AR_Current"
+          }
+        },
+        "addressMatches": [
+          {
+            "tigerLine": {
+              "side": "R",
+              "tigerLineId": "637644739"
+            },
+            "coordinates": {
+              "x": -82.343066870223,
+              "y": 29.163037410785
+            },
+            "addressComponents": {
+              "zip": "34481",
+              "streetName": "40",
+              "preType": "STATE HWY",
+              "city": "OCALA",
+              "preDirection": "",
+              "suffixDirection": "",
+              "fromAddress": "13798",
+              "state": "FL",
+              "suffixType": "",
+              "toAddress": "13700",
+              "suffixQualifier": "",
+              "preQualifier": ""
+            },
+            "matchedAddress": "13750 STATE HWY 40, OCALA, FL, 34481"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "wec-campus",
+    "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1750+NW+80th+Ave%2C+Ocala%2C+FL+34482&benchmark=Public_AR_Current&format=json",
+    "data": {
+      "result": {
+        "input": {
+          "address": {
+            "address": "1750 NW 80th Ave, Ocala, FL 34482"
+          },
+          "benchmark": {
+            "isDefault": true,
+            "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+            "id": "4",
+            "benchmarkName": "Public_AR_Current"
+          }
+        },
+        "addressMatches": []
+      }
+    }
+  },
+  {
+    "id": "eone",
+    "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2929+SW+57th+Avenue%2C+Ocala%2C+FL+34474&benchmark=Public_AR_Current&format=json",
+    "data": {
+      "result": {
+        "input": {
+          "address": {
+            "address": "2929 SW 57th Avenue, Ocala, FL 34474"
+          },
+          "benchmark": {
+            "isDefault": true,
+            "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+            "id": "4",
+            "benchmarkName": "Public_AR_Current"
+          }
+        },
+        "addressMatches": [
+          {
+            "tigerLine": {
+              "side": "R",
+              "tigerLineId": "647942425"
+            },
+            "coordinates": {
+              "x": -82.214364800705,
+              "y": 29.16578197165
+            },
+            "addressComponents": {
+              "zip": "34474",
+              "streetName": "57TH",
+              "preType": "",
+              "city": "OCALA",
+              "preDirection": "SW",
+              "suffixDirection": "",
+              "fromAddress": "2929",
+              "state": "FL",
+              "suffixType": "AVE",
+              "toAddress": "2901",
+              "suffixQualifier": "",
+              "preQualifier": ""
+            },
+            "matchedAddress": "2929 SW 57TH AVE, OCALA, FL, 34474"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "heathbrook",
+    "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=3941+SW+College+Road%2C+Ocala%2C+FL+34474&benchmark=Public_AR_Current&format=json",
+    "data": {
+      "result": {
+        "input": {
+          "address": {
+            "address": "3941 SW College Road, Ocala, FL 34474"
+          },
+          "benchmark": {
+            "isDefault": true,
+            "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+            "id": "4",
+            "benchmarkName": "Public_AR_Current"
+          }
+        },
+        "addressMatches": [
+          {
+            "tigerLine": {
+              "side": "L",
+              "tigerLineId": "638649864"
+            },
+            "coordinates": {
+              "x": -82.1893157188,
+              "y": 29.146265695251
+            },
+            "addressComponents": {
+              "zip": "34474",
+              "streetName": "COLLEGE",
+              "preType": "",
+              "city": "OCALA",
+              "preDirection": "SW",
+              "suffixDirection": "",
+              "fromAddress": "4099",
+              "state": "FL",
+              "suffixType": "RD",
+              "toAddress": "3931",
+              "suffixQualifier": "",
+              "preQualifier": ""
+            },
+            "matchedAddress": "3941 SW COLLEGE RD, OCALA, FL, 34474"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "medical-office",
+    "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1219+South+Pine+Avenue%2C+Ocala%2C+FL+34471&benchmark=Public_AR_Current&format=json",
+    "data": {
+      "result": {
+        "input": {
+          "address": {
+            "address": "1219 South Pine Avenue, Ocala, FL 34471"
+          },
+          "benchmark": {
+            "isDefault": true,
+            "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+            "id": "4",
+            "benchmarkName": "Public_AR_Current"
+          }
+        },
+        "addressMatches": [
+          {
+            "tigerLine": {
+              "side": "L",
+              "tigerLineId": "116821250"
+            },
+            "coordinates": {
+              "x": -82.140333452303,
+              "y": 29.176667184596
+            },
+            "addressComponents": {
+              "zip": "34471",
+              "streetName": "PINE",
+              "preType": "",
+              "city": "OCALA",
+              "preDirection": "S",
+              "suffixDirection": "",
+              "fromAddress": "1201",
+              "state": "FL",
+              "suffixType": "AVE",
+              "toAddress": "1299",
+              "suffixQualifier": "",
+              "preQualifier": ""
+            },
+            "matchedAddress": "1219 S PINE AVE, OCALA, FL, 34471"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "smokey-willow",
+    "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2599+NW+100th+Avenue%2C+Ocala%2C+FL+34482&benchmark=Public_AR_Current&format=json",
+    "data": {
+      "result": {
+        "input": {
+          "address": {
+            "address": "2599 NW 100th Avenue, Ocala, FL 34482"
+          },
+          "benchmark": {
+            "isDefault": true,
+            "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+            "id": "4",
+            "benchmarkName": "Public_AR_Current"
+          }
+        },
+        "addressMatches": [
+          {
+            "tigerLine": {
+              "side": "R",
+              "tigerLineId": "635625806"
+            },
+            "coordinates": {
+              "x": -82.284693429848,
+              "y": 29.216455866195
+            },
+            "addressComponents": {
+              "zip": "34482",
+              "streetName": "100TH",
+              "preType": "",
+              "city": "OCALA",
+              "preDirection": "NW",
+              "suffixDirection": "",
+              "fromAddress": "2101",
+              "state": "FL",
+              "suffixType": "AVE",
+              "toAddress": "2699",
+              "suffixQualifier": "",
+              "preQualifier": ""
+            },
+            "matchedAddress": "2599 NW 100TH AVE, OCALA, FL, 34482"
+          }
+        ]
+      }
+    }
+  }
+]

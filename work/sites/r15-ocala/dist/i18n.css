@@ -1,0 +1,19 @@
+.rpc-language-control{display:inline-flex;align-items:center;gap:5px;flex-shrink:0;color:inherit;font:12px Arial,sans-serif;letter-spacing:0;border:1px solid currentColor;border-radius:24px;padding:0 10px;min-height:38px;opacity:.95}
+.rpc-language-control>span{font-size:21px;line-height:1}
+.rpc-language-control select{font:inherit;color:inherit;background:transparent;border:0;cursor:pointer;min-height:38px;width:85px;max-width:none;padding:0 3px;outline-offset:3px}
+.rpc-language-control option{color:#213b2e;background:#f6f4ec}
+.rpc-language-control:focus-within{outline:2px solid #b99755;outline-offset:3px}
+.topbar .header-caption{margin-left:auto}.topbar{gap:20px}.chapter-dock .rpc-language-control{margin-left:auto;min-height:34px;font-size:10px}.chapter-dock .rpc-language-control select{min-height:34px;width:76px}
+.chapter-dock{padding-right:2vw!important}.chapter-dock .dock-home{position:static!important;margin-right:auto}
+.dossier-header .rpc-language-control{margin-left:auto}.dossier-header{gap:16px}
+@media(max-width:1100px){.topbar .header-caption{display:none}.topbar .rpc-language-control{margin-left:auto}.chapter-dock a{padding-inline:10px!important}.chapter-dock .dock-brand-copy{display:none}}
+@media(max-width:700px){.rpc-language-control{font-size:10px;padding:0 7px;gap:2px;min-height:36px}.rpc-language-control select{width:73px;min-height:36px}.rpc-language-control>span{display:none}.topbar{gap:9px}.topbar .menu-toggle{font-size:11px;padding-inline:4px}.chapter-dock{overflow-x:auto;justify-content:flex-start!important;gap:1px!important}.chapter-dock a{font-size:10px!important;padding-inline:8px!important;white-space:nowrap}.chapter-dock .rpc-language-control{margin-right:7px}.chapter-dock .rpc-language-control select{width:68px;font-size:9px}header:has(.studio-models){flex-wrap:wrap}body:has(#view)>header{padding:12px;gap:8px}body:has(#view)>header>a:first-child{font-size:15px;max-width:155px}.dossier-header{flex-wrap:wrap}.dossier-header .rpc-language-control{margin-left:0}.hero h1{overflow-wrap:normal}}
+@media print{.rpc-language-control{display:none}}
+
+@media(max-width:700px){
+.topbar{padding-inline:16px;gap:8px}.topbar .brand{flex:1;min-width:0}.topbar .hero-byline{display:none}.topbar .menu-toggle{gap:5px;font-size:10px;flex-shrink:0}.topbar .brand svg{width:24px;flex-shrink:0}
+.chapter-dock,.chapter-dock.visible{display:grid;grid-template-columns:repeat(10,minmax(0,1fr));grid-template-rows:52px 42px;height:104px;overflow:visible;gap:0!important;padding:3px 10px 7px!important;max-width:100%;}
+.chapter-dock .dock-home{grid-column:1/8;grid-row:1;justify-self:start;margin:0!important;gap:6px!important;min-height:44px}.chapter-dock .dock-title{font-size:16px}.chapter-dock .dock-title small{font-size:6px;letter-spacing:2px}.chapter-dock .dock-home svg{width:21px;height:25px}.chapter-dock .dock-byline{padding-left:6px;gap:3px}.chapter-dock .fraga-logo{width:51px;height:25px}.chapter-dock .dock-byline em{font-size:7px}
+.chapter-dock .rpc-language-control{grid-column:8/11;grid-row:1;justify-self:end;margin:0;max-width:100%;padding-inline:6px}.chapter-dock .rpc-language-control select{width:70px;font-size:10px}
+.chapter-dock>a:not(.dock-home){grid-column:span 2;grid-row:2;padding:8px 1px!important;font-size:10px!important;min-width:0;min-height:40px}
+}

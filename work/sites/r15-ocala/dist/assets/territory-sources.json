@@ -1,0 +1,45 @@
+{
+  "wec": {
+    "image": "territory-wec.jpg",
+    "source": "https://worldequestriancenter.com/growth/",
+    "image_url": "https://worldequestriancenter.com/wp-content/uploads/2026/01/The-Equestrian-Manor_Exterior_PC-Maven-Photo-and-Film-1-2-818x545.jpg"
+  },
+  "downtown": {
+    "image": "territory-downtown.jpg",
+    "source": "https://www.ocalamarion.com/blog/explore-historic-downtown-ocala/",
+    "image_url": "https://ocala.imgix.net/images/DowntownBoomerWalking_DM1538-mtime20191121135613.png?auto=compress%2Cformat&bg=%23ffffff&fit=max&fm=jpg&q=80&w=1024&s=5cc5f7ecd272cdbcb912f42bf433f7cc"
+  },
+  "nature": {
+    "image": "territory-nature.jpg",
+    "source": "https://www.ocalamarion.com/things-to-do/outdoors/parks/rainbow-springs-state-park/",
+    "image_url": "https://ocala.imgix.net/images/OMC-5364_Day1_RBSP_Morning_10169.jpg?auto=compress%2Cformat&bg=%23ffffff&fit=max&fm=jpg&q=80&w=1024&s=b408523db93d0ae461e4783b3fefb0db"
+  },
+  "reviewed": "2026-10-13",
+  "airport": {
+    "source": "https://www.ocalafl.gov/government/city-departments-i-z/ocala-international-airport",
+    "image": "territory-airport.svg",
+    "image_type": "Original conceptual editorial illustration; not a depiction of airport facilities"
+  },
+  "updates": [
+    {
+      "title": "The Equestrian Manor",
+      "source": "https://worldequestriancenter.com/growth/",
+      "status": "EN OPERACIÓN"
+    },
+    {
+      "title": "The Shoppes Off 80th",
+      "source": "https://worldequestriancenter.com/ocala-fl/shop/the-shoppes-of-80th/",
+      "status": "ANUNCIADO"
+    },
+    {
+      "title": "Sports at WEC",
+      "source": "https://worldequestriancenter.com/news/sports-at-wec-announces-campus-expansion-to-support-growing-youth-and-community-programming/",
+      "status": "AMPLIACIÓN"
+    },
+    {
+      "title": "The Equestrian Hotel",
+      "source": "https://worldequestriancenter.com/news/the-equestrian-hotel-at-world-equestrian-center-ocala-ranked-among-floridas-best-resorts-in-travel-leisure-2026-worlds-best-awards/",
+      "status": "RECONOCIMIENTO"
+    }
+  ]
+}

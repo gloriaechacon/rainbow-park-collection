@@ -1,0 +1,3102 @@
+[
+  {
+    "archivo": "outputs/casa-en-el-lote.png",
+    "bytes": 67757,
+    "sha256": "f866df77c71c8305159af78143b053dd48a5665efe11f556ff3474588e6cca56"
+  },
+  {
+    "archivo": "outputs/collection-update/DELIVERY-NOTES.txt",
+    "bytes": 2411,
+    "sha256": "f7b32f97724b1c7b7719d8866b54ffe29f4bad2f6e11fbe67b56f0ca90740d7b"
+  },
+  {
+    "archivo": "outputs/collection-update/bell-en-la-pagina.png",
+    "bytes": 57791,
+    "sha256": "233d2e98806806a725d2ff95592fb4e67e98f1b6c87d24102377aba505bb4a9f"
+  },
+  {
+    "archivo": "outputs/collection-update/lote-05-frente.png",
+    "bytes": 107749,
+    "sha256": "32ae0601929aac2aa54132b7937586eb467b11c3d2067fc9daeed271a81807e2"
+  },
+  {
+    "archivo": "outputs/collection-update/placement-audit.json",
+    "bytes": 4854,
+    "sha256": "f274bed70999e1ed9b2d72379be1a6f8935c2be82a9832e6f970c52adc0c188d"
+  },
+  {
+    "archivo": "outputs/collection-update/responsive-review.html",
+    "bytes": 303,
+    "sha256": "bb68643910ed32be888405bff358aa4b76182492fb6b9634c874635c2df515b6"
+  },
+  {
+    "archivo": "outputs/inversion/inversion-escritorio.png",
+    "bytes": 81573,
+    "sha256": "4a1b8a632f5414c859d6acbb6d6fc03428d4de266415614f212fee8bf23c7006"
+  },
+  {
+    "archivo": "outputs/inversion/inversion-movil.png",
+    "bytes": 33525,
+    "sha256": "15a9a500dd6574086261a75d62441f167a31e39f1d277cb514914f9de761e8db"
+  },
+  {
+    "archivo": "outputs/inversion/wec-documentado.png",
+    "bytes": 106921,
+    "sha256": "4cb959da545c13d47710a820a498a5a126111516743e1e377d027bd406af5b25"
+  },
+  {
+    "archivo": "outputs/model-finishes/bell-distribucion.jpg",
+    "bytes": 68952,
+    "sha256": "d2099fe44f618f4ae6bd75b7e15d779db675d3b3ed4f133f645f2ee65d61dc78"
+  },
+  {
+    "archivo": "outputs/model-finishes/concrete-color.jpg",
+    "bytes": 233407,
+    "sha256": "930cf5f1651c10ca6b4787be9caaaed605a08c15521ea7cc7fdf6d8eda8c4326"
+  },
+  {
+    "archivo": "outputs/model-finishes/concrete-normal.jpg",
+    "bytes": 387091,
+    "sha256": "eb1a404f575501cfc15a53063e6b544762a4373f9516d5890ff8167b1ebcc980"
+  },
+  {
+    "archivo": "outputs/model-finishes/concrete-rough.jpg",
+    "bytes": 39420,
+    "sha256": "4a327f5134923de56641f5f469dd9beb3977e0784c439b7ebc2a4b9875b75fe0"
+  },
+  {
+    "archivo": "outputs/model-finishes/limestone-color.jpg",
+    "bytes": 69270,
+    "sha256": "b97c584a95db9a245e85e474ec4e6d16f5126c6eb95c87004b93ab6542f64174"
+  },
+  {
+    "archivo": "outputs/model-finishes/limestone-normal.jpg",
+    "bytes": 117940,
+    "sha256": "75cf9546b1b816f05df81b4e1d9e547384b4dcbcdcd4d6fef98866d80e3769e0"
+  },
+  {
+    "archivo": "outputs/model-finishes/limestone-rough.jpg",
+    "bytes": 46795,
+    "sha256": "031615df9aeab08ad718b1506c7bd3ed3244d888f7262c7e8a1822d57efa3a7d"
+  },
+  {
+    "archivo": "outputs/model-finishes/linen-color.jpg",
+    "bytes": 151949,
+    "sha256": "d5aa41b39251dc38767bf85112024149a1024d3f317ac3dc73264152670f9aeb"
+  },
+  {
+    "archivo": "outputs/model-finishes/linen-normal.jpg",
+    "bytes": 385151,
+    "sha256": "a6619cab6e9a3685297bce71846e371e4dcf2abb05b276d5475e1d278af1578b"
+  },
+  {
+    "archivo": "outputs/model-finishes/linen-rough.jpg",
+    "bytes": 48250,
+    "sha256": "3bbb91a03d4576c9fd874c9b55f46575d039c15c2e8b1c2ee40bb77b14b325e4"
+  },
+  {
+    "archivo": "outputs/model-finishes/oak-color.jpg",
+    "bytes": 117285,
+    "sha256": "4ef96619ea994982307f7f1519246c57de9d4372f11e6c798b7b684a203a05dc"
+  },
+  {
+    "archivo": "outputs/model-finishes/oak-normal.jpg",
+    "bytes": 228658,
+    "sha256": "5b4afde0d8dd1ee2d41cd03cc9fb0d6fd85191c7d8c519ddb26fdd0483bc979d"
+  },
+  {
+    "archivo": "outputs/model-finishes/oak-rough.jpg",
+    "bytes": 117651,
+    "sha256": "5341b5f804c9038456d43fe440082210a8b91bb08679d9b86a6087389b1719c4"
+  },
+  {
+    "archivo": "outputs/model-finishes/pagina-portugues.jpg",
+    "bytes": 47498,
+    "sha256": "013a932ca2952b7b966895d33f77aaa61f78a2d5d5a596bff0b00e994439b9af"
+  },
+  {
+    "archivo": "outputs/model-finishes/planks-color.jpg",
+    "bytes": 130948,
+    "sha256": "533c571876c07c37244ae4526d07468b4230e363bbb79624c79a215573badb6c"
+  },
+  {
+    "archivo": "outputs/model-finishes/planks-normal.jpg",
+    "bytes": 239567,
+    "sha256": "cc5ddfa2712ddb8bd98ef1d8d343b27c03954d63358d92ea58c58e4847a475d3"
+  },
+  {
+    "archivo": "outputs/model-finishes/planks-rough.jpg",
+    "bytes": 117685,
+    "sha256": "e3a35c1861a4a022c481340d06db084e467f995efd33b64d733f8831433dc603"
+  },
+  {
+    "archivo": "outputs/model-finishes/quartz-color.jpg",
+    "bytes": 39799,
+    "sha256": "c8911fefd47a3c190961241a8f1a57890f9efba71059876ee76495c81d00840a"
+  },
+  {
+    "archivo": "outputs/model-finishes/quartz-normal.jpg",
+    "bytes": 17494,
+    "sha256": "d89fd8921f443fc7db6a82ee76525207fb90ebc80528c81d5ad3ef339f3e5020"
+  },
+  {
+    "archivo": "outputs/model-finishes/quartz-rough.jpg",
+    "bytes": 24260,
+    "sha256": "193e574b11029eb9cafb05788859eb2caad84e3122baf010011a7368a692c9c5"
+  },
+  {
+    "archivo": "outputs/model-finishes/roof-color.jpg",
+    "bytes": 357548,
+    "sha256": "9221091d8faeb8fa97a02709b17b331988dd0822a944354466b8a11649c941d8"
+  },
+  {
+    "archivo": "outputs/model-finishes/roof-normal.jpg",
+    "bytes": 258154,
+    "sha256": "042786d3ca218dc0306d87587fcd47ce6844e0b0a119b56b5274e9b6eb7ff846"
+  },
+  {
+    "archivo": "outputs/model-finishes/roof-rough.jpg",
+    "bytes": 59625,
+    "sha256": "3b3b80bfc2674c571e49ce9772cc8c6f84886c0330934268cc28ad0d6470dd73"
+  },
+  {
+    "archivo": "outputs/model-finishes/stucco-color.jpg",
+    "bytes": 96845,
+    "sha256": "42f37f7daf4b7c9f599356a18041e586b9f1b3a7a5921d29e35d8ca9eab2e3c4"
+  },
+  {
+    "archivo": "outputs/model-finishes/stucco-normal.jpg",
+    "bytes": 183597,
+    "sha256": "aa0dea5decd0e054eac290f224a0ab41cd092e22a798926fe9c516f346dca6e7"
+  },
+  {
+    "archivo": "outputs/model-finishes/stucco-rough.jpg",
+    "bytes": 72640,
+    "sha256": "00a0ca4684501b795397964bb4e703ca5ccef058db88a82eb7db09b939394953"
+  },
+  {
+    "archivo": "outputs/model-finishes/tile-color.jpg",
+    "bytes": 69398,
+    "sha256": "e20a5d979ac8b60c14724ecaa8c17b233349d756be9d184e830e7e87f08a8343"
+  },
+  {
+    "archivo": "outputs/model-finishes/tile-normal.jpg",
+    "bytes": 118365,
+    "sha256": "fbdd6035c3ae366752f29cf4ddc9122f87b5a0c8d6e2cf73fec5d07eb029201f"
+  },
+  {
+    "archivo": "outputs/model-finishes/tile-rough.jpg",
+    "bytes": 47869,
+    "sha256": "1356cc3e87428a1b9d673e77199a53d5ce898e13bf85c35672630978ea43e365"
+  },
+  {
+    "archivo": "outputs/model-finishes/utah-interior-portugues.jpg",
+    "bytes": 60158,
+    "sha256": "23cb946a248d9773a917f8f6e0e9e039bbb031a82bcd14c44afe711bea764a1f"
+  },
+  {
+    "archivo": "outputs/rainbow-cesium-casa.png",
+    "bytes": 91934,
+    "sha256": "6a8585392e859fec503fbd845123776f5aec8c8c982c9d137d18756bf082cd3c"
+  },
+  {
+    "archivo": "outputs/rainbow-cesium.png",
+    "bytes": 206514,
+    "sha256": "d75efef535fd4822e8a24b201867b6f9cb899fd58c6737433433d4b1b72566f2"
+  },
+  {
+    "archivo": "outputs/rainbow-comparacion-modelos.png",
+    "bytes": 60043,
+    "sha256": "3740e408d346c0775e8caa5e21d977022f9334ae8424d6296b3c0e84f13a1639"
+  },
+  {
+    "archivo": "outputs/rainbow-demo-final.png",
+    "bytes": 159581,
+    "sha256": "746568348737c8ade15c8921917ca31e3e73545991f3a6b7489aad4da23ba86b"
+  },
+  {
+    "archivo": "outputs/rainbow-demo-interior.png",
+    "bytes": 127615,
+    "sha256": "e6d2c9029b421081332add601283ff517f74fb1ae7c319d3b82938ab16a942c8"
+  },
+  {
+    "archivo": "outputs/rainbow-inmersivo-movil.png",
+    "bytes": 33145,
+    "sha256": "53d09e9d9d25134238498bcd8a13b804b945b2ac94deb76d4acf6204c30522bb"
+  },
+  {
+    "archivo": "outputs/rainbow-park-nueva-portada.png",
+    "bytes": 95885,
+    "sha256": "380151912718676a47e36df0425003a41cf38de7c70ca9fe341a1c420f7a9b5f"
+  },
+  {
+    "archivo": "outputs/rainbow-propuesta-experiencia-terreno.png",
+    "bytes": 3255695,
+    "sha256": "212b1caf9b2191a6b86d38f17903198c4d9a652075d1669d90aef0ea621f52d0"
+  },
+  {
+    "archivo": "outputs/rainbow-relieve-color.png",
+    "bytes": 159270,
+    "sha256": "4523ef51fa5b5ae055b665ed3160eee6f43ab23035c5f1ddc6b269db07400c87"
+  },
+  {
+    "archivo": "outputs/rainbow-sin-relieve.png",
+    "bytes": 202184,
+    "sha256": "c7f4693151c4c1d132dc9d4adb4ea107107f6f9555a153607a870f2b6f6f7604"
+  },
+  {
+    "archivo": "outputs/rainbow-territorio-real.png",
+    "bytes": 166883,
+    "sha256": "d28cf27f43c49538d5264ef396a0d09bd3634112b298417da5325ba8e19b6afe"
+  },
+  {
+    "archivo": "outputs/recorrido-interior.png",
+    "bytes": 61757,
+    "sha256": "f075dfd7b92b04344eba30e0fd95982b40e4caf49fdcdbe5e8499fbf38bfc9c1"
+  },
+  {
+    "archivo": "outputs/territorio-renovado.png",
+    "bytes": 126703,
+    "sha256": "61ffc6db1293c52cba3686034dc4805ac1e4276f892b9cf39478a5ab08959420"
+  },
+  {
+    "archivo": "outputs/territorio/actualidad-desktop.png",
+    "bytes": 77528,
+    "sha256": "237d5d5ef8b1a979ca0edc85744652eb2ddca533338cf7f663431d18e8b01119"
+  },
+  {
+    "archivo": "outputs/territorio/actualidad-movil.png",
+    "bytes": 36318,
+    "sha256": "c90474ee10751f3e174ab7ed8288a3ba518995339f955c79b5fe3023342778dd"
+  },
+  {
+    "archivo": "outputs/territorio/entorno-aeropuerto.png",
+    "bytes": 94708,
+    "sha256": "cadd70dbd66f8f358a975f529dcc16a964d05aa710f5035dbdaa9889198a5cf2"
+  },
+  {
+    "archivo": "outputs/utah-v3/dormitorio.png",
+    "bytes": 31061,
+    "sha256": "4754cac7468d7fe355e442e7e83d17fd2b16be6bb5d8f03dff81e0be830f6030"
+  },
+  {
+    "archivo": "outputs/utah-v3/exterior.png",
+    "bytes": 37279,
+    "sha256": "6223c1d648d48578797ff70ef8a40d91274323849b305d33085f030fd04fd82b"
+  },
+  {
+    "archivo": "outputs/utah-v3/planta-3d.png",
+    "bytes": 32937,
+    "sha256": "33b846293a1498360a6f49a97ca4eafb545ac7b97620e9f329d81d59a6830566"
+  },
+  {
+    "archivo": "outputs/utah-v3/sala.png",
+    "bytes": 31700,
+    "sha256": "fcc04d0769056e14d4ad8e0c61992f4118f812c2241a4cd46f56fdf1a5e6b2fe"
+  },
+  {
+    "archivo": "outputs/utah/Acabados-v2.txt",
+    "bytes": 1008,
+    "sha256": "7df691aaf2fe3ffffd03d64126cfe1ecd5a1922888fa73877a208247fe4aaf3d"
+  },
+  {
+    "archivo": "outputs/utah/LEEME.txt",
+    "bytes": 2245,
+    "sha256": "32b4a62a93e3de533a280b754797bf65f2c4923bbda028dae46648b455b6328b"
+  },
+  {
+    "archivo": "outputs/utah/Utah-acabados-v2.glb",
+    "bytes": 19071948,
+    "sha256": "dcf53397753af833379edf056c67fdcc0da441b862315a6dfe2838a21962b23a"
+  },
+  {
+    "archivo": "outputs/utah/Utah-planta.svg",
+    "bytes": 183914,
+    "sha256": "f1f4c07ce072a003681c66fc095555e4f19ed08f6400cbcde844f93fa2b6ba89"
+  },
+  {
+    "archivo": "outputs/utah/Utah-propuesta-v1.skp",
+    "bytes": 10953809,
+    "sha256": "0bff3d3cb021b7b8277e15b5b548dba6c3ecf0071a17328c6d8a241320a50f1a"
+  },
+  {
+    "archivo": "outputs/utah/Utah-propuesta.glb",
+    "bytes": 14322924,
+    "sha256": "89fb2dbf5b515d060afba1ddadf2517514c3139e5d8d686fed811cf0895b720a"
+  },
+  {
+    "archivo": "outputs/utah/cabecera-next-fraga-transparente.png",
+    "bytes": 10667,
+    "sha256": "5e79efd1b98d729d4ed01c6121b781c10e0b7b649e3663bfde56a1c6f8a88ecc"
+  },
+  {
+    "archivo": "outputs/utah/utah-3d-cabecera-next-fraga.png",
+    "bytes": 54448,
+    "sha256": "e9815348dac94656cb6d2c93a3ee5d4ec29befb9311f3c41478cf635f00468ee"
+  },
+  {
+    "archivo": "outputs/utah/utah-acabados-concepto.png",
+    "bytes": 3608111,
+    "sha256": "6ffb33b797a834f4701cab7bb19c3eda398b5f28b32438a42bf79000dfb4c8a7"
+  },
+  {
+    "archivo": "outputs/utah/utah-anexo-modelo.png",
+    "bytes": 578010,
+    "sha256": "2d418f46330d7f451c39c93167dd9a4c1219306eab3d796789d3cb8726acab64"
+  },
+  {
+    "archivo": "outputs/utah/utah-catalogo-integrado.png",
+    "bytes": 152863,
+    "sha256": "a107e587e28ba4bffb8f85446dc268ca70ed62d4a1df94311f375a2419da003f"
+  },
+  {
+    "archivo": "outputs/utah/utah-cocina-concepto.png",
+    "bytes": 2283215,
+    "sha256": "d144f58cfe5aaec26560491d53460c1333d82eb44d83a3971e6cd82d52b9d93f"
+  },
+  {
+    "archivo": "outputs/utah/utah-cocina-modelo.png",
+    "bytes": 424057,
+    "sha256": "50aeea84d1d3d1ba8576d9e25acaae2ab3633cca1a7dc5878e249e4f65718919"
+  },
+  {
+    "archivo": "outputs/utah/utah-dormitorio-modelo.png",
+    "bytes": 1006817,
+    "sha256": "33b168c138c340f9f9afbdfc5180808b9bd80c2a53c8693fa2aa736409a92bd0"
+  },
+  {
+    "archivo": "outputs/utah/utah-en-mapa.png",
+    "bytes": 90700,
+    "sha256": "b6cfbcb2097051376b756ac9b00faacd9a965dc7b77d741b2a0c984c4d4f599b"
+  },
+  {
+    "archivo": "outputs/utah/utah-entorno-cuarto-acre.png",
+    "bytes": 80380,
+    "sha256": "56d03bc2a17e1a27fabbb4f7afda401851d309cd0e1c01c804de52556d2c3343"
+  },
+  {
+    "archivo": "outputs/utah/utah-estudio.png",
+    "bytes": 204426,
+    "sha256": "d9dbb37700a3a180437648a4c094359b49b4bba529a2417b7abac4367db1062b"
+  },
+  {
+    "archivo": "outputs/utah/utah-fachada-modelo.png",
+    "bytes": 512775,
+    "sha256": "390532123077d11703cf5fc00b18cea0b5d338cb11f6bf1d93023f5024af339b"
+  },
+  {
+    "archivo": "outputs/utah/utah-frente-corto-v2.png",
+    "bytes": 90871,
+    "sha256": "1e891b727e8cc582e51f501823c1cc4ce55ea29b76c2d4314c996847b9ee0a2e"
+  },
+  {
+    "archivo": "outputs/utah/utah-implantacion-modelo.png",
+    "bytes": 358945,
+    "sha256": "57f75bfbe7c5942b6c663368d2ace65f64c98dda9ebd2d937d4d61b83650f134"
+  },
+  {
+    "archivo": "outputs/utah/utah-materiales-v2.png",
+    "bytes": 59036,
+    "sha256": "5194249c82cd5cf692b6f68f15822050f8600dca41ec4610a7d6020614ca963e"
+  },
+  {
+    "archivo": "outputs/utah/utah-planta-web.png",
+    "bytes": 67737,
+    "sha256": "bb355fb175e97fe3fde7cf64078c0847d129f8cfeeebe6c8d8d76ccc331508f7"
+  },
+  {
+    "archivo": "outputs/utah/utah-sala-modelo.png",
+    "bytes": 520870,
+    "sha256": "31957b07eccb74bbc68a819b1fa1c1d1e54d8ffd7a34b03cec757e58b70dace6"
+  },
+  {
+    "archivo": "outputs/utah/utah-selector-dos-modelos.png",
+    "bytes": 54061,
+    "sha256": "3760c30447498a884915f66a64d18877d284f73008608f926063c3300ea1ae1e"
+  },
+  {
+    "archivo": "outputs/visual-hierarchy/inversion.jpg",
+    "bytes": 88837,
+    "sha256": "cba2cab0d4eead597559e7cf5448541ac2e153bc5186bc069b31f5a62778ac67"
+  },
+  {
+    "archivo": "work/bell-model/bell-fachada.png",
+    "bytes": 34365,
+    "sha256": "7e9b7d64ea3b1ce9a987c1e1f6bf9fff1545ef638a0b9f79e9845007b7b1fd6f"
+  },
+  {
+    "archivo": "work/bell-model/bell-planta-3d.png",
+    "bytes": 40867,
+    "sha256": "86cced6bff7a3428d117175fa4ef628c12dd39b8ad6dab8cd85b840ed67c60eb"
+  },
+  {
+    "archivo": "work/bell-model/build_bell.py",
+    "bytes": 29306,
+    "sha256": "2fe0c243ad87878695656d3dd8e74f51e4950c2a91ef504da0b76e00a96116ec"
+  },
+  {
+    "archivo": "work/bell-model/review.html",
+    "bytes": 3140,
+    "sha256": "1646dc36e35783709caeec3188c3ac297047642a65990fa4c913d7b600513424"
+  },
+  {
+    "archivo": "work/confirmed-lots/3YU7FPiFZGgV1gmC9.html",
+    "bytes": 224886,
+    "sha256": "444f558a2ff2e66e26ee92002d94ba51d564c3f85d85237c7e3562a5e996a95a"
+  },
+  {
+    "archivo": "work/confirmed-lots/AzAN3xu4XMK5UDVcA.html",
+    "bytes": 224556,
+    "sha256": "88a65d92e6161a2598c1b64f386cd1b0e23ff7585463d7f214a805ed1a09d947"
+  },
+  {
+    "archivo": "work/confirmed-lots/QtZ1aMbaiZ57RX2T7.html",
+    "bytes": 225608,
+    "sha256": "5fa4fcd471630859b20ea999e8fee698378d98f70cc5dc7860b297f5d96c77f6"
+  },
+  {
+    "archivo": "work/confirmed-lots/RKLdbHRtrHzyxjZ36.html",
+    "bytes": 225429,
+    "sha256": "fb3e1b08f4d021291248562acaf5c180b4000b82dcc30ba52312f51cd0cd4158"
+  },
+  {
+    "archivo": "work/confirmed-lots/add-final-pins.py",
+    "bytes": 2548,
+    "sha256": "ac2dd4b607830c04a7cb9492902cfad16d2b6bdf76826a379503ee639d17b703"
+  },
+  {
+    "archivo": "work/confirmed-lots/build-collection-terrain.py",
+    "bytes": 4033,
+    "sha256": "e99536ebe04c5a9c03c45e6f58a604b34d689f97deca6f0e0467a6f55bb3eba0"
+  },
+  {
+    "archivo": "work/confirmed-lots/build-lot-geography-final13.py",
+    "bytes": 5563,
+    "sha256": "a2ccd7e19cd87bd19b5c5d664c58cb112fbacc59e73ff6aeb7f778f5125026fc"
+  },
+  {
+    "archivo": "work/confirmed-lots/build-lot-geography.py",
+    "bytes": 5082,
+    "sha256": "b4548314e3ecc9f3994017d6104840d9ff995cfe41c820d6d496289223d5d51c"
+  },
+  {
+    "archivo": "work/confirmed-lots/check-placement.py",
+    "bytes": 1706,
+    "sha256": "e3ef406fd7f4ddca63f295cc093a3ffa2ddaf5c94adc507b2919ddc17df2f379"
+  },
+  {
+    "archivo": "work/confirmed-lots/collection-dem-source.tif",
+    "bytes": 1049850,
+    "sha256": "9319baa8f1238c7aa8ab5fb3f6d4bd9eee845dc44ca33e45b2aa239fb35f0da3"
+  },
+  {
+    "archivo": "work/confirmed-lots/collection-terrain-provenance.json",
+    "bytes": 2222,
+    "sha256": "3aec653c1fbea44e370b1e116a850ca428562284863c566fe114cf2ced00b0f6"
+  },
+  {
+    "archivo": "work/confirmed-lots/confirmed-lot-geography-final13.json",
+    "bytes": 77855,
+    "sha256": "d86fad7840a5ee54db0f7e37d2dacedd19b7fe1f7fda000048186b2201117818"
+  },
+  {
+    "archivo": "work/confirmed-lots/confirmed-lot-geography.json",
+    "bytes": 63478,
+    "sha256": "e5ee92d6b568ff0f79c815408fc9f9315a6399735d4e977efeb49631a1fcc53b"
+  },
+  {
+    "archivo": "work/confirmed-lots/confirmed-parcels-final13.geojson",
+    "bytes": 10825,
+    "sha256": "aa14bec05e07a2974c433a67f64f3aba27b93f2e5f6729c1dd5d276fb4c25f6f"
+  },
+  {
+    "archivo": "work/confirmed-lots/confirmed-parcels.geojson",
+    "bytes": 9228,
+    "sha256": "93c4f081b2361fa873b75a2f3021cf5ab2d5d4e66a0721afb02b79ea5225f21f"
+  },
+  {
+    "archivo": "work/confirmed-lots/cv3Yk7ZEWxuJxoNZA.html",
+    "bytes": 224798,
+    "sha256": "e1e44c01217ef449bc753dbc5a0c279678d97540bba2f335a3f7dae42457bac5"
+  },
+  {
+    "archivo": "work/confirmed-lots/dkEdyTc1Uh5jeSD89.html",
+    "bytes": 225111,
+    "sha256": "8f008611b80f72b14cc5a2c68aa3754bf17b05e68a7d8d4044937e953936eb00"
+  },
+  {
+    "archivo": "work/confirmed-lots/gf4cEFFMxmtkX4pr6.html",
+    "bytes": 225595,
+    "sha256": "b6f6fbc32ebb82c3aa4f44e37afc38a0d63e928477c95553c50cb2148621f53c"
+  },
+  {
+    "archivo": "work/confirmed-lots/hSBR6mwFy2DesUZDA.html",
+    "bytes": 224445,
+    "sha256": "e6ca560e418494f9d32ac33d067d76c6ecd51ef0f528b4d3cebc1f4fb9d976fa"
+  },
+  {
+    "archivo": "work/confirmed-lots/integrate-lots.py",
+    "bytes": 11964,
+    "sha256": "71d356629b91f19926dc51a4690c67ca93c2e6239448c8b874059b241812ffb9"
+  },
+  {
+    "archivo": "work/confirmed-lots/mynLnMyGwMwd7Vx69.html",
+    "bytes": 226331,
+    "sha256": "7a98cf789637a6b1b2b45beb70bad872b3ac6e918e003dfc859d16f68933eed1"
+  },
+  {
+    "archivo": "work/confirmed-lots/parcel-service.json",
+    "bytes": 15383,
+    "sha256": "145a81424a10e80fb610e5239db175cba41b98c9f57a703aa48483d6258a77f8"
+  },
+  {
+    "archivo": "work/confirmed-lots/pins-and-parcels-raw.json",
+    "bytes": 41148,
+    "sha256": "9c9c10faedeb6702ae003c59b15e158ca8e57efc85eb4386f9ba0159bf6b3280"
+  },
+  {
+    "archivo": "work/confirmed-lots/pins-and-parcels-roads-final13.json",
+    "bytes": 133297,
+    "sha256": "6c2fb9b7aaac118c917e8e375f6c31acffee4da4b2718b9687b823536a5b2281"
+  },
+  {
+    "archivo": "work/confirmed-lots/pins-and-parcels-roads.json",
+    "bytes": 110255,
+    "sha256": "cf861188886513bd6bb2aba4ca05e1922a72c2e9cd8e2eca561ac7271e181f5c"
+  },
+  {
+    "archivo": "work/confirmed-lots/query-parcels.py",
+    "bytes": 1532,
+    "sha256": "d791a1413bf8b3097d6b89a7962f2b4c028bdaa7a10735f0cc8e45cb6d8c0c72"
+  },
+  {
+    "archivo": "work/confirmed-lots/resolved-links.json",
+    "bytes": 6448,
+    "sha256": "4b3a02842594190b55ba4ad7703c03b201f097d64734a8dccaba0a25f9428bf6"
+  },
+  {
+    "archivo": "work/confirmed-lots/roads-dimensions.py",
+    "bytes": 1471,
+    "sha256": "a7caef6c5f1d6ddf8c4d7579ae92bf1c16e292e49e01b8733357ec7ad5b07ef0"
+  },
+  {
+    "archivo": "work/confirmed-lots/uRu7W8AQQXxGpJZ79.html",
+    "bytes": 224938,
+    "sha256": "5fd89872ad1eef1c9d579af58fab5a4ef04723d7fcc47eb9ac348309b6e1b196"
+  },
+  {
+    "archivo": "work/confirmed-lots/xHquFQMqNVojJxx1A.html",
+    "bytes": 225814,
+    "sha256": "19703cf9719338167897f28b3d52ba065b4c1b56b1968b5237458c561245fda5"
+  },
+  {
+    "archivo": "work/house-plans/bell-front-detail.png",
+    "bytes": 51727,
+    "sha256": "be2cf7b424faced84a0a40f6c00ada13cd0aedbe02364255c4f72743ee3f15b5"
+  },
+  {
+    "archivo": "work/house-plans/bell-full.png",
+    "bytes": 600052,
+    "sha256": "9b4140f2e1bc2e7147e0e74831200edb070f7f343800b82b0fd3a66a0aebd28c"
+  },
+  {
+    "archivo": "work/house-plans/bell-model-1.txt",
+    "bytes": 129,
+    "sha256": "1da2d27ceedcf68d273ade8d5f50ec9df23ca3978ec38ea36d6746489012ebc9"
+  },
+  {
+    "archivo": "work/house-plans/bell-plan-detail.png",
+    "bytes": 224169,
+    "sha256": "380a421401f773f0508ca306052c4ecbc1f8ed5212c2b1aee3bdf9c1f10d0460"
+  },
+  {
+    "archivo": "work/house-plans/bell.png",
+    "bytes": 218353,
+    "sha256": "2d4ce8b4acd4ca681617bfc61c68b965b453d9b4ac240be1be3c652ebe725917"
+  },
+  {
+    "archivo": "work/house-plans/elevations-1.txt",
+    "bytes": 115,
+    "sha256": "e4a22e900a5be6d650410f408c4179c2f7dd37baa86a4448a7ee04da2c790930"
+  },
+  {
+    "archivo": "work/house-plans/floor-plan-1.txt",
+    "bytes": 102,
+    "sha256": "fd2eeba8c8a7244656f21bd3365aa8b798c0bdc7e42cb6c45657c09df1714f83"
+  },
+  {
+    "archivo": "work/house-plans/utah-detail.png",
+    "bytes": 270103,
+    "sha256": "13822f0409e970dc6c8e1217296405b72a8d2126776bc18e5c9f4e0cacc40927"
+  },
+  {
+    "archivo": "work/house-plans/utah-elevations.png",
+    "bytes": 175398,
+    "sha256": "45a54d5e22bbf40e6447f9ffc7a8691100bde1c365a43ffb917e3c01488775ba"
+  },
+  {
+    "archivo": "work/house-plans/utah-plan.png",
+    "bytes": 456944,
+    "sha256": "b550cbd6a085fc1904def9ec7e939190f42071801b8503363632ba5764d95c08"
+  },
+  {
+    "archivo": "work/model-finishes/build_translations.py",
+    "bytes": 620,
+    "sha256": "9b8a624b7cc440c59d7f986551e127c1d7765a146f2de88de3deccdfdce5d1f5"
+  },
+  {
+    "archivo": "work/model-finishes/refine_models.py",
+    "bytes": 23323,
+    "sha256": "37abf02b794628cd8a6a23cf57bfff7bf17fe2f82c66823356786a2dd442461e"
+  },
+  {
+    "archivo": "work/model-finishes/soften_geometry.py",
+    "bytes": 6668,
+    "sha256": "7963eeb34aef90f3a1a28a1fc6e9a815ad9812133e580ec12f7978408c7f91ba"
+  },
+  {
+    "archivo": "work/model-finishes/translatable.txt",
+    "bytes": 28967,
+    "sha256": "69608dcc7df6c22bf3c6970e04c6e3d5c7c9a5386bf66dfbb9fd94f97d563f39"
+  },
+  {
+    "archivo": "work/model-finishes/translations-extra.tsv",
+    "bytes": 25559,
+    "sha256": "dd3893652068ac5664c8224b60f17050b42fd32b2539391e5fef4fca97cfa4a0"
+  },
+  {
+    "archivo": "work/model-finishes/translations.tsv",
+    "bytes": 54963,
+    "sha256": "0f547c51a7a1e0bf50751b00f50a1cfe3724b3a34b3f976d1d433bdd8a09fed0"
+  },
+  {
+    "archivo": "work/research-ocala/README.md",
+    "bytes": 4389,
+    "sha256": "0bb09d72c42a36dc5f1de0848e7438be20a724cdd02c28f140aafafcde9d6bfd"
+  },
+  {
+    "archivo": "work/research-ocala/add-project-map.py",
+    "bytes": 3132,
+    "sha256": "e2d3fdce01407cb2a5c625492e9ba0ac4971abd9666bf155607c4ab8e3d85520"
+  },
+  {
+    "archivo": "work/research-ocala/arcgis-geocoder-evidence-2.json",
+    "bytes": 15778,
+    "sha256": "532d6bef11cae80a74ce1c0fa039dbccac569a6841a666a19cfdd24601aa13af"
+  },
+  {
+    "archivo": "work/research-ocala/arcgis-geocoder-evidence.json",
+    "bytes": 22327,
+    "sha256": "70ee516af8afa62f72d6ebef8241288dc8591d36a19372e0fa8943175e107d11"
+  },
+  {
+    "archivo": "work/research-ocala/build-investment.py",
+    "bytes": 19730,
+    "sha256": "784eb36ba632d3d15b5300167e4e53935c8595b8d520463e3396d9f16398e88e"
+  },
+  {
+    "archivo": "work/research-ocala/build-locations.py",
+    "bytes": 5641,
+    "sha256": "28ff70eb3b368f0c1a86a4b54c3dc30bc9ac516eb28b476368ca86c6fdc956c3"
+  },
+  {
+    "archivo": "work/research-ocala/classic-mile-update.txt",
+    "bytes": 4463,
+    "sha256": "a0d47dd17c7d4e97fba93b86446534353de2cc2ada9c4d56496de742236be87f"
+  },
+  {
+    "archivo": "work/research-ocala/complete-data.py",
+    "bytes": 4836,
+    "sha256": "df8a8fadc294e0bc665edbe524a438cff79d55e08773740256f689be87ace03d"
+  },
+  {
+    "archivo": "work/research-ocala/fdot-corridors.json",
+    "bytes": 19571,
+    "sha256": "cbde3eeadd6ca7066a953fb8004d1d4c020c763959c006e4bd8491986590c834"
+  },
+  {
+    "archivo": "work/research-ocala/geocoder-evidence.json",
+    "bytes": 7681,
+    "sha256": "43233b058c75994b28e6b784fdc37c578be90d1b3a256846b3f9e299363d5143"
+  },
+  {
+    "archivo": "work/research-ocala/investment-data.json",
+    "bytes": 22494,
+    "sha256": "3e87314b0c436592d78b67c9f00c68966178dbee35aa84ff1c7fd2d0f6e7762b"
+  },
+  {
+    "archivo": "work/research-ocala/nw49-fdot.html",
+    "bytes": 52053,
+    "sha256": "67a21be819099ec48cfa56893ab5fdac2cc85cedd49025dde17760f0306726fc"
+  },
+  {
+    "archivo": "work/research-ocala/project-locations.json",
+    "bytes": 9669,
+    "sha256": "6a60c81fe27854eb818419bf29150a3f34c94a0b3a4f1f4d1836b525939c71d3"
+  },
+  {
+    "archivo": "work/research-ocala/refresh-presentation.py",
+    "bytes": 6931,
+    "sha256": "e84ba8888b0dc4b1583d40cf2bdb880bf36dd968c5c37178b0872b1df457db6c"
+  },
+  {
+    "archivo": "work/research-ocala/wec-page-01.jpg",
+    "bytes": 110406,
+    "sha256": "a76b5e87f07856f1428af92c873838bdc569527e4af08861b88fffc69678075a"
+  },
+  {
+    "archivo": "work/research-ocala/wec-page-02.jpg",
+    "bytes": 103569,
+    "sha256": "48ff995792a16262819849d6737cc8f0baed19e01bdc1905136dc5c767062783"
+  },
+  {
+    "archivo": "work/research-ocala/wec-page-03.jpg",
+    "bytes": 101324,
+    "sha256": "731bd7d5670a67f60a5b3f1aad9de2a2ad762e4ffa1e71fb89f28a7c9ade7a26"
+  },
+  {
+    "archivo": "work/research-ocala/wec-page-04.jpg",
+    "bytes": 109929,
+    "sha256": "053b391128f2c75485f96aec471d2b529c54dca2dfa241434e2608f32b280ff4"
+  },
+  {
+    "archivo": "work/research-ocala/wec-page-16.jpg",
+    "bytes": 106544,
+    "sha256": "5bf293bea86337c634c1fe9af36b0a075bb4d1a2d232728c22be2a802319a1cb"
+  },
+  {
+    "archivo": "work/research-ocala/wec-page-25.jpg",
+    "bytes": 84288,
+    "sha256": "83bbaf0dde83367ff209637d6f79b32a98b85260fc5a892f200ff1ea9dd29348"
+  },
+  {
+    "archivo": "work/research-ocala/wec-renderings.pdf",
+    "bytes": 31829360,
+    "sha256": "1fe30ff2a9ed80655ea0335a6388fc2ecdc875868e9cbbcf97792099f1408c89"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/app.js",
+    "bytes": 7946,
+    "sha256": "16d3cecf0c929073cf22112dcb21406c889410e60038a0b0123aa268568b450f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/geography/collection-aerial.jpg",
+    "bytes": 3026685,
+    "sha256": "d76c008acd9a03d049c6e9339458567f861035ba3d7751db484ed6b9a66dba0c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/geography/collection-context.json",
+    "bytes": 52211,
+    "sha256": "a751f080dcd6445e14ea6a2752912d021a722ca89c939a021b34f53b335a4eb0"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/geography/collection-elevation.json",
+    "bytes": 1354360,
+    "sha256": "0897b3691ba421b38374ca107ebf3cff4d851ed260970b1b1a646f56936227ce"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/geography/collection-lots.json",
+    "bytes": 29199,
+    "sha256": "dbdf60df371db684a47cd371a1637c0c8553ab6f17c287542e0d7fcf19e2ef46"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/geography/rainbow-aerial.jpg",
+    "bytes": 1161848,
+    "sha256": "39a34e127e3e92945ed69f593c7e40d0296c5e052ce225ff64d951989eb90416"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/geography/rainbow-context.json",
+    "bytes": 16655,
+    "sha256": "c03803fe9fca5f13465771b7718a26e96c462dc5a55c79c58b2c23f263bd724b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/geography/rainbow-elevation.json",
+    "bytes": 320517,
+    "sha256": "d56f47429fdb1de18e2970827e0cde4540c9903173e8fbba4985512b4439122b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/next-fraga-logo.png",
+    "bytes": 150281,
+    "sha256": "40837c0316c580cb75cb4297c0a27b11770c4dee7ebb168ad16e1adcfb457ef4"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/next-fraga-transparent.png",
+    "bytes": 405013,
+    "sha256": "bf257d00130822b24dd3f41cbbdd86f8f4ea7fe1e56aed845a2916c1905efea0"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/ocala-concept.png",
+    "bytes": 2608628,
+    "sha256": "37c7c5389e4f368a51b4d6ffb4ccff472c0d79390ec55d5cb90bb6e7f3c60598"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/ocala-intro.mp4",
+    "bytes": 7622869,
+    "sha256": "36bf96d088f2270ba762d123dc9bd90be83e0d9a604248295c575b278e9f6184"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/territory-airport.svg",
+    "bytes": 1007,
+    "sha256": "39056076633619237de2508dc8d95e7e338606ddd03bc0c4b44fcc5d117fc6f5"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/territory-downtown.jpg",
+    "bytes": 215483,
+    "sha256": "b06afeebb2cda9ed05ff8f3fb634a3f8286a79e28d7f147c3eaa73445e1ed1f3"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/territory-nature.jpg",
+    "bytes": 271256,
+    "sha256": "abdb73a1370bf9140b1493565a86d3ade73ef759d4b36a8a82bc7027641b980f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/territory-sources.json",
+    "bytes": 2069,
+    "sha256": "cc938195d91fd8e6dd9467ad8a41cb614646ee5d4491ac572a165d34d071a596"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/territory-wec.jpg",
+    "bytes": 67776,
+    "sha256": "347aa38603f515b97e5baa217b91358e34c6e7ac19459c96b29c12cb3ce5836d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/bell/bell-finished-v4.glb",
+    "bytes": 8572044,
+    "sha256": "5610b64654f30bc2fea6074464d782626423d75cb265473ac62fc671a5a84e67"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/bell/bell-model.pdf",
+    "bytes": 339998,
+    "sha256": "cc1caf667779241899ac4fe34ea31329acfe9650820e7b6ee642a738a248c158"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/bell/bell.glb",
+    "bytes": 5357084,
+    "sha256": "8dc3ff3ad9a1af6f0c669bc455d277d2fa8ceedbcc1bf7b1a13f17b735e2ee65"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/bell/floorplan.png",
+    "bytes": 257359,
+    "sha256": "ba5479801a421272b1c8eadfac8942663fabc45573f462be3d9f3645ce7bae51"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/bell/floorplan.svg",
+    "bytes": 344022,
+    "sha256": "51a3fecd993fb1b12dc757e6c8a56a32aa4ec350b79a77502a368da311fe7e5f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/bell/metadata.json",
+    "bytes": 3711,
+    "sha256": "95a8cf38b03d6192eb709eb342c9dffde0055cc7eba31afda8ab6cad462f1f9a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/cesium-explorer.js",
+    "bytes": 16335,
+    "sha256": "ac7ed158bc02cd45bbc5d19e2584f7445a2e7f9656ac2e058ceed37677e7bd22"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/chapters.css",
+    "bytes": 8033,
+    "sha256": "77e7dab94f6f4da29611d21abe96c11c33cf043cc5ea68a1a65884dc7b7b5ca7"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/config/cesium.json",
+    "bytes": 45,
+    "sha256": "4dfd147d7c83709363a091470e85907986d1fdef639dd8455e44fda003696f26"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experience3d.js",
+    "bytes": 18031,
+    "sha256": "7636671e723c65d3b99f6310058a2cdab0902f73f66592941beb259fa3e9199f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experiencia-demo/assets/bedroom-pano.jpg",
+    "bytes": 448617,
+    "sha256": "d005583dc5f38244a9d83fb89bea3d39e5cf340beda28138a76f1848a0c0596f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experiencia-demo/assets/clean.jpg",
+    "bytes": 875321,
+    "sha256": "0ae0fbd8c32a56cd33ae7946ec63c7ce24de8deb84d2824022d547df0e941710"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experiencia-demo/assets/house.jpg",
+    "bytes": 905733,
+    "sha256": "f4cabf2299db651947741cc19eeab65ce75ea92e13e4ec25e95e020056e5a882"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experiencia-demo/assets/living-pano.jpg",
+    "bytes": 518905,
+    "sha256": "7bda2847fb0e6333c4475fc5ee1ca138238783409a973040df734b5bc7c20768"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experiencia-demo/assets/living.jpg",
+    "bytes": 621967,
+    "sha256": "441c907be96d5bfa5d9512a3584a8e6aff8367bb7ce17901c08c29256c001229"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experiencia-demo/assets/nature.jpg",
+    "bytes": 878863,
+    "sha256": "10ebd56736906c60a0cb9039e46750ab184fd9c0bcbf3802ccf91c1c158d9a1f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experiencia-demo/assets/provenance.json",
+    "bytes": 341,
+    "sha256": "8aba367adb2de7a2ac7ccb9074dd6b318d94f847152a950918c09d65808ae3e8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experiencia-demo/assets/territory.jpg",
+    "bytes": 578366,
+    "sha256": "eb1dc96f149e698cd584da48382cacd27ea4b15b21450cf2ab8e9ebf463b621e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experiencia-demo/demo.css",
+    "bytes": 20579,
+    "sha256": "e0bddf983462810305a6535a2b2228633229e6d296d3285d09e4da31bb1b0d4d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experiencia-demo/demo.js",
+    "bytes": 7795,
+    "sha256": "ce82d045500d2a6118b833b8f7a2c4b595e3cccb12203ceffc4201635f91a4b8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experiencia-demo/graphics.js",
+    "bytes": 8139,
+    "sha256": "60b7b430aa10d66e230d4f0240c1596b70cb77b3319eea103464960fb83af269"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/experiencia-demo/index.html",
+    "bytes": 11757,
+    "sha256": "661d7616cd33b8898d010376ac7a0ed5398a9ca31483560cc8cfbfeec478b4b6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/house-data.js",
+    "bytes": 2005,
+    "sha256": "a4d97f1ce278d6dd1270b613d9d24ce9d693e07ceff24649a3bf858feed5a4af"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/i18n.css",
+    "bytes": 3319,
+    "sha256": "3b21afafe0251d17781b1a72393a48ac1bbc6a8b4bcd148bd848c6855521bf17"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/i18n.js",
+    "bytes": 5183,
+    "sha256": "92a15c215a1341cd199c17bf16a8da9431f261afb55298a2b266c4d47b85d9fa"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/immersive.css",
+    "bytes": 13570,
+    "sha256": "39596965d40b8e47d84d3c252c7e2419c9f830a018403a9f57f03da870ddb110"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/index.html",
+    "bytes": 58703,
+    "sha256": "40d78c4e3d0434eb78bd5aaf5e0c5880e618a5c8ef6f1e609be6c40e566407d6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/inversion/assets/wec-propuesta-campos.jpg",
+    "bytes": 149283,
+    "sha256": "1bd65a91dd7c228f97cde6262a9ea317326fffb5af83f32d3d51e66d4062e4c1"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/inversion/assets/wec-propuesta-diurna.jpg",
+    "bytes": 134752,
+    "sha256": "5525459472c676aacd73e69da3f383043954db1b34cf918f1e424a1ea38d7bf9"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/inversion/assets/wec-propuesta-nocturna.jpg",
+    "bytes": 147306,
+    "sha256": "945ded6197444e2599040bda815ca72979d283cec8dc135d21937df389df563c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/inversion/evidencia-ocala.json",
+    "bytes": 22494,
+    "sha256": "3e87314b0c436592d78b67c9f00c68966178dbee35aa84ff1c7fd2d0f6e7762b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/inversion/fuentes-ocala.csv",
+    "bytes": 6951,
+    "sha256": "592455b79808e4b0cbe44ae173e1b520f4c8b01cd1eee0bad8101c6a8f33e78f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/inversion/index.html",
+    "bytes": 52532,
+    "sha256": "cf5be3a1cdfc6518618eac3c1228a80afb951fffcde21f239b5572b358ca28c2"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/inversion/project-map.json",
+    "bytes": 40286,
+    "sha256": "838fb79608aee0b212613a4fa1cdbf6f8ff1c982d51451e7e3a51bd534b54025"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/investment.css",
+    "bytes": 25129,
+    "sha256": "025ccdc0fa6ace221c5bdfbaa10142692d18a5da359f2d6a50966f47ffaa4ab1"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/investment.js",
+    "bytes": 2675,
+    "sha256": "8d189a90b9edf2e9a7c482e1da95888f6f58979297afe396ed2d993301636433"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/locales/catalog.json",
+    "bytes": 112320,
+    "sha256": "32b778db06309ee4c8a7603ee0844fb855b98a753cc8ad980a1e4c4dc0104838"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/project-map.css",
+    "bytes": 4903,
+    "sha256": "464f79fa7b5fcc69d67bae8bbb10a62c801180a0b6a3d9a3147995d10aa26854"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/project-map.js",
+    "bytes": 5964,
+    "sha256": "ddda945c73ae0aae857db7e40a002f95dd8f1ed2c12d3907508de469326dd840"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/space-studio.js",
+    "bytes": 367,
+    "sha256": "8ca97ae369161b53f8ab00af7c5222d3eac48e8a4834160625208e9d160a19fc"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/styles.css",
+    "bytes": 38489,
+    "sha256": "e0891be00ea1fa56ac2eed5f3b074ac1789159cb9a889611d74ab6ea96b011b5"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/territory.js",
+    "bytes": 6429,
+    "sha256": "b3219415b9a6df883dc1b15df53145b3a2d45c0526de15c6dd3c2b7ae74c0aa1"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/acabados-concepto.png",
+    "bytes": 3608111,
+    "sha256": "6ffb33b797a834f4701cab7bb19c3eda398b5f28b32438a42bf79000dfb4c8a7"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/cocina-concepto.png",
+    "bytes": 2283215,
+    "sha256": "d144f58cfe5aaec26560491d53460c1333d82eb44d83a3971e6cd82d52b9d93f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/elevations-v3.png",
+    "bytes": 107201,
+    "sha256": "3ee7881ab521172ca8d4c2ca23576b444911386479553e23a9bec12e30f9a900"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/floorplan-draft.svg",
+    "bytes": 210168,
+    "sha256": "1805bb3727cf6f03d947e1ee725efcc3566cafd74fcdf9166e499dc8c65fd7bb"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/floorplan-v3.png",
+    "bytes": 286917,
+    "sha256": "028c14702e1b14c49ff0ee1766aa511dbcfd9428096bd7e347ec86ef4727125f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/floorplan.svg",
+    "bytes": 183914,
+    "sha256": "f1f4c07ce072a003681c66fc095555e4f19ed08f6400cbcde844f93fa2b6ba89"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/furnishings.json",
+    "bytes": 17078,
+    "sha256": "42be3b1a98103462df02f47e380799ef20b494d8132a728bdf17d7970addb61b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/index.html",
+    "bytes": 2348,
+    "sha256": "98456a1e691b6dc2a409215b64d3e0b8fa059a810dcec77b264ce30cf3ae1b7d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/lot-environment.js",
+    "bytes": 6657,
+    "sha256": "3485b58127719923a9309d25a180eac7234f86a6844bcd81af7c2587b8bb70f4"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/metadata-plan-v3.json",
+    "bytes": 5915,
+    "sha256": "3d70e003952455ee4e7465843b93887cd8c65b845fc2b9db3fb85ba35ba5fd09"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/model-loader.js",
+    "bytes": 6235,
+    "sha256": "71f6efa932a5c31f72a48b3ea5277299ddc98fa51cc05e1a31de4c17cb5001cc"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/studio.css",
+    "bytes": 3508,
+    "sha256": "9161393c98a010e2b968164741681fabfebd88503c8e9f6ef93c0f54f142fd26"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/utah-elevations.pdf",
+    "bytes": 224321,
+    "sha256": "135f545c9f8775a01e9edd7ebf6cd1cfed2cf27074036cc62f4de62d24c4a2d9"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/utah-finished-v4.glb",
+    "bytes": 14796360,
+    "sha256": "421f87627a8a61e6fb007dde623dea8f5caee7145e7985b8b4d1735e3ad316e3"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/utah-floor-plan.pdf",
+    "bytes": 519830,
+    "sha256": "35474d3326f5dead6d1cfb5009db37600c13506f78fcfd7ee7bffbda1e943006"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/utah-original.glb",
+    "bytes": 14193832,
+    "sha256": "29230efd21a5a12091798efbc73c1b75319c8701b40c557cc844ca70d1ee5025"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/utah-plan-v3.glb",
+    "bytes": 19756132,
+    "sha256": "d8fd22ede70992f6d00a78937b6d2a1f4ed8109e3569a10d0a12822578d35e8f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/utah-propuesta-v2.glb",
+    "bytes": 19071948,
+    "sha256": "dcf53397753af833379edf056c67fdcc0da441b862315a6dfe2838a21962b23a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/utah-propuesta.glb",
+    "bytes": 14322924,
+    "sha256": "89fb2dbf5b515d060afba1ddadf2517514c3139e5d8d686fed811cf0895b720a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/utah/viewer.js",
+    "bytes": 8064,
+    "sha256": "20b317f6ba7f567f6b87e5b06b4d1318b702cad56591c4203e7cd224d04573fc"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/ux.css",
+    "bytes": 20876,
+    "sha256": "0feab68f65d6bf7706652c407d1d09b0ada746c76b7035a4d4085c017e9da329"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/THREE-LICENSE.txt",
+    "bytes": 1081,
+    "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_0.json",
+    "bytes": 67428,
+    "sha256": "eacde1b661c07ae81779214f2ee1c840dd24ea56cdba38735d9f63bb51d3f534"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_1.json",
+    "bytes": 67313,
+    "sha256": "687cb449340f43ed67ccdb59e009c76642ec4a7dda63504c537f6c8b03371632"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_10.json",
+    "bytes": 65984,
+    "sha256": "3337da09252e812c2609fe17966824d9387600b16b5faeca3b279121ce951a55"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_11.json",
+    "bytes": 65007,
+    "sha256": "1213a76851024f19bedb1f1177099cc867876c9477214ce25c4aca5922ae0c59"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_12.json",
+    "bytes": 64663,
+    "sha256": "ecea15bed860ca0dd962e427ddc929c356c8de4f5ea0599dd4a4d117c9ba5fdc"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_13.json",
+    "bytes": 65854,
+    "sha256": "a7f459cda58803d906bb3e63d98f250c9211c16e99a964b39cab1af20c3c54a7"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_14.json",
+    "bytes": 65547,
+    "sha256": "051627ca694ce9a0585eea402b11a7e74b70c4a941863ee731e1537da77354b8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_15.json",
+    "bytes": 65709,
+    "sha256": "ef41a0fb36667716e1aac3ed84c1e92fc0b80697a11434a08dfec80c10fa3b38"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_16.json",
+    "bytes": 66030,
+    "sha256": "17c2ec764a2b2d4a93558009e1eb02912757999f3dedea775c961d689bec6155"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_17.json",
+    "bytes": 65622,
+    "sha256": "95bbcd68070cff4725867054f6da18e6d79d1e7876efd116f046f6d99b6ffec7"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_18.json",
+    "bytes": 65310,
+    "sha256": "19ec8e50b7a8604bcd93bf20850f033e153242663107f372e3af09194f903497"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_19.json",
+    "bytes": 65537,
+    "sha256": "9d33b633af09f381d2aeabf1c08a80b327fea00105145310f706a7a2f3f3b395"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_2.json",
+    "bytes": 67802,
+    "sha256": "79e5007d0f7d284035286ff31e7959f1d8c5654261ffb5a01ec298fc7ecfdaf2"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_20.json",
+    "bytes": 65328,
+    "sha256": "d4a6ee787228e9ca38799199a6d69aaaf1a2401d0bad5f9b3ff30c30a6e35685"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_21.json",
+    "bytes": 64843,
+    "sha256": "deab5998d0e85929227c82fd4267f179940b77ac9fe3d9da51ee222745658773"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_22.json",
+    "bytes": 64977,
+    "sha256": "cbc988d6f44052aae9bea4d437b74f97a9a11d1370137cf3944d7a3dfdb00c28"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_23.json",
+    "bytes": 66084,
+    "sha256": "fe1cbcb3177839ba821ae202184f4862a17321525556c06e3c000ab02d449645"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_24.json",
+    "bytes": 64894,
+    "sha256": "336a61b2b5c63a31b169f19c95dfa4607874f2a2cdca3f5f6b995a2526e8090f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_25.json",
+    "bytes": 64953,
+    "sha256": "7b9d89953db4bb5d4d51b287cbf01b2c1c0a4d1d2fcf3696b4682f77cb9a12c5"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_26.json",
+    "bytes": 65311,
+    "sha256": "03c47eff883b79a9863011ba286dea815320f274049ec9f71649c9a45b52db95"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_27.json",
+    "bytes": 27595,
+    "sha256": "d9d755dd689d6af3d117c82e5e07c2f9986e43fe966cd3520d4a8e28201d7c6e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_3.json",
+    "bytes": 66400,
+    "sha256": "2c9ad7c9ca22e45f93354a078be51e63579cc67d960df3fb9cddd237a0fa7d05"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_4.json",
+    "bytes": 65900,
+    "sha256": "2019a8459a5795b4203d58cedc5ab54e0ab17c66084198106da4755ccd89321e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_5.json",
+    "bytes": 65378,
+    "sha256": "b5cd2ed128bb530e920633cee2f9131687dc46673116fa482a59916945ab5e5e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_6.json",
+    "bytes": 65596,
+    "sha256": "775adc76b9497c0abfb6a71ec77149abf1f160aeb6dd1380056391916dc9d3c6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_7.json",
+    "bytes": 67099,
+    "sha256": "f3e330690aad3c977a66f3bb98952bcedd3c73886502e9477df9fe27855dd0cd"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_8.json",
+    "bytes": 66931,
+    "sha256": "5da58dafb2a105234978e29f659dbb75ca716222cdf35dae975a9f380fa97fb6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/IAU2006_XYS/IAU2006_XYS_9.json",
+    "bytes": 66857,
+    "sha256": "36dc6631c6018fc9cd3df3f649b74308bb5c6a3303ac7b59067c4b4fe1e564c0"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Images/bing_maps_credit.png",
+    "bytes": 18831,
+    "sha256": "e5c3467a2532a0986ca0f90189e9bdae3222d3f1580d2e8c0261fb2bc2b4417f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Images/cesium_credit.png",
+    "bytes": 4242,
+    "sha256": "20dadec44d030ec7de6193b0ee98329a896c4dcb4ed8f7a26d4781127b6fa989"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Images/google_earth_credit.png",
+    "bytes": 7703,
+    "sha256": "d4c3719a707ca487d847d7c8ea8ffc590f1297f987e95d1acf88d433b92c1c3f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Images/ion-credit.png",
+    "bytes": 6028,
+    "sha256": "721870c1417e20d25e2d1b834e80c66908418e459dcf76c95bf2997dc0733289"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/LensFlare/DirtMask.jpg",
+    "bytes": 113718,
+    "sha256": "3d06a15d04154f027e0b2b110c7c9952329b385682c327cdeb71e0e3c720f3d4"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/LensFlare/StarBurst.jpg",
+    "bytes": 195728,
+    "sha256": "c42ecef9345e34549fb9528e25cac8f38c9f8c43f73d812c2ccaf5909ab249a5"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/0/0/0.jpg",
+    "bytes": 12067,
+    "sha256": "919864197d2f27a165420331d47458614a056c36dcdf306ce89ed2248bd0041d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/0/1/0.jpg",
+    "bytes": 14055,
+    "sha256": "f336509772ab57ee14e15c72579dd9fb0297c779c853d4c65db04bef78305b48"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/1/0/0.jpg",
+    "bytes": 7278,
+    "sha256": "3f40b94a0adb4efe212899374d3dd2bc7abe0491ce3a30d89f4392f498a328cf"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/1/0/1.jpg",
+    "bytes": 11399,
+    "sha256": "76393f9322c791564a9dc9529822637fdcc8b63418be502f4ef0ab9ca2708664"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/1/1/0.jpg",
+    "bytes": 10652,
+    "sha256": "cec03089c65ac612ef0655739fd1c66e068a98739aec325ba8743aca7338e6f1"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/1/1/1.jpg",
+    "bytes": 13142,
+    "sha256": "b1b860b99fd3fdc1a91eb09576563efd5cc91d95f4e869fb436a35c4ff8994c6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/1/2/0.jpg",
+    "bytes": 9643,
+    "sha256": "7c59ff20319379afea17d029fca11ea497fd16a4f9da574137948b0631c71c63"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/1/2/1.jpg",
+    "bytes": 15312,
+    "sha256": "ed0209ef589d9cc34a26663f8c9ecdd63de705482692290328cfd2fff984451d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/1/3/0.jpg",
+    "bytes": 10532,
+    "sha256": "d7fa5cd581a7b1d004d6dfcf329a09cd51859dd503f864a85756a35a456a0030"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/1/3/1.jpg",
+    "bytes": 13262,
+    "sha256": "8637acf2981f7209ec449a5812c855650a7eeeca5bd8a9d328310bb2a5295b39"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/0/0.jpg",
+    "bytes": 8157,
+    "sha256": "d12e2e52ae4d2e0c23ec15de8a1e006ccae0d3142b286578670cb4a8fd3f2311"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/0/1.jpg",
+    "bytes": 9307,
+    "sha256": "87a7ea00d62fe0517680cb58953e46faf9b325b9ce8e982c5a68b7e6c6c46822"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/0/2.jpg",
+    "bytes": 7891,
+    "sha256": "eecc7078cc54ec05f96cdf472519d5f159797015afaad23c2e56bed2fb79b481"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/0/3.jpg",
+    "bytes": 10341,
+    "sha256": "3d4dc525adaed0c3ddf5e5047bd1b348f2df473449c50b6b8175d5d073e7d88b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/1/0.jpg",
+    "bytes": 7852,
+    "sha256": "e586e2884f6fe3a78291776b5bd4b190ffa0c9129c146ef78c7918e570e40e07"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/1/1.jpg",
+    "bytes": 6850,
+    "sha256": "bd0b39a8e734b137e8017cb02f1bae541452bea034be5bc7e2bf8a6cb8a220ae"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/1/2.jpg",
+    "bytes": 11581,
+    "sha256": "af8eb0a43423d28c7cb3a92553967205d9e3ced5738bd75f773d653fa5849c90"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/1/3.jpg",
+    "bytes": 15862,
+    "sha256": "48450e09b99e3283945bda85be1513a5ed28a4b1e58cd0b299c295d16c25935c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/2/0.jpg",
+    "bytes": 10657,
+    "sha256": "4615813c56a8ee304d78d3768c489a4e00a5c4542f2d937b6be7db7c12b42b28"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/2/1.jpg",
+    "bytes": 12456,
+    "sha256": "66df8171de54015866691a00fd03ad8c5c11dc75466a70d11a43b2020eb63dba"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/2/2.jpg",
+    "bytes": 12262,
+    "sha256": "669649edf6e1e0e66ee03224a792d5fb09e8aef7a7a187697a3c10f9a7904c5c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/2/3.jpg",
+    "bytes": 14940,
+    "sha256": "21585c5a2551120948ec5d0f04a533805b2ba63b7a5b961ad722fca25cf6299f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/3/0.jpg",
+    "bytes": 9531,
+    "sha256": "640f7fd8fd3e5923ef1b021476f13c1e6919f339b17e539b9e20fe6bc16240f7"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/3/1.jpg",
+    "bytes": 10234,
+    "sha256": "e418706ca6c844a67aa71e448ef97e703d5c3a9e3791db255366dad49b4adeb9"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/3/2.jpg",
+    "bytes": 11678,
+    "sha256": "79d04283b385d193bbf5bd84d40744c8f5bc8d6f52dfab8d965b647fdb61d72f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/3/3.jpg",
+    "bytes": 10754,
+    "sha256": "4e693d36407dab81266071edbca5915872284532498dfa29472cc71b2810482d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/4/0.jpg",
+    "bytes": 8474,
+    "sha256": "46e6a0608fc8261bbeaad8fffa995ee3c85fddebb3b463f3e391634ea8a2a9ec"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/4/1.jpg",
+    "bytes": 12265,
+    "sha256": "0f341c2ace1b0b1803aa22c09c2ab8fde4c3a1a7cb013a963e750997deb6b1c2"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/4/2.jpg",
+    "bytes": 16477,
+    "sha256": "13a22c18a223ba4d8c2689793a5dff83e4e50b3790ddcb2a32ac5a97b8e1e0c8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/4/3.jpg",
+    "bytes": 11888,
+    "sha256": "93c5f45d481111b4cd2d38792cfb049e5176be566b622028e0704151c0c23aaf"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/5/0.jpg",
+    "bytes": 7540,
+    "sha256": "7fbb096ff03dd162ae965a6c7e1c47e29599e7f3f1031ce59fb07ff669ca3995"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/5/1.jpg",
+    "bytes": 10274,
+    "sha256": "70b04e7e362cb4c80d8c7cce1a9401ef9c7606bb2c4b9de011dea58d79b8b4e6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/5/2.jpg",
+    "bytes": 16112,
+    "sha256": "8d03e07689c97fff91497250f1cbeb19fbe5331f38bd91b38a44bb69745bb29b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/5/3.jpg",
+    "bytes": 11877,
+    "sha256": "17b46ab558da6e9fa715a8ab365109bd808d897c53a9f5401da55dd6b9566a7a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/6/0.jpg",
+    "bytes": 6636,
+    "sha256": "e25e95c8a6dcb21f6668541c925ee670c42fdc0c0d409c520bf29542a2b3fc52"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/6/1.jpg",
+    "bytes": 11564,
+    "sha256": "0a57813b25a70cf86a09bb251018e488b87e795cd2dbcaee7f8a9e80e7c449bf"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/6/2.jpg",
+    "bytes": 16411,
+    "sha256": "f0e9d28b216838c7c30375bb50a7c285203d4bad20eb581c2ee0b2468da20f8a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/6/3.jpg",
+    "bytes": 12756,
+    "sha256": "c2a663dcf812d9a7034d48707a33a2f341d22a99aa277f69b0e06f064de26fab"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/7/0.jpg",
+    "bytes": 9032,
+    "sha256": "65c1f1b10a04387f2f64b3c4bc111803ddbf32dd2708f02eabca048e88e8edf3"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/7/1.jpg",
+    "bytes": 12957,
+    "sha256": "11ac8ae6af861b966d25ed660549d2a9ce164cb9e327a247655e949f967fbc2b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/7/2.jpg",
+    "bytes": 11362,
+    "sha256": "59ca5b5264df0421c42cc9d3e6369d91ff9f5f387fc8fd578c25b113cae52b78"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/2/7/3.jpg",
+    "bytes": 11859,
+    "sha256": "7064a9817de3f19fbfc66c36d575fdd10a8d976a93f655b7b1bee591b07314b7"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/NaturalEarthII/tilemapresource.xml",
+    "bytes": 780,
+    "sha256": "23f2983b716914e8fb3f011c62d975e67b3ad72c17c92657cd956315d6694529"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/SkyBox/tycho2t3_80_mx.jpg",
+    "bytes": 118775,
+    "sha256": "7eb5dfe95bebe58aaeff1a29f1e435e2e9985c7007d32397f63f1aa798062435"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/SkyBox/tycho2t3_80_my.jpg",
+    "bytes": 152501,
+    "sha256": "ee944d55d7abe7799f54768f59d6a3da6b802fabd50d20d3ceb898e888b6ca7a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/SkyBox/tycho2t3_80_mz.jpg",
+    "bytes": 167980,
+    "sha256": "958b3d7779bf39e93dbb3373379a696c1b1d5660535d2ff963ab3c7f86d8042e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/SkyBox/tycho2t3_80_px.jpg",
+    "bytes": 122746,
+    "sha256": "075509b5c76a3db76baf219c71d1156c90bd87a201e4402e80d4fb1f16b526da"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/SkyBox/tycho2t3_80_py.jpg",
+    "bytes": 152999,
+    "sha256": "62404c604baff09b6293e79d83a6c851428452a07568aca2f4b69cfd67c8a25a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/SkyBox/tycho2t3_80_pz.jpg",
+    "bytes": 152537,
+    "sha256": "8a367b21469de9c3d41dec0a9b1aaf80472b5945e7f6827fb3a403707333e13b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/airfield.png",
+    "bytes": 1188,
+    "sha256": "9607228765a05a29c5feb0ded034ee7f2aa2e9641faf512fb122fba03e443b29"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/airport.png",
+    "bytes": 1554,
+    "sha256": "fbdde1b757753fbf54811a7733e78d43af43ffee204fa8169b295a3610e889fa"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/alcohol-shop.png",
+    "bytes": 1293,
+    "sha256": "920cc1449428757a73aee044d07e72a9c5e17535feb5754cfc43b4a1e6652cf6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/america-football.png",
+    "bytes": 2595,
+    "sha256": "ed7a66dc97a71fb689cb1b5c1f5d2832644152668be8d011aee23310e34bbd3b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/art-gallery.png",
+    "bytes": 3159,
+    "sha256": "b57e75127fe217af9fc0b9cfc67f53b3db7aa72b06b30ce443be89c0764b2b4a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/bakery.png",
+    "bytes": 2714,
+    "sha256": "7f8fa5241c76569cee88f34bd21afc54d1cdcbffe8a1633fe91df23b28a3486a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/bank.png",
+    "bytes": 936,
+    "sha256": "fcb114b2229e1c2b01a21032958c49f405ef04e106b27cf91512852944b610d4"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/bar.png",
+    "bytes": 1435,
+    "sha256": "be2709f48516f1b4203d3f10a9a24159e7761d91fe8f2276f860259d0ea73851"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/baseball.png",
+    "bytes": 1838,
+    "sha256": "24db293dfeabe9e77c3e1cd2f5ca26b61b8919961cf3415880d017be1aa0d3b3"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/basketball.png",
+    "bytes": 1318,
+    "sha256": "96bae0a41bccd20ccd8b496376df9415364dfc008b8eb6aaddff68371b5d0e96"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/beer.png",
+    "bytes": 1403,
+    "sha256": "8ad8f0c1414f5574103cb7e0d14c136292e847583ef06154c27f7765b6208474"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/bicycle.png",
+    "bytes": 3989,
+    "sha256": "d998b6e08bbcaa658ae6679e7197349518cf4cfd610ec1f69c8643a4f007186d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/building.png",
+    "bytes": 1765,
+    "sha256": "d4375df9fc15b0eeb0b54680e27423a2d6d60ad17f515f99236510dbc246c6af"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/bus.png",
+    "bytes": 998,
+    "sha256": "834a867a10afd8078f3ddee6d4231bf136b46c603afe31f6c089dfb55e47a9de"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/cafe.png",
+    "bytes": 1518,
+    "sha256": "07ff7a0dd1da1496aeff569291ae3add49ede31dd35674858bf5fcf9d21d5728"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/camera.png",
+    "bytes": 1976,
+    "sha256": "c6dfe806ebed73bd168fbace390d6402a64c54bb7cdccd17ba5813d4469f90d6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/campsite.png",
+    "bytes": 2411,
+    "sha256": "e3ed13ecf426166fded98e86057423ca2333ce3c3795a0efa5f8c3b8063475cb"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/car.png",
+    "bytes": 1498,
+    "sha256": "189c871c1ed9a60000276fcc375b368f06d0a72b2c1de1032ba1caddbc04f8f6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/cemetery.png",
+    "bytes": 967,
+    "sha256": "d066f21dea8cb8e667326b5c7399bc55c293881cc8b731acdc621b804a508d79"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/cesium.png",
+    "bytes": 3610,
+    "sha256": "d5857cc955c248b95c0c12f2c533629e9c83f324b89eb56aa1b12a68a1f64256"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/chemist.png",
+    "bytes": 1603,
+    "sha256": "d4852a72e3baaa9efd61293963db89a72d4d0c910aec0419e92af630a1cd6390"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/cinema.png",
+    "bytes": 1492,
+    "sha256": "eba78ccef08d317d931b796b5630db396a4c6647f8d4b57764357e5e24d2599b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/circle-stroked.png",
+    "bytes": 2126,
+    "sha256": "4a609e3399a2fad31b9e75bfdd17c4cc95e5b2f260f1d902aa1cb5b040c66523"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/circle.png",
+    "bytes": 1459,
+    "sha256": "05b7a313a6d4e47d7e13591f06dae1c4fc706146632fc7d9758d59f687d84ea9"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/city.png",
+    "bytes": 788,
+    "sha256": "92539b16e075cb79b26daffffbff2bafaf1f09c91d5cda5b6a9ef8cbb4327341"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/clothing-store.png",
+    "bytes": 2037,
+    "sha256": "34a527cd4f0d4ae5759e98921dbfe23699b4708288985f85b64ff75353b3ca97"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/college.png",
+    "bytes": 2502,
+    "sha256": "26a9bd248ba058414c36f7d140ff148c513b72170432b892c3ec5ce0f12bd146"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/commercial.png",
+    "bytes": 1002,
+    "sha256": "0deb24e319298a2d2890e76b44c4120c29ec89f6daf73cc2151bf28dbd960946"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/cricket.png",
+    "bytes": 1677,
+    "sha256": "07cc9f8540e7574d426cdd05fdab1bb71cdbe3b22c59f88ce6c9f20929d8ecaf"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/cross.png",
+    "bytes": 1888,
+    "sha256": "fb878dd32c44ca83370a944d766b0e992ee5a01accb54d81b19867beef03a2d0"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/dam.png",
+    "bytes": 1703,
+    "sha256": "2ab3ed160681f8894b76e6640de3c103caedb65f14e4565dcf123ed413502345"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/danger.png",
+    "bytes": 2429,
+    "sha256": "c268ee6d675c9db3562f44aaa7b46bca2815124f520365d3f517ccf3430e9e43"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/disability.png",
+    "bytes": 3437,
+    "sha256": "b2293d6411ae95ed7113bb6b7de19b5863164a697212d9642ddddef23634da45"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/dog-park.png",
+    "bytes": 3146,
+    "sha256": "6b3b662c50623e31e69e44b6ab80aad116a9cbe406814acc60920e7bb8b46c31"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/embassy.png",
+    "bytes": 1680,
+    "sha256": "83c902b90a4f5de175631f7b91ec2b1c3f461e0395f34507cb007572e1550137"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/emergency-telephone.png",
+    "bytes": 1533,
+    "sha256": "2b374c00679109719202b61c5f1ca4b108ba859318e4a12d27d9d65081491b5c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/entrance.png",
+    "bytes": 1307,
+    "sha256": "ee93d08539b460126b32691e71781e26585003390dbab05ff9037d2b41722edc"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/farm.png",
+    "bytes": 1686,
+    "sha256": "a1ea51ae83cb6db984bda6f451de81b232cf1c193176142cb44f0664692f0772"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/fast-food.png",
+    "bytes": 2019,
+    "sha256": "24d42a6409ff1f518c776997ef7b07ecb76c4cf446248551f22814d8bbf4e99b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/ferry.png",
+    "bytes": 2879,
+    "sha256": "97fcf2915ffe3ef62e8ee5a05672ae6dbdabd24d6aa1b4cb709302487ee06b2a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/fire-station.png",
+    "bytes": 2228,
+    "sha256": "9e17c8f458a6e7a525eace12875c4f16acd4e6750a19271448bd0e926da860b2"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/fuel.png",
+    "bytes": 1741,
+    "sha256": "9e59bcba3f758998a6a55bf15174727e779207abf5a4f324c2cf5593fbac983a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/garden.png",
+    "bytes": 2057,
+    "sha256": "9c860cde4e54fbec8709b243052f37700e0d64fb9aa61f33818b0fe838b7a8ae"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/gift.png",
+    "bytes": 1606,
+    "sha256": "4814551df01639c36c1333de3a99fb9b5a9d758dab186fc7132579d984ebcf96"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/golf.png",
+    "bytes": 1999,
+    "sha256": "9e447b620baddad979776dc4fa4634f6cc96c0e00682282e008f2041c6f98e57"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/grocery.png",
+    "bytes": 1425,
+    "sha256": "6970b52af4509ab118d1d898a959bf631ae21e457803214fa9fab337770e8ca5"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/hairdresser.png",
+    "bytes": 3301,
+    "sha256": "ea92df398c4ced256fa144958d3a8b7d60ece46c226dcb8832868ffb1df7f7d5"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/harbor.png",
+    "bytes": 2048,
+    "sha256": "506545526fcfa6655206d840da1392b14d8a53ed63bb40ba907c1e503834fd90"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/heart.png",
+    "bytes": 1745,
+    "sha256": "f648f8d38ae47696c6596c106c6ef4b3984cfbbab2a83a82b911f5be7621067f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/heliport.png",
+    "bytes": 2059,
+    "sha256": "4c5ec82bae0ef3ed3b38bd8089ce0ae64b4a9a2de6202855b22c736281f65440"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/hospital.png",
+    "bytes": 909,
+    "sha256": "0ba68595b4d670a16c953894b2c1a0c342c072a2003cec4dbe630aa10efa1568"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/ice-cream.png",
+    "bytes": 1602,
+    "sha256": "9ee2b16f1ae408f624d79cdbde704284579238c9daadda5938382abe1c4d543e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/industrial.png",
+    "bytes": 1092,
+    "sha256": "4bc573a1d392c228c94d8a397a830cbb7093cb969469eda44019634e3885d5a1"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/land-use.png",
+    "bytes": 1773,
+    "sha256": "261d7de6098521628cc6c6bfa02a47d17931fe521cc8e47dc56bc5d83aa28443"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/laundry.png",
+    "bytes": 2407,
+    "sha256": "303c0bd8319b88b139997cabfba201eccb5afd1f7d5401eabd90c2c66ca2a43b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/library.png",
+    "bytes": 1355,
+    "sha256": "511b7f8d3b1a2ea2205d8466b5d5129855a12af6cf1f5baba2f4b8a4dd5e562c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/lighthouse.png",
+    "bytes": 1944,
+    "sha256": "dbccce865f1789f5326566145401366fa94913b6462672c5f252be803014c714"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/lodging.png",
+    "bytes": 1362,
+    "sha256": "02c1d81ef957255d27cb5fce70ef4f3bee79f4f8ec3b222f559f4375ef7ea6ac"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/logging.png",
+    "bytes": 1378,
+    "sha256": "056e8893c58ba30f5a0d9905194b0e60e4f31d9c1a59b5711d53647e4749528c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/london-underground.png",
+    "bytes": 2979,
+    "sha256": "f8a41f09994d53d27335bbc70aab29a3d042583bb6b4520afaaffd0dd3f8e2fa"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/marker-stroked.png",
+    "bytes": 3414,
+    "sha256": "e21d955606f5911a981e4674ba1a491b68bdf37c7ed698be2bc210d7e86c9bc1"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/marker.png",
+    "bytes": 2448,
+    "sha256": "f8fcf45e3b3355ed9fba1050a26380927732300b54d8bb00b80fecf7bdcfc7d7"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/minefield.png",
+    "bytes": 1907,
+    "sha256": "aa1634ca37adee2849fba655285fed160763f53b7c5163f2753609c506312d64"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/mobilephone.png",
+    "bytes": 1474,
+    "sha256": "07e26f366da18b3fdeb53b6f29ff5bacdab5513758bbd6217ac41ebe5fdc104e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/monument.png",
+    "bytes": 1376,
+    "sha256": "707a32e0c3b943941c396b18d6caa08fb0620a0ed07d84496ffad42cdb2d57e6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/museum.png",
+    "bytes": 2578,
+    "sha256": "384ccd2fe0977c7b7a51635c6a16e81f6c906a355635ccda2ff33d897c16bd93"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/music.png",
+    "bytes": 1371,
+    "sha256": "c6bd30e02b950aeb2f5da711011d9b0bd5dbec687adc39a2f8f27025c8fb8508"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/oil-well.png",
+    "bytes": 3357,
+    "sha256": "f0c99b3662e9f1abe63a387c1da5cadd5336b155650d3daf678a8f18401c2fd5"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/park.png",
+    "bytes": 2059,
+    "sha256": "b5ee53a16dd03e32630218a2453065f3f6435ec9246028fa08785eb1d52ef54a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/park2.png",
+    "bytes": 2284,
+    "sha256": "7fd262afad32b6d2aabeb0839b746468671e131b234a6265b40cb284a4003c4f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/parking-garage.png",
+    "bytes": 1563,
+    "sha256": "251d73325620f24a16357f542967dc0112dce10679b27db3e7f489fd05ab9ded"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/parking.png",
+    "bytes": 1250,
+    "sha256": "3e62ecf1573c7b13d7be9cc28ffe9576e6e30963fb5d1df6dace01acd72dd447"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/pharmacy.png",
+    "bytes": 2258,
+    "sha256": "d382d9b8a06ac3a089b35a8137848c74fd41bf465b5d4b1a975ecebe4a992163"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/pitch.png",
+    "bytes": 3288,
+    "sha256": "abe872e09e244eab94237c254926b866dc1685a999833d95f443ac013fc976f3"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/place-of-worship.png",
+    "bytes": 1111,
+    "sha256": "03755fe12b0b412835dc807fde64973e6316df623d6a6e81ca052d750d85d344"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/playground.png",
+    "bytes": 3856,
+    "sha256": "0fac0aa78869da09e39e88632af82177d98723dd38141e81ab6b09a29129a7d8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/police.png",
+    "bytes": 2194,
+    "sha256": "51592091904f75f4a25e37f87b326dc576bfacac9317aa6dfae2d0e0a8f117ba"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/polling-place.png",
+    "bytes": 1772,
+    "sha256": "0c4c8a5d1bbc1cc0f137cc1a357d418a442ad0bd3074a32819e9704fcbb265be"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/post.png",
+    "bytes": 1273,
+    "sha256": "cff1c2c20e77dece1eecf3dfb0fe10f139309ac78a2523bc9f01b4279e98e291"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/prison.png",
+    "bytes": 1371,
+    "sha256": "64636c8abe45f5cb8c3dc9ab73111683c4aa345691a5f17c327f909c774c0a0e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/rail-above.png",
+    "bytes": 2071,
+    "sha256": "1b4555bb2169307c5ee1bc8afbd9ad97cfb36121e87e6413ae6ae137fb501109"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/rail-light.png",
+    "bytes": 2816,
+    "sha256": "e989ebe529a979dd7600f5a6c8039c32972bf424b70558baf134f779901f1703"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/rail-metro.png",
+    "bytes": 2249,
+    "sha256": "b89c202b5fdea739ce812932a22a3a15ab921a1aa2ceb0d801d4913f763095a5"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/rail-underground.png",
+    "bytes": 1996,
+    "sha256": "2be6c183a1b8604551a8c88d6437e826680da8b5fc75237b5e7108f38f347e11"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/rail.png",
+    "bytes": 2073,
+    "sha256": "4965beb812449d4abc1cdb9e30a3d1a5f7c18999571794e38eb92c8ad98cb048"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/religious-christian.png",
+    "bytes": 948,
+    "sha256": "a74c5e18bacf1469c22e6ff84736a63187b0c21048799885acabd5fac25d5cc0"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/religious-jewish.png",
+    "bytes": 2384,
+    "sha256": "fe5d53b2f1cc5e80a2e2fb6b9163ca27748c2a031ea2df4d0c614ffd338adba1"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/religious-muslim.png",
+    "bytes": 3925,
+    "sha256": "5b06c277d3638ee79172fb4ff89d84f1e475a1b25434953f19cb343e2b7c9fd1"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/restaurant.png",
+    "bytes": 2499,
+    "sha256": "85031df6b2174e72ec76dc0de6f4e54ab348426c7f738b11d8b7eb22bb72722e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/roadblock.png",
+    "bytes": 1312,
+    "sha256": "d455530701e372698538f32a4d71029897e297e6124fb68550e5f323fee40bb0"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/rocket.png",
+    "bytes": 1653,
+    "sha256": "a167e92802b80e5bc5f78bea77d051007524782979a1b89eab9288d1e80ff5db"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/school.png",
+    "bytes": 3838,
+    "sha256": "1cc6087b652577de5e60525b5daa20c07cc126b526fd461f04381ae586a7025d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/scooter.png",
+    "bytes": 2942,
+    "sha256": "4aa704ae97edb9bc514c0fc0ebe7adf2aa3f515ba3a15c6c17c25e17c8c1b8d6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/shop.png",
+    "bytes": 1544,
+    "sha256": "1742dceb33d3ecd6dc66e5f5f1e637c65da7f4d92b066a2379dcb7e7e642ffc0"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/skiing.png",
+    "bytes": 3345,
+    "sha256": "576d29be1492b2973ffbaf688c7e8b8044f350c29317ad29060e3db29c3dc751"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/slaughterhouse.png",
+    "bytes": 2270,
+    "sha256": "69a20fc6dff36897cf3152a525d36752799d5805bf5f01ae5bcdeaa55abdd84c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/soccer.png",
+    "bytes": 2420,
+    "sha256": "34308b14fe61df1608ddae5a8cd42e246487f11368f91867cb80e43590bfd4a0"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/square-stroked.png",
+    "bytes": 650,
+    "sha256": "2b48882145df7a64dcfa5f94789875a3818eb5976494198a72dcfbd2ecc2984c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/square.png",
+    "bytes": 582,
+    "sha256": "68ba096d343037fed0dd1271ef8cc0bad600a134ec6082ff613f1a340f3c0ed8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/star-stroked.png",
+    "bytes": 3460,
+    "sha256": "41f15812c35881118eee7b8eb3487538f2617ef8523f22ca738e2901e5752469"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/star.png",
+    "bytes": 2703,
+    "sha256": "58e516f3e338a1784198a5d3c05a486d41b55dca4122bf5c40986a9e0528460a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/suitcase.png",
+    "bytes": 1129,
+    "sha256": "066e75d3303b4edf97086acd70e6e9aebf1165faf9c40adbf58f6585bc04552c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/swimming.png",
+    "bytes": 2106,
+    "sha256": "3e7e12dc1197399ee43900a77444e7d8cfeba04732a7547f5b13d0e99fe70b63"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/telephone.png",
+    "bytes": 1702,
+    "sha256": "3d6da688ab5735a1137207e041fb0023dbb1d6d40e328c63664c8a2c737c5391"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/tennis.png",
+    "bytes": 1658,
+    "sha256": "7138863b8e10b5e78f5f0a02cf78b5f1f8912a97da433fe2df2c60f3b18ed556"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/theatre.png",
+    "bytes": 3233,
+    "sha256": "cb45d9d94385e3d164fddceb40c00cd6f3654de4fd44df0fa9d539ce1f68fecd"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/toilets.png",
+    "bytes": 2917,
+    "sha256": "e08a3ff947299d4f110fd7fd4ff30719d433d95cd52337341915f0e06c2f2f74"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/town-hall.png",
+    "bytes": 2005,
+    "sha256": "33b7f1bcd10f771f821de464367d785c20545075142bf341b250e5822124795e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/town.png",
+    "bytes": 1125,
+    "sha256": "1402be94a92ac7884d0e0b0344db84f1b74170ed7012b7d95982e072b38eab59"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/triangle-stroked.png",
+    "bytes": 2837,
+    "sha256": "880ea63998f0cbe79730df17e22d2b6f87941a535408b06d5ef62df4b3d6fdba"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/triangle.png",
+    "bytes": 2137,
+    "sha256": "6ccfb06da43d5969424510d418e75b18c9c06fbbac2c6531105ccee98d26c551"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/village.png",
+    "bytes": 2145,
+    "sha256": "3e73ebd0f5c2bfa83764a1fd74a4e4de855e43a38acc9b75aaf423a8a63342d2"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/warehouse.png",
+    "bytes": 1908,
+    "sha256": "90fe8a1799906e59ed8fe7e0b35ca2ec66a39a592c3a8e5c8fe8f93a06eef387"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/waste-basket.png",
+    "bytes": 1917,
+    "sha256": "5ef33ea09aaf66f1f429efb735cd0b2fcc7b8372305f9acdc2d27f621b8fb889"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/water.png",
+    "bytes": 2411,
+    "sha256": "a1b40fc3d50e119865ed8b98fccee6b0d2d1da2133731074d3df8f1f5f5b38c9"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/wetland.png",
+    "bytes": 2151,
+    "sha256": "bdbb392ad5fd31edcc9973f72e1ebc03911204d98c2e786b07bb4adae65ca7b2"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/maki/zoo.png",
+    "bytes": 2681,
+    "sha256": "3c8d46e2412476547805180fb62d0c5fc23d7cbd65c71a6738ecb668effbcdcb"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/moonSmall.jpg",
+    "bytes": 18196,
+    "sha256": "380fa69424e1cd2268816e346dc56393bd1c809b8e0cb078e705ec469a5847db"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/pin.svg",
+    "bytes": 348,
+    "sha256": "0d80bf787ae3b97d010f50195605d541501c08740994fb0b403f76449c007019"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/waterNormals.jpg",
+    "bytes": 294196,
+    "sha256": "9ab17625d9a2b0541c14a1b24ae8e3e192b40882cc77729c46b5de5648a991a8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/Textures/waterNormalsSmall.jpg",
+    "bytes": 34121,
+    "sha256": "ef35a21e3cbff36032d118ff1df951ad88c023c39562c44f5b2d46f308e98858"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Assets/approximateTerrainHeights.json",
+    "bytes": 299471,
+    "sha256": "36466e2dc84f6c173b609ffc704bc021cd9fdb33c287570bf57e4f566b58e6a6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Cesium.js",
+    "bytes": 6080574,
+    "sha256": "a5ab7e638f51d3bc5a6c710a79c9aecea42d9252b5cd2dad34980ea771c2c9af"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/LICENSE.md",
+    "bytes": 55679,
+    "sha256": "721844bc0cdaa9b1a9a145dbca1f981e2de15a7e200a5d1fd9f5f1eed8e5d030"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/ThirdParty.extra.json",
+    "bytes": 1532,
+    "sha256": "5fff210f16bcbe0d414a4f634ceb2b0564dad92065733c26ec3ee4aff89a4b10"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/ThirdParty.json",
+    "bytes": 3616,
+    "sha256": "c9b447829d8489798e7bb74624e0308bbb0d0f974b9ff6e369dc21878a1cb45c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/ThirdParty/Workers/package.json",
+    "bytes": 19,
+    "sha256": "fa6944a20ca5e6fbaf98fd202eb8c7004d5b4ab786e36b9ed02ee31dbe196c9f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/ThirdParty/Workers/zip-web-worker.js",
+    "bytes": 28430,
+    "sha256": "7a3d1908dd32dde8be0902f9729b45f73ebb7de5f4e367ed04f4de7596390d69"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/ThirdParty/basis_transcoder.wasm",
+    "bytes": 500839,
+    "sha256": "96849a2719b431008533806199ad4e513ef5a5f632b87e452fb1eea961d5730e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/ThirdParty/draco_decoder.wasm",
+    "bytes": 285948,
+    "sha256": "2516a4e43526d71787bf2f678f951329f7f858f8f15f42d4bc9e370b31a0da3a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/ThirdParty/google-earth-dbroot-parser.js",
+    "bytes": 218747,
+    "sha256": "cced3e7fdc467edf0722347e7913fdb9680a9e4f32d52b622c01a9970e9a0fc8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/ThirdParty/wasm_splats_bg.wasm",
+    "bytes": 26522,
+    "sha256": "530cb068ddd94b7267db1e1690ebdfcd94c552b2886d79398438841c42a1a14d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/ThirdParty/zip-module.wasm",
+    "bytes": 55126,
+    "sha256": "1ebaf6e62f247a005189493097f460bc9050f248755c55ecba34fd54257a6bb2"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Animation/Animation.css",
+    "bytes": 2748,
+    "sha256": "ef37c1157734f55c8ebf932359f43dc233e3334d38cc722045fdf2c89aa914da"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Animation/lighter.css",
+    "bytes": 1919,
+    "sha256": "93d0422a375d1740515bc74e36b7148c0a7ea2cab2b57a4c72d33e9470c2e655"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/BaseLayerPicker/BaseLayerPicker.css",
+    "bytes": 2544,
+    "sha256": "4589a67b8423b2e2a34bbd4cdaf7c7bca63159d702679556ce948cc9cedcd94f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/BaseLayerPicker/lighter.css",
+    "bytes": 734,
+    "sha256": "2483870def48e6db019c97e6f82d0ec6fe60c63facbe2c161cfe2c1579ebef67"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Cesium3DTilesInspector/Cesium3DTilesInspector.css",
+    "bytes": 2431,
+    "sha256": "03e6368d1177e4fc0f7c7faab9c6f660867b0e5f01d2d23001b3811eef67d891"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/CesiumInspector/CesiumInspector.css",
+    "bytes": 2633,
+    "sha256": "53202d9e53ef40afe580925c62ba4e9c1a149a1bae001cb6256ed3084def1171"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/CesiumWidget/CesiumWidget.css",
+    "bytes": 2265,
+    "sha256": "d177d8ab518dda483c404ece734142a51ba2389f2114d259f207b177c0840234"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/CesiumWidget/lighter.css",
+    "bytes": 307,
+    "sha256": "e5cae7e3497064bc3cd16c11a65e259fc55bbdcbce344f76f978e6b0e0b78190"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/FullscreenButton/FullscreenButton.css",
+    "bytes": 193,
+    "sha256": "c952978d84ab0cd9077e0f6f8ebe3a31dc52231a6ceb61169b08e5c58b1253b7"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Geocoder/Geocoder.css",
+    "bytes": 1811,
+    "sha256": "9290b14bf7159dbd4e09de16ae8057682d580969063b2d1cfd683dd4e6efc5b8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Geocoder/lighter.css",
+    "bytes": 495,
+    "sha256": "126bdceac44eae6871200ee0a931ca95c4a4825f405907c21c0e917aa8361576"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/I3SBuildingSceneLayerExplorer/I3SBuildingSceneLayerExplorer.css",
+    "bytes": 636,
+    "sha256": "4be131ecc81a6932a7ccad93621b91f8a26f67fc5d71f9f2c96b42580014d058"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/ArcGisMapServiceWorldHillshade.png",
+    "bytes": 8624,
+    "sha256": "bd005647a69b59b30660e6e6f1a8e6cf4bf5ad0f3a1148a705aa325d8427fd97"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/ArcGisMapServiceWorldImagery.png",
+    "bytes": 12290,
+    "sha256": "7abc9ebc21e94f9e4e86649d62661580193a70e3e54637e01253bee98269b7de"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/ArcGisMapServiceWorldOcean.png",
+    "bytes": 9905,
+    "sha256": "81cbcc167040b451cf2b2dd86bb2467079bae7bfe044fda69d1a751f72d0a662"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/azureAerial.png",
+    "bytes": 32446,
+    "sha256": "53e2e0108d57ab985fa594516df532265e1663ab31732179d6173f4fb32b4f3f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/azureRoads.png",
+    "bytes": 25152,
+    "sha256": "d4033f8ef9eb55728815eb33e6e69ba1dc848f259e9a9be9e6c04cf7c0be0e3a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/bingAerial.png",
+    "bytes": 9943,
+    "sha256": "705be480540ee78bc2c719864537d4867bd278a46283c5b293777d63139a75f3"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/bingAerialLabels.png",
+    "bytes": 10374,
+    "sha256": "6c6bd8344cbc5eb5c2d10ae281e1ae948ce584366a36214ed2754c40d787f808"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/bingRoads.png",
+    "bytes": 8076,
+    "sha256": "8bca72a4659d797752494f2d772f7cb1f78db376b23907c9161a7e3660e6a4de"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/blueMarble.png",
+    "bytes": 7403,
+    "sha256": "3da5f427b2355c1b80befb0ce02856fa250bdb8e30721397a7953095fbd30c97"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/earthAtNight.png",
+    "bytes": 5836,
+    "sha256": "9bd366dabede661b775d2be55e4bb70625362bc8fd9a296ca6988f075744c2f5"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/googleContour.png",
+    "bytes": 40737,
+    "sha256": "0a0a741ad84c0c0911f3f251bb6954e579e583e6bcc601812b5f759d0a6edb48"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/googleRoadmap.png",
+    "bytes": 32232,
+    "sha256": "3fb5cd008d06f26c8f3a0b43316b08bbfea6af3c240ad024be8b4af1fea4b20f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/googleSatellite.png",
+    "bytes": 40898,
+    "sha256": "d1b9582fb3edf9d81d5a9c083d0e6c68fd48a4a28cabb3893e66f78e3378781b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/googleSatelliteLabels.png",
+    "bytes": 40267,
+    "sha256": "bedac990018f0be2223eb303b43db2a55bad3556eb9d9790ae7cf9f2632789bc"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/mapQuestOpenStreetMap.png",
+    "bytes": 11342,
+    "sha256": "b751906c7ff4122f52c0688aec4ea496de65e1788053a0d6b958e0393fc8ace3"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/mapboxSatellite.png",
+    "bytes": 9242,
+    "sha256": "4eed6627af0abf1e3f466e92c3cf32f9fe81e0d2eda16fd252f64c06aa496291"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/mapboxStreets.png",
+    "bytes": 7270,
+    "sha256": "a74b31a51560751e3ccccb68ef3dfd01eafe9c6db42fb732a42d0972397fe9ad"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/mapboxTerrain.png",
+    "bytes": 8300,
+    "sha256": "19b7b62ae23dc3c8f3548e1c594670d052d10d2048954b50f30a1f81a3c5b7a0"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/naturalEarthII.png",
+    "bytes": 7491,
+    "sha256": "f31016adfcb20341ccf6a7cecd8c2351ec820bcb769ad62520e676ff883bf347"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/openStreetMap.png",
+    "bytes": 2663,
+    "sha256": "403ec35912440a3f5d01b2caca318dc7cc6efbf1c73bbfe040e0fc45422c349a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/sentinel-2.png",
+    "bytes": 10086,
+    "sha256": "e8270fcacc9ac6829c8f3a8978bab7697b0679c951290a1d7ffb854747c4658c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/stadiaAlidadeSmooth.png",
+    "bytes": 7302,
+    "sha256": "7130b53ea9712f3e6669f276fc0bf6ac75cefde9faf44365ec1bdcfaec2dd2fe"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/stadiaAlidadeSmoothDark.png",
+    "bytes": 7289,
+    "sha256": "161373153d350946dd396cb27c6cd7ea6374a89c8d4a4b80eaeb1740b7983748"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/stamenToner.png",
+    "bytes": 4119,
+    "sha256": "8de09648729219d7bbc611474efc7f6d6173b868e104f2d2cddbfea1298a5a94"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/ImageryProviders/stamenWatercolor.png",
+    "bytes": 10806,
+    "sha256": "6663e5ccbe5af16f1933069ca3f3b298f469b5cd8b6a9ea914240c1a7e8f7232"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/NavigationHelp/Mouse.svg",
+    "bytes": 5623,
+    "sha256": "8633a7dadb468dcea41869b624f7b809ceb314a5f0b7e55a30a8eeb7cdf23fb9"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/NavigationHelp/MouseLeft.svg",
+    "bytes": 5581,
+    "sha256": "4051709cc4059cd740617a34ebc56b2e9ce378675203cbf6281eae4f04f5ec58"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/NavigationHelp/MouseMiddle.svg",
+    "bytes": 5579,
+    "sha256": "bd7f72a62457527af6cd94eb3460dd58dd2d8105080db5619bd9a440fe1f069a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/NavigationHelp/MouseRight.svg",
+    "bytes": 5572,
+    "sha256": "8780853b6eea524c36fa2ae759c00d811bb0fb6274b8c7953705a8b0ea318ba4"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/NavigationHelp/Touch.svg",
+    "bytes": 3446,
+    "sha256": "c574d42a0250d9f48e7b4c71185b4a1a1a4b4301ea03ddbf22f940638995f1f6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/NavigationHelp/TouchDrag.svg",
+    "bytes": 6288,
+    "sha256": "8964f930f74b060a490b033005a1da10983cf6c8ee93c93caf84525126374992"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/NavigationHelp/TouchRotate.svg",
+    "bytes": 5626,
+    "sha256": "5722d19812c315a334034364c1eef2e2df75a975bdbe8de96d47e258e807029d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/NavigationHelp/TouchTilt.svg",
+    "bytes": 5862,
+    "sha256": "c2fb3e9f406a08e64360d8f1b2d289c61f6200167d14e2b3b461434f1aec4069"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/NavigationHelp/TouchZoom.svg",
+    "bytes": 5482,
+    "sha256": "7a05cc6f1fffb80f88ee8d47f16d51fba00f432583943ff2baa8564196e4a616"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/TerrainProviders/CesiumWorldTerrain.png",
+    "bytes": 10080,
+    "sha256": "714355373dcbede4d4ad850be207fe2ed6830c4d171a7c5158794d19351a2a72"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/TerrainProviders/Ellipsoid.png",
+    "bytes": 6173,
+    "sha256": "1bf31e09a782be7fdfe1b611e4dcb5d1e59fcf3eef59509a11627dd8e7567b54"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/TimelineIcons.png",
+    "bytes": 781,
+    "sha256": "526c03c04d87bd2250f67b6cbcec9c045437168dca76506e50297388046d5059"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Images/info-loading.gif",
+    "bytes": 723,
+    "sha256": "28239b6aa67c3491f7893dfac9d84a2e2768ac450dc7d51c23548de33a7e3c05"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/InfoBox/InfoBox.css",
+    "bytes": 1950,
+    "sha256": "dbf1e88f02890085a1fa9357d49880c8e93e0184c4e63faf136b2f272db040e6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/InfoBox/InfoBoxDescription.css",
+    "bytes": 4675,
+    "sha256": "a392409fdd193076707b06c9a07bb9440863ca968079fe48d2ccbe1573b1b8db"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/NavigationHelpButton/NavigationHelpButton.css",
+    "bytes": 2074,
+    "sha256": "7d257f03a4fdc5c4b2a5c5f257b000889aa71e13b5b18327af78c278e9e82ec4"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/NavigationHelpButton/lighter.css",
+    "bytes": 1063,
+    "sha256": "60385a98dde35c997d0d6af3ec87463bb3dac320dd724273154a26ecfad72b82"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/PerformanceWatchdog/PerformanceWatchdog.css",
+    "bytes": 371,
+    "sha256": "31214dc54f28b507b1c7baad35ad0352e9fda9fd1b24f915811f58b82ce6da77"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/ProjectionPicker/ProjectionPicker.css",
+    "bytes": 1216,
+    "sha256": "760c4a01553151d57a614f5e13ff854c0df45f87fc3fe193e8f59bc91a1d010b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/SceneModePicker/SceneModePicker.css",
+    "bytes": 1794,
+    "sha256": "3dc94f4b216d9c9821f9cf7c4bee9357d6f458d4743dea328639f167ef5bb5ec"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/SelectionIndicator/SelectionIndicator.css",
+    "bytes": 472,
+    "sha256": "797c9e1e2970a688bdff10f544268ede6c47bc449ee7af63e7d4e3abe83190d8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Timeline/Timeline.css",
+    "bytes": 2910,
+    "sha256": "d2f1655e59137ddefa05e8bdf8f68160f8247cdefcba51de55440a178a01e99e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Timeline/lighter.css",
+    "bytes": 467,
+    "sha256": "454d14e1ad03bb6cef04b7250c159922815b1607363d965a11e9869b0ef8a3c1"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/VRButton/VRButton.css",
+    "bytes": 169,
+    "sha256": "f220a4e72d2a49d72ac003651ac9b504b1326bfd513e2380d566eb9ed0fb0cd6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/Viewer/Viewer.css",
+    "bytes": 1958,
+    "sha256": "495a778aff711560c57511cf13b5a943d7cea5fa47d3e87a133952e2330af2f8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/VoxelInspector/VoxelInspector.css",
+    "bytes": 449,
+    "sha256": "58bb321e5b2ce6d134033c4aae77539c26f4b5b8078944fff180bd5e1ab122b5"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/lighter.css",
+    "bytes": 6142,
+    "sha256": "92e9b28deeb10aa256c7227c85bf79946a6ce1def3cbc0ffd04cb47dee506d03"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/lighterShared.css",
+    "bytes": 1062,
+    "sha256": "13652fc7eedf3f3a6816e8c90f2f5fa35a1c8951f387b35a5299c74371df2646"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/shared.css",
+    "bytes": 1952,
+    "sha256": "d4d877c863037a80916101b8e983e99f69d7a6cc580e3ee7f03f16ddcf19a909"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Widgets/widgets.css",
+    "bytes": 30710,
+    "sha256": "702c5adf3d16ec7f1c03cc5fb7ecb823af6c59fa192789fb2c859ac7a11f4a0c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/chunk-6FYG4X2F.js",
+    "bytes": 4502,
+    "sha256": "82ed8efcdec5f6652fafc2d11d90c50738d97a5e06d6a6e9b148d7162091f721"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/chunk-GWE2HRAQ.js",
+    "bytes": 491570,
+    "sha256": "7c0c80b3575ee21ffc9f9fc9c01d139c2e046dc17336bafcccf290e67433204e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/chunk-HNL5VMHB.js",
+    "bytes": 5098,
+    "sha256": "475ab759ecb0c16b83ab47bcca900eb9e63657c44af20bf46a8a5484c559b39d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/chunk-IGOYCRIJ.js",
+    "bytes": 9687,
+    "sha256": "ee4321ce312ddcbf5d2a822bbc95061fe89e15adbd8ab490fde31accd5e3e69b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/chunk-J6FR5PFB.js",
+    "bytes": 1518,
+    "sha256": "a329c6e3d8fd8fbef82cee66fd993473ea542bf47dc07513109f6f62c31651cd"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/chunk-LOEQS4D5.js",
+    "bytes": 178775,
+    "sha256": "82f0a6b6be50cd4768e62f63ee605dc62118a0c40d45c1a27e8eb75a304fc55d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/chunk-MXXXHGW3.js",
+    "bytes": 7675,
+    "sha256": "9a6421166c6a40d27ca5e03d918f2dd39a2f35f74f657bcfb43e68f7a2222363"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/chunk-QVYSL4VL.js",
+    "bytes": 26397,
+    "sha256": "ffe4122633d32161a29d0aec9832307ac2617b991fa82c810e0d1368c3a373c2"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/chunk-VF77DAIX.js",
+    "bytes": 6034,
+    "sha256": "e71b43b58716487682994b691ed7a2bb1c658acb18392be4fb66fa8a601cd239"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/chunk-YYTML7GF.js",
+    "bytes": 58499,
+    "sha256": "8be26ae8cb47c0e250ed9dafc71c3307b75bcb7445f0bb4eefe32c865db03b68"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/combineGeometry.js",
+    "bytes": 1111,
+    "sha256": "e62a7854b7b29341b73618d1ecba44546c1589488e7c0cbdd3d1cdd7a2fbb1af"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createBoxGeometry.js",
+    "bytes": 991,
+    "sha256": "f034d2a2d403a165585b96ddbb6b820237667a980ffcff2c7ba0e1e24e9a90ec"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createBoxOutlineGeometry.js",
+    "bytes": 991,
+    "sha256": "c1900713d734a07b57ac9ae7556dfed309db58f7105ed16eb716c96f46f7f73d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createCircleGeometry.js",
+    "bytes": 1137,
+    "sha256": "58468a01015ea1882e50f993cfc51fd226dae872f9751e46169377722cdded0a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createCircleOutlineGeometry.js",
+    "bytes": 1137,
+    "sha256": "2177df01e3e885d445baf77658c46b88e347aaf14d5856cce6468e21b36e814c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createCoplanarPolygonGeometry.js",
+    "bytes": 991,
+    "sha256": "db4a5d3376b11f0486af57e866bf2493202fbdd35e168ef73eac6c391a243f8c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createCoplanarPolygonOutlineGeometry.js",
+    "bytes": 1033,
+    "sha256": "7e626e34b8841178004b0e069a0436c836f4fdb15bdf5e4b8e8bf05711a0bc4e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createCorridorGeometry.js",
+    "bytes": 1034,
+    "sha256": "0f01e6a2c94a905bb5489cd27246a9a7da9d025449c163c8c2f059d2506afdbe"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createCorridorOutlineGeometry.js",
+    "bytes": 1034,
+    "sha256": "ad5bfdff154f089512a410b2dd865a4097d65703e785c09cfc429902c35659b6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createCylinderGeometry.js",
+    "bytes": 992,
+    "sha256": "ea29a28742e67ccf93d19a262ddb636ea9e068dbd8c9af048ba6c8a36305c9d9"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createCylinderOutlineGeometry.js",
+    "bytes": 992,
+    "sha256": "46fdb72203cbc421f5be06768eab458fe55346a23f4e072c22ced5319055beb4"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createEllipseGeometry.js",
+    "bytes": 1069,
+    "sha256": "1cec0de29363ba44d9afc1ba19bb7aab51437f1e2610bd5d71eb724a3b3fc860"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createEllipseOutlineGeometry.js",
+    "bytes": 1069,
+    "sha256": "c9312ebb2e183bcebe60e705d14c970591a6d2d6309291e97bc5d97cb46f45fe"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createEllipsoidGeometry.js",
+    "bytes": 992,
+    "sha256": "833edd5c6f75a57baa0341d4afaea725ab1d3087f40b3e48f110b5d7db6151d4"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createEllipsoidOutlineGeometry.js",
+    "bytes": 1001,
+    "sha256": "1cdce2ebf931e873f7afee5f51b8faf0c60e358fca49092e1f0bb47abc3f7af9"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createFrustumGeometry.js",
+    "bytes": 1024,
+    "sha256": "9a4ba6085d75c4344ce0ccb1e908b21659cc590099391e47921cff179ba3eada"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createFrustumOutlineGeometry.js",
+    "bytes": 3155,
+    "sha256": "ec5a03ecabf0f62d142da6c0380925f0cdb5f136849c4804652f79b1bebf0781"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createGeometry.js",
+    "bytes": 5801,
+    "sha256": "39d52d5d79d346ae342b791a887722e71f6681d74dea0fc206c4d4fc4ac5fbb6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createGroundPolylineGeometry.js",
+    "bytes": 15925,
+    "sha256": "49eaa0eb62a9c9b8c5f67c603ed097c80d40b592d085a8c6e15b7f4371bdf72b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createPlaneGeometry.js",
+    "bytes": 992,
+    "sha256": "dcc20663ce6554965a9aebd3d8a3c1b3c0a62da7436b46cd646b4aa0c5ac9692"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createPlaneOutlineGeometry.js",
+    "bytes": 992,
+    "sha256": "ad0cbd658a87156f9a3e51625e8dd890bdb9826eb347978df09779a8f06cf26c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createPolygonGeometry.js",
+    "bytes": 1034,
+    "sha256": "a17661276bb34d7b6855480088ba63286356b2cf73c537f9f77b55ea448f08b3"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createPolygonOutlineGeometry.js",
+    "bytes": 1034,
+    "sha256": "018b9360ba755c7b3ca4bdb0805317ec7ef97b50bc1a1aa35d48636bec71b142"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createPolylineGeometry.js",
+    "bytes": 1034,
+    "sha256": "3faaf50829061c11d13a10c392b588fc98d66ce9cb6f6116848b97db8ac38e77"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createPolylineVolumeGeometry.js",
+    "bytes": 1034,
+    "sha256": "7d964d414e5d5e9c3703e1a9937b23593203ceb1200e6f2d7616a4a2a36bb452"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createPolylineVolumeOutlineGeometry.js",
+    "bytes": 1034,
+    "sha256": "b4bf1a1b309c99532e2ea4e0b61fea887029e6181df7bb72f6f66d849ed3d8cf"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createRectangleGeometry.js",
+    "bytes": 1076,
+    "sha256": "6416032c3e95c087ecd49dd083eff056720508e2d7ccf1806d7687be04222fdf"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createRectangleOutlineGeometry.js",
+    "bytes": 1076,
+    "sha256": "c8b2cc68a4e957172157e5fe24a9b02671ada7f9788a0dada085937a1293e88d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createSimplePolylineGeometry.js",
+    "bytes": 1034,
+    "sha256": "93f4a0fac02fefb0f15a1df81e8fc7a491f6c5fd885aba9fff2d47fb92b274ab"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createSphereGeometry.js",
+    "bytes": 992,
+    "sha256": "1c8368e889ae1a457d428acad7ff2984f0cd52541816112a7050d0c4a867aa82"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createSphereOutlineGeometry.js",
+    "bytes": 992,
+    "sha256": "f9db10f048eec599366e9c53ad5d4ecd2ecd55998561657221b3ba81ff3ee1b5"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createTaskProcessorWorker.js",
+    "bytes": 932,
+    "sha256": "65493b8bc150f105b42b99310fd0d3706e4ff844ee7c787d5ccec240fd43a772"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createVectorTileClampedPolylines.js",
+    "bytes": 5708,
+    "sha256": "d325a58c501c84e9228ee85fa250806bb549b9553b26fc09d6ff2e8e8aa648d5"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createVectorTileGeometries.js",
+    "bytes": 5139,
+    "sha256": "55ed08fc95e4401df4332fd5b77442008e9e2139e6aac38f4b2515aa535cc18f"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createVectorTilePoints.js",
+    "bytes": 1646,
+    "sha256": "2e5a47026f7c3e6e3b5c1abfdecd8b891cd2985a073e9d9d6a7d92ce7f4b7591"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createVectorTilePolygons.js",
+    "bytes": 4836,
+    "sha256": "644b7f1771ddee36357f44c14d5330b0bacfd08550b7971f5242a207e26b4829"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createVectorTilePolylines.js",
+    "bytes": 3285,
+    "sha256": "81912bdb0e3f171920ac37592542eabeb2363aaa99604d8a56e619e098226f1a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createVerticesFromCesium3DTilesTerrain.js",
+    "bytes": 1577,
+    "sha256": "af9136f29b4328a9c420e4a9acbe7051a535fda53f65c8544090288e9afb9984"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createVerticesFromGoogleEarthEnterpriseBuffer.js",
+    "bytes": 7311,
+    "sha256": "467359d94fa884a5bd70e67a35beed04de53a883640eb9411c4095c3de2c70f0"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createVerticesFromHeightmap.js",
+    "bytes": 27703,
+    "sha256": "c91596474366ede86d9e2a44494ab0baa51d5e36c18da87618fdc22d4b49416d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createVerticesFromQuantizedTerrainMesh.js",
+    "bytes": 5388,
+    "sha256": "3e0b8934e4b4353b58ef7026ddec5fff762c2b35051a1ad2d5b69b483dd2f8e0"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createWallGeometry.js",
+    "bytes": 1034,
+    "sha256": "989b8ade6e548c4aa9c6168f692f9088a067fe68f1fc6440fb8a41782da904d7"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/createWallOutlineGeometry.js",
+    "bytes": 1034,
+    "sha256": "29c84cefa6275256f1ab20d2b3fd307bd84bd9feab25af5dcdc35a7194080eab"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/decodeDraco.js",
+    "bytes": 4862,
+    "sha256": "a8f91577249ae018beaa17e0f75898bf92c063ec64152c35a9a1a6a78dfe03e8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/decodeGoogleEarthEnterprisePacket.js",
+    "bytes": 36060,
+    "sha256": "5e21cf6aab53f28e871bd1c4f67d03587f6c49e8b18081fa90d91ceb09df6360"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/decodeI3S.js",
+    "bytes": 16831,
+    "sha256": "b4f53976abf64ef0edae7efe0d771e916fab32c7b2a22827066a395c79ab4f75"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/gaussianSplatSorter.js",
+    "bytes": 1266,
+    "sha256": "f83557921ce870751efdc3d20c55bcbe855ef718e58c4228fb7b8a1b0f9ee166"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/gaussianSplatTextureGenerator.js",
+    "bytes": 1304,
+    "sha256": "0dde5372a103a0fd83daba3bdcd72015de3a8b635d35895b4401a9df7ccc6bf6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/incrementallyBuildTerrainPicker.js",
+    "bytes": 1892,
+    "sha256": "ee16bb738db5b8918e7ec842aadbbb5ade03c3ccce585c96ab3531b61b27131a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/transcodeKTX2.js",
+    "bytes": 53472,
+    "sha256": "5a3fa3d23c919229debf1d81fecf033860023c024600a65b9ed8108a4f5fced3"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/transferTypedArrayTest.js",
+    "bytes": 979,
+    "sha256": "a35a27a278d047a1ca32e41beb3af324f8fbadf4db15a0b6a0da61a02ac487d1"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/upsampleQuantizedTerrainMesh.js",
+    "bytes": 6837,
+    "sha256": "be0aee4b5d916a10961ab5258fed31dd82dda1635d142b834b91ef98b8d49cef"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/cesium/Workers/upsampleVerticesFromCesium3DTilesTerrain.js",
+    "bytes": 1737,
+    "sha256": "9830cc6e5a4fe7a28817e29d0d3404cd1b7f46e3039d91809a3fdf7dc7425fe4"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/leaflet/leaflet.css",
+    "bytes": 14806,
+    "sha256": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/leaflet/leaflet.js",
+    "bytes": 147552,
+    "sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/three.core.js",
+    "bytes": 1405971,
+    "sha256": "03fb6e9fa08628385a9096948593251ae473239c7039496d7c280cba73d84631"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/vendor/three.module.js",
+    "bytes": 626216,
+    "sha256": "99b94b6829da8e751ef48147e3a7eebae861bd4087dbcb7c3a85af03a4210933"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/zone-explorer.css",
+    "bytes": 12179,
+    "sha256": "f9cd5ad9f088588bd67488ae1ecf231f0277eee0cd1d7e62262c2e4ec737b9c8"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/zone-explorer.js",
+    "bytes": 7907,
+    "sha256": "a05ec73ed7a1d074b1cf56ee3642c48e231d10b7a5165934605c5d23affaa55c"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/zone-terrain.js",
+    "bytes": 5046,
+    "sha256": "c42acc69a721305c994bb4e2aa90f06996c819405684c5dd29a1988b3c64ea80"
+  },
+  {
+    "archivo": "work/utah-model/align_plan_v3.py",
+    "bytes": 12804,
+    "sha256": "d82846d01aae64f98fff20d25f62e954115e330e7ea58919fb55e60eedd0ce2a"
+  },
+  {
+    "archivo": "work/utah-model/analyze_geometry.py",
+    "bytes": 824,
+    "sha256": "4f433f0c462d96b098ecde56507eb25aac57586fc7f8f06dc73acb57045e9481"
+  },
+  {
+    "archivo": "work/utah-model/bounds.json",
+    "bytes": 113641,
+    "sha256": "e32cdfe43c9db015377f832eaba65f26cbde5719868148ba43b0938e8cf99cb5"
+  },
+  {
+    "archivo": "work/utah-model/enhance_glb.py",
+    "bytes": 2797,
+    "sha256": "12dd4e97f2ffff8ecc8d2587d50d4930e13b5707c58e8b4759ff2a8efda02998"
+  },
+  {
+    "archivo": "work/utah-model/export_glb.py",
+    "bytes": 5580,
+    "sha256": "2ef8803321349ad2a743001f3962645ac12853ffa12ff37bb8d0e64c9865daeb"
+  },
+  {
+    "archivo": "work/utah-model/extract_skp.py",
+    "bytes": 5781,
+    "sha256": "2d1050c3a9ab782295d14bde2189949d986d0fc7d489cd32958da8380437d113"
+  },
+  {
+    "archivo": "work/utah-model/extracted.json",
+    "bytes": 18397877,
+    "sha256": "656a62e1871ec29cbdb4638c1aa2a60f46ec94aaff05292664d4024e5ffc3a0e"
+  },
+  {
+    "archivo": "work/utah-model/extraction-report.json",
+    "bytes": 3110,
+    "sha256": "dbf30f04580554127a4da8d9de66dffd9f30fcadd2e09ef61dfc6d62529035f4"
+  },
+  {
+    "archivo": "work/utah-model/finish_materials.py",
+    "bytes": 8562,
+    "sha256": "91179ed4d6415c0e7cd763c58ebcdfddf2a79a07a651249a84bd3048e0032afc"
+  },
+  {
+    "archivo": "work/utah-model/floorplan.py",
+    "bytes": 3787,
+    "sha256": "eb55c5879681ab516f066cde902fb055f3541bf6986b85709ebe00670d11c4af"
+  },
+  {
+    "archivo": "work/utah-model/furnish.py",
+    "bytes": 3382,
+    "sha256": "032081e791bebff7dad0bdc639e0dc186b87d8c59daed57fb4a7642261e239bd"
+  },
+  {
+    "archivo": "work/utah-model/furnishings.json",
+    "bytes": 17078,
+    "sha256": "42be3b1a98103462df02f47e380799ef20b494d8132a728bdf17d7970addb61b"
+  },
+  {
+    "archivo": "work/utah-model/import_blender.py",
+    "bytes": 4264,
+    "sha256": "b6d9af06d71ac0cbf3ecdbf59279476e48b21e6bcbc926a3e1f6b71ee5afe8de"
+  },
+  {
+    "archivo": "work/utah-model/measurements.json",
+    "bytes": 985,
+    "sha256": "29ba298f9b08dfd59585de491d9ceda8106956a9b3f62bcfd79b02e24c9c1032"
+  },
+  {
+    "archivo": "work/utah-model/plan_metadata.py",
+    "bytes": 2804,
+    "sha256": "9d351c82404b0dd65be8f3699d7ba9dabbc5ab89b87d332757f2543231c06c4f"
+  },
+  {
+    "archivo": "work/utah-model/review-v3.html",
+    "bytes": 2425,
+    "sha256": "f904897e9fabfec0ee40700574b17c1d023b3d58fa8aa0a3b3658635945e5fa6"
+  },
+  {
+    "archivo": "work/utah-model/save_proposal_skp.py",
+    "bytes": 3399,
+    "sha256": "ddb6f515cbeedccdafe677e9fc210a09649d7b6eda2f4d775a8664f21f1a4615"
+  },
+  {
+    "archivo": "work/utah-model/textures/002.png",
+    "bytes": 2125,
+    "sha256": "2273fbe9faf6e3ba6970a203fec493fdb7d0a807607ee67a8b77eb04a85d4f8e"
+  },
+  {
+    "archivo": "work/utah-model/textures/003.png",
+    "bytes": 19973,
+    "sha256": "42904bc8fd98f78789cb3fc10023f7bdafc5924b87939ded31cc03066b8b3c63"
+  },
+  {
+    "archivo": "work/utah-model/textures/009.png",
+    "bytes": 730324,
+    "sha256": "d5ea299cccb80ed524fc1a28bcab66e5ef8b95d5c95f3becef5b9f91f6bfdeaa"
+  },
+  {
+    "archivo": "work/utah-model/textures/013.png",
+    "bytes": 13846,
+    "sha256": "688d0dea2ed4deed001d5917b10c6ca311cc46a0bdc559143aa955b7c0c286c9"
+  },
+  {
+    "archivo": "work/utah-model/textures/014.png",
+    "bytes": 2319769,
+    "sha256": "508be8a38daf397f9f9cb9c5c00b1125cd72e877c8901fa31eab59a02e6781f7"
+  },
+  {
+    "archivo": "work/utah-model/textures/015.png",
+    "bytes": 1187220,
+    "sha256": "bc9f04a08b187bd5ead111703ce0424c56580ff48360933f92a3c78d9329d2de"
+  },
+  {
+    "archivo": "work/utah-model/textures/016.png",
+    "bytes": 2623713,
+    "sha256": "dd024767e47e6b6d6d36710b0dd290ab8d765de2de30b3cff77d5fc78130f47b"
+  },
+  {
+    "archivo": "work/utah-model/textures/021.png",
+    "bytes": 84201,
+    "sha256": "2ac932f86858f0f23788e8518c93be6bbea624ef873ddaa0ca60e9f6bf0da015"
+  },
+  {
+    "archivo": "work/utah-model/textures/022.png",
+    "bytes": 646462,
+    "sha256": "2a2da5382f88cedcd34501849d28fc23fa25cd1d6c630d1c17fbc71c821bae61"
+  },
+  {
+    "archivo": "iniciar.py",
+    "bytes": 938,
+    "sha256": "8e3d6af83536684c34304ef3cca0effedf8dfbc45832faef9940be9c1904409d"
+  },
+  {
+    "archivo": "LEEME-PRIMERO.txt",
+    "bytes": 3129,
+    "sha256": "1088b7586448a3832f1f783d9c47291850da2c1d83712c1730b6b928a85c7a22"
+  },
+  {
+    "archivo": "ABRIR-EN-MAC.command",
+    "bytes": 50,
+    "sha256": "7e3a268db96421b11542a93ae23b4033a5027357d8449ea8ff847f58e53c557c"
+  },
+  {
+    "archivo": "ABRIR-EN-WINDOWS.bat",
+    "bytes": 121,
+    "sha256": "1726b3f5c3bf62b9d8d035ed43d43da40dee5edbaf1f76b5418452107c3e640b"
+  },
+  {
+    "archivo": "vercel.json",
+    "bytes": 177,
+    "sha256": "1d7c3fc33009c8d9c765c9604c2fc9589b34c01fb1401592cef8966f59bfcca3"
+  }
+]

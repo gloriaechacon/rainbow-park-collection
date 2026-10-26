@@ -1,0 +1,1283 @@
+[
+  {
+    "source": "https://maps.app.goo.gl/dkEdyTc1Uh5jeSD89?g_st=ic",
+    "resolved": "https://www.google.com/maps?q=29.1505813,-82.3847744&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=7ead72b7-ffea-44f0-becd-ad13c9853416&g_st=ic",
+    "pin": {
+      "lat": 29.1505813,
+      "lon": -82.3847744,
+      "basis": "Coordenadas del pin: par\u00e1metro q en redirecci\u00f3n Google Maps; no centro de c\u00e1mara"
+    },
+    "parcelQueryURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3847744%2C+%22y%22%3A+29.1505813%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+    "intersections": {
+      "displayFieldName": "PARCEL",
+      "fieldAliases": {
+        "PARCEL": "PARCEL",
+        "ACRES": "ACRES",
+        "ZONE1": "ZONE1",
+        "SITUS_1": "SITUS_1",
+        "SITUS_2": "SITUS_1",
+        "BLDS": "BLDS",
+        "RESBLDS": "RESBLDS",
+        "PC": "PC"
+      },
+      "geometryType": "esriGeometryPolygon",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      },
+      "fields": [
+        {
+          "name": "PARCEL",
+          "type": "esriFieldTypeString",
+          "alias": "PARCEL",
+          "length": 12
+        },
+        {
+          "name": "ACRES",
+          "type": "esriFieldTypeDouble",
+          "alias": "ACRES"
+        },
+        {
+          "name": "ZONE1",
+          "type": "esriFieldTypeString",
+          "alias": "ZONE1",
+          "length": 5
+        },
+        {
+          "name": "SITUS_1",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "SITUS_2",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "BLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "BLDS"
+        },
+        {
+          "name": "RESBLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "RESBLDS"
+        },
+        {
+          "name": "PC",
+          "type": "esriFieldTypeString",
+          "alias": "PC",
+          "length": 10
+        }
+      ],
+      "features": [
+        {
+          "attributes": {
+            "PARCEL": "2003-124-001",
+            "ACRES": 0.24,
+            "ZONE1": "R1",
+            "SITUS_1": " ",
+            "SITUS_2": " ",
+            "BLDS": 0,
+            "RESBLDS": 0,
+            "PC": "0"
+          },
+          "geometry": {
+            "rings": [
+              [
+                [
+                  -82.38468416388896,
+                  29.15047245290522
+                ],
+                [
+                  -82.38491880463991,
+                  29.150474029293974
+                ],
+                [
+                  -82.38491441359541,
+                  29.1508682510987
+                ],
+                [
+                  -82.38467870485701,
+                  29.15086717130933
+                ],
+                [
+                  -82.38468416388896,
+                  29.15047245290522
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "source": "https://maps.app.goo.gl/QtZ1aMbaiZ57RX2T7?g_st=ic",
+    "resolved": "https://www.google.com/maps?q=29.1468072,-82.3842276&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=df7190dd-3341-41a4-8be0-d8b981551bea&g_st=ic",
+    "pin": {
+      "lat": 29.1468072,
+      "lon": -82.3842276,
+      "basis": "Coordenadas del pin: par\u00e1metro q en redirecci\u00f3n Google Maps; no centro de c\u00e1mara"
+    },
+    "parcelQueryURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3842276%2C+%22y%22%3A+29.1468072%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+    "intersections": {
+      "displayFieldName": "PARCEL",
+      "fieldAliases": {
+        "PARCEL": "PARCEL",
+        "ACRES": "ACRES",
+        "ZONE1": "ZONE1",
+        "SITUS_1": "SITUS_1",
+        "SITUS_2": "SITUS_1",
+        "BLDS": "BLDS",
+        "RESBLDS": "RESBLDS",
+        "PC": "PC"
+      },
+      "geometryType": "esriGeometryPolygon",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      },
+      "fields": [
+        {
+          "name": "PARCEL",
+          "type": "esriFieldTypeString",
+          "alias": "PARCEL",
+          "length": 12
+        },
+        {
+          "name": "ACRES",
+          "type": "esriFieldTypeDouble",
+          "alias": "ACRES"
+        },
+        {
+          "name": "ZONE1",
+          "type": "esriFieldTypeString",
+          "alias": "ZONE1",
+          "length": 5
+        },
+        {
+          "name": "SITUS_1",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "SITUS_2",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "BLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "BLDS"
+        },
+        {
+          "name": "RESBLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "RESBLDS"
+        },
+        {
+          "name": "PC",
+          "type": "esriFieldTypeString",
+          "alias": "PC",
+          "length": 10
+        }
+      ],
+      "features": [
+        {
+          "attributes": {
+            "PARCEL": "2003-106-022",
+            "ACRES": 0.23,
+            "ZONE1": "R1",
+            "SITUS_1": " ",
+            "SITUS_2": " ",
+            "BLDS": 0,
+            "RESBLDS": 0,
+            "PC": "0"
+          },
+          "geometry": {
+            "rings": [
+              [
+                [
+                  -82.38393478243543,
+                  29.146691465142307
+                ],
+                [
+                  -82.3843632604877,
+                  29.146693905405858
+                ],
+                [
+                  -82.38436030425441,
+                  29.146901204198606
+                ],
+                [
+                  -82.38393157136666,
+                  29.14689873398454
+                ],
+                [
+                  -82.38393478243543,
+                  29.146691465142307
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "source": "https://maps.app.goo.gl/3YU7FPiFZGgV1gmC9?g_st=ic",
+    "resolved": "https://www.google.com/maps?q=29.1466435,-82.3842266&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=106ad677-f092-433d-9ba5-1c77533330c5&g_st=ic",
+    "pin": {
+      "lat": 29.1466435,
+      "lon": -82.3842266,
+      "basis": "Coordenadas del pin: par\u00e1metro q en redirecci\u00f3n Google Maps; no centro de c\u00e1mara"
+    },
+    "parcelQueryURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3842266%2C+%22y%22%3A+29.1466435%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+    "intersections": {
+      "displayFieldName": "PARCEL",
+      "fieldAliases": {
+        "PARCEL": "PARCEL",
+        "ACRES": "ACRES",
+        "ZONE1": "ZONE1",
+        "SITUS_1": "SITUS_1",
+        "SITUS_2": "SITUS_1",
+        "BLDS": "BLDS",
+        "RESBLDS": "RESBLDS",
+        "PC": "PC"
+      },
+      "geometryType": "esriGeometryPolygon",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      },
+      "fields": [
+        {
+          "name": "PARCEL",
+          "type": "esriFieldTypeString",
+          "alias": "PARCEL",
+          "length": 12
+        },
+        {
+          "name": "ACRES",
+          "type": "esriFieldTypeDouble",
+          "alias": "ACRES"
+        },
+        {
+          "name": "ZONE1",
+          "type": "esriFieldTypeString",
+          "alias": "ZONE1",
+          "length": 5
+        },
+        {
+          "name": "SITUS_1",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "SITUS_2",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "BLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "BLDS"
+        },
+        {
+          "name": "RESBLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "RESBLDS"
+        },
+        {
+          "name": "PC",
+          "type": "esriFieldTypeString",
+          "alias": "PC",
+          "length": 10
+        }
+      ],
+      "features": [
+        {
+          "attributes": {
+            "PARCEL": "2003-106-023",
+            "ACRES": 0.23,
+            "ZONE1": "R1",
+            "SITUS_1": " ",
+            "SITUS_2": " ",
+            "BLDS": 0,
+            "RESBLDS": 0,
+            "PC": "0"
+          },
+          "geometry": {
+            "rings": [
+              [
+                [
+                  -82.38393478243543,
+                  29.146691465142307
+                ],
+                [
+                  -82.38393799659637,
+                  29.146484200796127
+                ],
+                [
+                  -82.3843662105542,
+                  29.146486608428933
+                ],
+                [
+                  -82.3843632604877,
+                  29.146693905405858
+                ],
+                [
+                  -82.38393478243543,
+                  29.146691465142307
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "source": "https://maps.app.goo.gl/hSBR6mwFy2DesUZDA?g_st=ic",
+    "resolved": "https://www.google.com/maps?q=29.1464657,-82.3842390&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=434d4005-a278-4d37-89dc-5e0e45819fa7&g_st=ic",
+    "pin": {
+      "lat": 29.1464657,
+      "lon": -82.384239,
+      "basis": "Coordenadas del pin: par\u00e1metro q en redirecci\u00f3n Google Maps; no centro de c\u00e1mara"
+    },
+    "parcelQueryURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.384239%2C+%22y%22%3A+29.1464657%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+    "intersections": {
+      "displayFieldName": "PARCEL",
+      "fieldAliases": {
+        "PARCEL": "PARCEL",
+        "ACRES": "ACRES",
+        "ZONE1": "ZONE1",
+        "SITUS_1": "SITUS_1",
+        "SITUS_2": "SITUS_1",
+        "BLDS": "BLDS",
+        "RESBLDS": "RESBLDS",
+        "PC": "PC"
+      },
+      "geometryType": "esriGeometryPolygon",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      },
+      "fields": [
+        {
+          "name": "PARCEL",
+          "type": "esriFieldTypeString",
+          "alias": "PARCEL",
+          "length": 12
+        },
+        {
+          "name": "ACRES",
+          "type": "esriFieldTypeDouble",
+          "alias": "ACRES"
+        },
+        {
+          "name": "ZONE1",
+          "type": "esriFieldTypeString",
+          "alias": "ZONE1",
+          "length": 5
+        },
+        {
+          "name": "SITUS_1",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "SITUS_2",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "BLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "BLDS"
+        },
+        {
+          "name": "RESBLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "RESBLDS"
+        },
+        {
+          "name": "PC",
+          "type": "esriFieldTypeString",
+          "alias": "PC",
+          "length": 10
+        }
+      ],
+      "features": [
+        {
+          "attributes": {
+            "PARCEL": "2003-106-024",
+            "ACRES": 0.23,
+            "ZONE1": "R1",
+            "SITUS_1": " ",
+            "SITUS_2": " ",
+            "BLDS": 0,
+            "RESBLDS": 0,
+            "PC": "0"
+          },
+          "geometry": {
+            "rings": [
+              [
+                [
+                  -82.38394120765608,
+                  29.146276933745693
+                ],
+                [
+                  -82.38436916369044,
+                  29.146279309632277
+                ],
+                [
+                  -82.3843662105542,
+                  29.146486608428933
+                ],
+                [
+                  -82.38393799659637,
+                  29.146484200796127
+                ],
+                [
+                  -82.38394120765608,
+                  29.146276933745693
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "source": "https://maps.app.goo.gl/mynLnMyGwMwd7Vx69?g_st=ic",
+    "resolved": "https://www.google.com/maps?q=29.1496089,-82.3813171&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=2fdcdf59-acdc-4e5e-a2f4-235e9ffd4e01&g_st=ic",
+    "pin": {
+      "lat": 29.1496089,
+      "lon": -82.3813171,
+      "basis": "Coordenadas del pin: par\u00e1metro q en redirecci\u00f3n Google Maps; no centro de c\u00e1mara"
+    },
+    "parcelQueryURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3813171%2C+%22y%22%3A+29.1496089%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+    "intersections": {
+      "displayFieldName": "PARCEL",
+      "fieldAliases": {
+        "PARCEL": "PARCEL",
+        "ACRES": "ACRES",
+        "ZONE1": "ZONE1",
+        "SITUS_1": "SITUS_1",
+        "SITUS_2": "SITUS_1",
+        "BLDS": "BLDS",
+        "RESBLDS": "RESBLDS",
+        "PC": "PC"
+      },
+      "geometryType": "esriGeometryPolygon",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      },
+      "fields": [
+        {
+          "name": "PARCEL",
+          "type": "esriFieldTypeString",
+          "alias": "PARCEL",
+          "length": 12
+        },
+        {
+          "name": "ACRES",
+          "type": "esriFieldTypeDouble",
+          "alias": "ACRES"
+        },
+        {
+          "name": "ZONE1",
+          "type": "esriFieldTypeString",
+          "alias": "ZONE1",
+          "length": 5
+        },
+        {
+          "name": "SITUS_1",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "SITUS_2",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "BLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "BLDS"
+        },
+        {
+          "name": "RESBLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "RESBLDS"
+        },
+        {
+          "name": "PC",
+          "type": "esriFieldTypeString",
+          "alias": "PC",
+          "length": 10
+        }
+      ],
+      "features": [
+        {
+          "attributes": {
+            "PARCEL": "2003-120-029",
+            "ACRES": 0.23,
+            "ZONE1": "R1",
+            "SITUS_1": " ",
+            "SITUS_2": " ",
+            "BLDS": 0,
+            "RESBLDS": 0,
+            "PC": "0"
+          },
+          "geometry": {
+            "rings": [
+              [
+                [
+                  -82.38124387405603,
+                  29.149933445427664
+                ],
+                [
+                  -82.38124774304302,
+                  29.149562170419173
+                ],
+                [
+                  -82.38148423775046,
+                  29.149563690719127
+                ],
+                [
+                  -82.38148026047953,
+                  29.1499349155108
+                ],
+                [
+                  -82.38124387405603,
+                  29.149933445427664
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "source": "https://maps.app.goo.gl/uRu7W8AQQXxGpJZ79?g_st=ic",
+    "resolved": "https://www.google.com/maps?q=29.1425916,-82.3829683&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=c101c1ee-bfa6-4650-a26c-de3c8acedbb1&g_st=ic",
+    "pin": {
+      "lat": 29.1425916,
+      "lon": -82.3829683,
+      "basis": "Coordenadas del pin: par\u00e1metro q en redirecci\u00f3n Google Maps; no centro de c\u00e1mara"
+    },
+    "parcelQueryURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3829683%2C+%22y%22%3A+29.1425916%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+    "intersections": {
+      "displayFieldName": "PARCEL",
+      "fieldAliases": {
+        "PARCEL": "PARCEL",
+        "ACRES": "ACRES",
+        "ZONE1": "ZONE1",
+        "SITUS_1": "SITUS_1",
+        "SITUS_2": "SITUS_1",
+        "BLDS": "BLDS",
+        "RESBLDS": "RESBLDS",
+        "PC": "PC"
+      },
+      "geometryType": "esriGeometryPolygon",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      },
+      "fields": [
+        {
+          "name": "PARCEL",
+          "type": "esriFieldTypeString",
+          "alias": "PARCEL",
+          "length": 12
+        },
+        {
+          "name": "ACRES",
+          "type": "esriFieldTypeDouble",
+          "alias": "ACRES"
+        },
+        {
+          "name": "ZONE1",
+          "type": "esriFieldTypeString",
+          "alias": "ZONE1",
+          "length": 5
+        },
+        {
+          "name": "SITUS_1",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "SITUS_2",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "BLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "BLDS"
+        },
+        {
+          "name": "RESBLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "RESBLDS"
+        },
+        {
+          "name": "PC",
+          "type": "esriFieldTypeString",
+          "alias": "PC",
+          "length": 10
+        }
+      ],
+      "features": [
+        {
+          "attributes": {
+            "PARCEL": "2003-103-021",
+            "ACRES": 0.23,
+            "ZONE1": "R3",
+            "SITUS_1": " ",
+            "SITUS_2": " ",
+            "BLDS": 0,
+            "RESBLDS": 0,
+            "PC": "0"
+          },
+          "geometry": {
+            "rings": [
+              [
+                [
+                  -82.38276777474991,
+                  29.142689658769065
+                ],
+                [
+                  -82.38297431079778,
+                  29.142583766933885
+                ],
+                [
+                  -82.38318598385678,
+                  29.142903870823808
+                ],
+                [
+                  -82.38298045305616,
+                  29.143009349582204
+                ],
+                [
+                  -82.38276777474991,
+                  29.142689658769065
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "source": "https://maps.app.goo.gl/gf4cEFFMxmtkX4pr6?g_st=ic",
+    "resolved": "https://www.google.com/maps?q=29.1453562,-82.3805597&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=b3de7cef-2d6f-4e1e-867e-05b8479ae501&g_st=ic",
+    "pin": {
+      "lat": 29.1453562,
+      "lon": -82.3805597,
+      "basis": "Coordenadas del pin: par\u00e1metro q en redirecci\u00f3n Google Maps; no centro de c\u00e1mara"
+    },
+    "parcelQueryURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3805597%2C+%22y%22%3A+29.1453562%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+    "intersections": {
+      "displayFieldName": "PARCEL",
+      "fieldAliases": {
+        "PARCEL": "PARCEL",
+        "ACRES": "ACRES",
+        "ZONE1": "ZONE1",
+        "SITUS_1": "SITUS_1",
+        "SITUS_2": "SITUS_1",
+        "BLDS": "BLDS",
+        "RESBLDS": "RESBLDS",
+        "PC": "PC"
+      },
+      "geometryType": "esriGeometryPolygon",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      },
+      "fields": [
+        {
+          "name": "PARCEL",
+          "type": "esriFieldTypeString",
+          "alias": "PARCEL",
+          "length": 12
+        },
+        {
+          "name": "ACRES",
+          "type": "esriFieldTypeDouble",
+          "alias": "ACRES"
+        },
+        {
+          "name": "ZONE1",
+          "type": "esriFieldTypeString",
+          "alias": "ZONE1",
+          "length": 5
+        },
+        {
+          "name": "SITUS_1",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "SITUS_2",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "BLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "BLDS"
+        },
+        {
+          "name": "RESBLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "RESBLDS"
+        },
+        {
+          "name": "PC",
+          "type": "esriFieldTypeString",
+          "alias": "PC",
+          "length": 10
+        }
+      ],
+      "features": [
+        {
+          "attributes": {
+            "PARCEL": "2003-111-003",
+            "ACRES": 0.23,
+            "ZONE1": "R1",
+            "SITUS_1": " ",
+            "SITUS_2": " ",
+            "BLDS": 0,
+            "RESBLDS": 0,
+            "PC": "0"
+          },
+          "geometry": {
+            "rings": [
+              [
+                [
+                  -82.38092503800657,
+                  29.14543660786789
+                ],
+                [
+                  -82.38050068004131,
+                  29.145434356908307
+                ],
+                [
+                  -82.38050345656406,
+                  29.1452289028342
+                ],
+                [
+                  -82.38092785531457,
+                  29.14522962254087
+                ],
+                [
+                  -82.38092503800657,
+                  29.14543660786789
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "source": "https://maps.app.goo.gl/AzAN3xu4XMK5UDVcA?g_st=ic",
+    "resolved": "https://www.google.com/maps?q=29.1482124,-82.3792283&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=e13af2f6-bbae-4c2c-b2b5-af375dce6993&g_st=ic",
+    "pin": {
+      "lat": 29.1482124,
+      "lon": -82.3792283,
+      "basis": "Coordenadas del pin: par\u00e1metro q en redirecci\u00f3n Google Maps; no centro de c\u00e1mara"
+    },
+    "parcelQueryURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3792283%2C+%22y%22%3A+29.1482124%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+    "intersections": {
+      "displayFieldName": "PARCEL",
+      "fieldAliases": {
+        "PARCEL": "PARCEL",
+        "ACRES": "ACRES",
+        "ZONE1": "ZONE1",
+        "SITUS_1": "SITUS_1",
+        "SITUS_2": "SITUS_1",
+        "BLDS": "BLDS",
+        "RESBLDS": "RESBLDS",
+        "PC": "PC"
+      },
+      "geometryType": "esriGeometryPolygon",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      },
+      "fields": [
+        {
+          "name": "PARCEL",
+          "type": "esriFieldTypeString",
+          "alias": "PARCEL",
+          "length": 12
+        },
+        {
+          "name": "ACRES",
+          "type": "esriFieldTypeDouble",
+          "alias": "ACRES"
+        },
+        {
+          "name": "ZONE1",
+          "type": "esriFieldTypeString",
+          "alias": "ZONE1",
+          "length": 5
+        },
+        {
+          "name": "SITUS_1",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "SITUS_2",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "BLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "BLDS"
+        },
+        {
+          "name": "RESBLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "RESBLDS"
+        },
+        {
+          "name": "PC",
+          "type": "esriFieldTypeString",
+          "alias": "PC",
+          "length": 10
+        }
+      ],
+      "features": [
+        {
+          "attributes": {
+            "PARCEL": "2003-113-015",
+            "ACRES": 0.23,
+            "ZONE1": "R1",
+            "SITUS_1": " ",
+            "SITUS_2": " ",
+            "BLDS": 0,
+            "RESBLDS": 0,
+            "PC": "0"
+          },
+          "geometry": {
+            "rings": [
+              [
+                [
+                  -82.37930258438921,
+                  29.14811365489797
+                ],
+                [
+                  -82.37929965159158,
+                  29.14832058811906
+                ],
+                [
+                  -82.3788733088363,
+                  29.148317900104104
+                ],
+                [
+                  -82.37887610691934,
+                  29.148110994335518
+                ],
+                [
+                  -82.37930258438921,
+                  29.14811365489797
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "source": "https://maps.app.goo.gl/RKLdbHRtrHzyxjZ36?g_st=ic",
+    "resolved": "https://www.google.com/maps?q=29.1501687,-82.3752727&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=cd431b81-4c89-4954-ab51-c48ee2bc35a1&g_st=ic",
+    "pin": {
+      "lat": 29.1501687,
+      "lon": -82.3752727,
+      "basis": "Coordenadas del pin: par\u00e1metro q en redirecci\u00f3n Google Maps; no centro de c\u00e1mara"
+    },
+    "parcelQueryURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3752727%2C+%22y%22%3A+29.1501687%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+    "intersections": {
+      "displayFieldName": "PARCEL",
+      "fieldAliases": {
+        "PARCEL": "PARCEL",
+        "ACRES": "ACRES",
+        "ZONE1": "ZONE1",
+        "SITUS_1": "SITUS_1",
+        "SITUS_2": "SITUS_1",
+        "BLDS": "BLDS",
+        "RESBLDS": "RESBLDS",
+        "PC": "PC"
+      },
+      "geometryType": "esriGeometryPolygon",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      },
+      "fields": [
+        {
+          "name": "PARCEL",
+          "type": "esriFieldTypeString",
+          "alias": "PARCEL",
+          "length": 12
+        },
+        {
+          "name": "ACRES",
+          "type": "esriFieldTypeDouble",
+          "alias": "ACRES"
+        },
+        {
+          "name": "ZONE1",
+          "type": "esriFieldTypeString",
+          "alias": "ZONE1",
+          "length": 5
+        },
+        {
+          "name": "SITUS_1",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "SITUS_2",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "BLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "BLDS"
+        },
+        {
+          "name": "RESBLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "RESBLDS"
+        },
+        {
+          "name": "PC",
+          "type": "esriFieldTypeString",
+          "alias": "PC",
+          "length": 10
+        }
+      ],
+      "features": [
+        {
+          "attributes": {
+            "PARCEL": "2003-122-011",
+            "ACRES": 0.23,
+            "ZONE1": "R1",
+            "SITUS_1": " ",
+            "SITUS_2": " ",
+            "BLDS": 0,
+            "RESBLDS": 0,
+            "PC": "0"
+          },
+          "geometry": {
+            "rings": [
+              [
+                [
+                  -82.37528174707296,
+                  29.14989630775689
+                ],
+                [
+                  -82.37527651513399,
+                  29.150268944426404
+                ],
+                [
+                  -82.37504154345194,
+                  29.150267528014542
+                ],
+                [
+                  -82.37504665270858,
+                  29.149894838458945
+                ],
+                [
+                  -82.37528174707296,
+                  29.14989630775689
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "source": "https://maps.app.goo.gl/xHquFQMqNVojJxx1A?g_st=ic",
+    "resolved": "https://www.google.com/maps?q=29.1502545,-82.3758386&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=cf79821a-c101-4f66-9562-0657309a0128&g_st=ic",
+    "pin": {
+      "lat": 29.1502545,
+      "lon": -82.3758386,
+      "basis": "Coordenadas del pin: par\u00e1metro q en redirecci\u00f3n Google Maps; no centro de c\u00e1mara"
+    },
+    "parcelQueryURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3758386%2C+%22y%22%3A+29.1502545%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+    "intersections": {
+      "displayFieldName": "PARCEL",
+      "fieldAliases": {
+        "PARCEL": "PARCEL",
+        "ACRES": "ACRES",
+        "ZONE1": "ZONE1",
+        "SITUS_1": "SITUS_1",
+        "SITUS_2": "SITUS_1",
+        "BLDS": "BLDS",
+        "RESBLDS": "RESBLDS",
+        "PC": "PC"
+      },
+      "geometryType": "esriGeometryPolygon",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      },
+      "fields": [
+        {
+          "name": "PARCEL",
+          "type": "esriFieldTypeString",
+          "alias": "PARCEL",
+          "length": 12
+        },
+        {
+          "name": "ACRES",
+          "type": "esriFieldTypeDouble",
+          "alias": "ACRES"
+        },
+        {
+          "name": "ZONE1",
+          "type": "esriFieldTypeString",
+          "alias": "ZONE1",
+          "length": 5
+        },
+        {
+          "name": "SITUS_1",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "SITUS_2",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "BLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "BLDS"
+        },
+        {
+          "name": "RESBLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "RESBLDS"
+        },
+        {
+          "name": "PC",
+          "type": "esriFieldTypeString",
+          "alias": "PC",
+          "length": 10
+        }
+      ],
+      "features": [
+        {
+          "attributes": {
+            "PARCEL": "2003-122-014",
+            "ACRES": 0.7,
+            "ZONE1": "R1",
+            "SITUS_1": " ",
+            "SITUS_2": " ",
+            "BLDS": 0,
+            "RESBLDS": 0,
+            "PC": "0"
+          },
+          "geometry": {
+            "rings": [
+              [
+                [
+                  -82.37598702094328,
+                  29.149900717712708
+                ],
+                [
+                  -82.37622211942953,
+                  29.149902186251207
+                ],
+                [
+                  -82.37645721072296,
+                  29.149903654397367
+                ],
+                [
+                  -82.3764513838233,
+                  29.150276013959438
+                ],
+                [
+                  -82.37621641110877,
+                  29.150274600513285
+                ],
+                [
+                  -82.3759814363402,
+                  29.15027318666079
+                ],
+                [
+                  -82.375746462601,
+                  29.150271772393285
+                ],
+                [
+                  -82.37575193170915,
+                  29.149899248735693
+                ],
+                [
+                  -82.37598702094328,
+                  29.149900717712708
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "source": "https://maps.app.goo.gl/cv3Yk7ZEWxuJxoNZA?g_st=ic",
+    "resolved": "https://www.google.com/maps?q=29.1552723,-82.3611881&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461,100798797&g_ep=CAISEjI2LjQxLjEuOTkzMzMyNTYzMBgAIIgnKoUBLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDEwMDgyMTU1OSw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCwxMDA4MzU2OTQsOTQyODY4NjksMTAwODIwMjQ3LDEwMDgyMjUwNCwxMDA4Mzg4NzcsMTIxODE2NDYxLDEwMDc5ODc5N0ICVVM%3D&skid=552eda6d-443e-4bca-9d38-2290f36baeab&g_st=ic",
+    "pin": {
+      "lat": 29.1552723,
+      "lon": -82.3611881,
+      "basis": "Coordenadas del pin: par\u00e1metro q en redirecci\u00f3n Google Maps; no centro de c\u00e1mara"
+    },
+    "parcelQueryURL": "https://gis.marionfl.org/public/rest/services/General/ParcelsAndSubdivisions/MapServer/0/query?f=json&geometry=%7B%22x%22%3A+-82.3611881%2C+%22y%22%3A+29.1552723%2C+%22spatialReference%22%3A+%7B%22wkid%22%3A+4326%7D%7D&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=PARCEL%2CACRES%2CZONE1%2CSITUS_1%2CSITUS_2%2CBLDS%2CRESBLDS%2CPC&returnGeometry=true&outSR=4326",
+    "intersections": {
+      "displayFieldName": "PARCEL",
+      "fieldAliases": {
+        "PARCEL": "PARCEL",
+        "ACRES": "ACRES",
+        "ZONE1": "ZONE1",
+        "SITUS_1": "SITUS_1",
+        "SITUS_2": "SITUS_1",
+        "BLDS": "BLDS",
+        "RESBLDS": "RESBLDS",
+        "PC": "PC"
+      },
+      "geometryType": "esriGeometryPolygon",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      },
+      "fields": [
+        {
+          "name": "PARCEL",
+          "type": "esriFieldTypeString",
+          "alias": "PARCEL",
+          "length": 12
+        },
+        {
+          "name": "ACRES",
+          "type": "esriFieldTypeDouble",
+          "alias": "ACRES"
+        },
+        {
+          "name": "ZONE1",
+          "type": "esriFieldTypeString",
+          "alias": "ZONE1",
+          "length": 5
+        },
+        {
+          "name": "SITUS_1",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "SITUS_2",
+          "type": "esriFieldTypeString",
+          "alias": "SITUS_1",
+          "length": 100
+        },
+        {
+          "name": "BLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "BLDS"
+        },
+        {
+          "name": "RESBLDS",
+          "type": "esriFieldTypeSmallInteger",
+          "alias": "RESBLDS"
+        },
+        {
+          "name": "PC",
+          "type": "esriFieldTypeString",
+          "alias": "PC",
+          "length": 10
+        }
+      ],
+      "features": [
+        {
+          "attributes": {
+            "PARCEL": "2002-056-019",
+            "ACRES": 0.23,
+            "ZONE1": "R1",
+            "SITUS_1": " ",
+            "SITUS_2": " ",
+            "BLDS": 0,
+            "RESBLDS": 0,
+            "PC": "0"
+          },
+          "geometry": {
+            "rings": [
+              [
+                [
+                  -82.36086092048934,
+                  29.155134683553978
+                ],
+                [
+                  -82.36129034626681,
+                  29.15513709017202
+                ],
+                [
+                  -82.36129108360193,
+                  29.15534777282172
+                ],
+                [
+                  -82.3608624471471,
+                  29.15534647476597
+                ],
+                [
+                  -82.36086092048934,
+                  29.155134683553978
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

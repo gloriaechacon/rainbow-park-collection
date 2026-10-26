@@ -1,0 +1,23 @@
+Rainbow Park Collection — update completed locally 2026-10-14
+
+Changes
+- Investor presentation reframed positively; unnecessary negative FAQ removed. Status and source documentation retained.
+- Interactive projects map: 11 mapped locations covering 13 projects/acquisitions, 31 sources, project filters, road corridors from FDOT, satellite/street layers, official WEC render.
+- Bell replaces Horizonte: actual plan-based model, source floorplan and PDF, measurements, cutaway, interior viewpoints, illustrative lot environment.
+- Utah updated with architectural floorplan/elevations, corrected kitchen/baths/heights/ceilings and exact source floorplan. Living area and total plan area are separate from the modeled base.
+- 13 client pins matched to 13 distinct Marion County GIS parcels, ordered according to latest user message.
+- MLS-reported 0.24 acres / 10,454 ft² shown; 76×135 ft treated as approximate.
+- RP-02 is offered as 0.24 acres per user. County polygon is 0.70 acres. User-facing portion is explicitly illustrative, anchored to the street-facing edge near the pin; official larger contour is retained as reference. Final split boundary remains to be supplied.
+- RP-05 street frontage checked against county road lines: SW 156th Ct, western short edge (~76 ft), bearing270.71deg. Model front, access markings and camera approach point to that street, garden behind.
+- Both houses can be selected in Cesium with matching selected-model state across main catalog and consultation.
+- Terrain and aerial extent expanded to cover all13lots, 4km×3.5km, USGS3DEP real elevations, county road lines.
+
+QA
+- JavaScript syntax checks passed.
+- No missing static assets or duplicate HTML IDs in main, dossier, studio.
+- Browser checks: model switch, cutaway, plan, interior viewpoints, project filters, lot selection, house placement and street orientation.
+- Responsive iframe viewport390px: content375px, no horizontal overflow; home selector and project filters work; lot13 selection works.
+- Numeric placement audit:26house/lot combinations, zero base vertices outside the display polygons. This checks geometry only, not legal setbacks or construction approval.
+
+Local URL: http://127.0.0.1:8765/
+Hosting status: source sync/publication remains blocked by earlier automatic approval rejection of credential transport, including the official hidden-stdin flow. No bypass or new deployment performed.

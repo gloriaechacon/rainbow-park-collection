@@ -1,0 +1,210 @@
+[
+  {
+    "lot": "RP-01",
+    "house": "Utah",
+    "frontStreet": "SW 146TH AVE",
+    "facingBearing": 269.82,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-01",
+    "house": "Bell",
+    "frontStreet": "SW 146TH AVE",
+    "facingBearing": 269.82,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-02",
+    "house": "Utah",
+    "frontStreet": "SW 38TH PL",
+    "facingBearing": 0.39,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "illustrative"
+  },
+  {
+    "lot": "RP-02",
+    "house": "Bell",
+    "frontStreet": "SW 38TH PL",
+    "facingBearing": 0.39,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "illustrative"
+  },
+  {
+    "lot": "RP-03",
+    "house": "Utah",
+    "frontStreet": "SW 38TH PL",
+    "facingBearing": 0.39,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-03",
+    "house": "Bell",
+    "frontStreet": "SW 38TH PL",
+    "facingBearing": 0.39,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-04",
+    "house": "Utah",
+    "frontStreet": "SW 38TH PL",
+    "facingBearing": 0.4,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-04",
+    "house": "Bell",
+    "frontStreet": "SW 38TH PL",
+    "facingBearing": 0.4,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-05",
+    "house": "Utah",
+    "frontStreet": "SW 156TH CT",
+    "facingBearing": 270.71,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-05",
+    "house": "Bell",
+    "frontStreet": "SW 156TH CT",
+    "facingBearing": 270.71,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-06",
+    "house": "Utah",
+    "frontStreet": "SW 157TH CT",
+    "facingBearing": 90.68,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-06",
+    "house": "Bell",
+    "frontStreet": "SW 157TH CT",
+    "facingBearing": 90.68,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-07",
+    "house": "Utah",
+    "frontStreet": "SW 40TH PLACE RD",
+    "facingBearing": 329.53,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-07",
+    "house": "Bell",
+    "frontStreet": "SW 40TH PLACE RD",
+    "facingBearing": 329.53,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-08",
+    "house": "Utah",
+    "frontStreet": "SW 41ST STREET RD",
+    "facingBearing": 149.59,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-08",
+    "house": "Bell",
+    "frontStreet": "SW 41ST STREET RD",
+    "facingBearing": 149.59,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-09",
+    "house": "Utah",
+    "frontStreet": "SW 38TH STREET RD",
+    "facingBearing": 180.42,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-09",
+    "house": "Bell",
+    "frontStreet": "SW 38TH STREET RD",
+    "facingBearing": 180.42,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-10",
+    "house": "Utah",
+    "frontStreet": "SW 159TH CT",
+    "facingBearing": 270.71,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-10",
+    "house": "Bell",
+    "frontStreet": "SW 159TH CT",
+    "facingBearing": 270.71,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-11",
+    "house": "Utah",
+    "frontStreet": "SW 159TH CT",
+    "facingBearing": 270.71,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-11",
+    "house": "Bell",
+    "frontStreet": "SW 159TH CT",
+    "facingBearing": 270.71,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-12",
+    "house": "Utah",
+    "frontStreet": "SW 159TH CT",
+    "facingBearing": 270.71,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-12",
+    "house": "Bell",
+    "frontStreet": "SW 159TH CT",
+    "facingBearing": 270.71,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-13",
+    "house": "Utah",
+    "frontStreet": "SW 38TH PL",
+    "facingBearing": 180.44,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  },
+  {
+    "lot": "RP-13",
+    "house": "Bell",
+    "frontStreet": "SW 38TH PL",
+    "facingBearing": 180.44,
+    "baseVerticesOutsideDisplayPolygon": 0,
+    "boundary": "county GIS"
+  }
+]

@@ -1,0 +1,37 @@
+RAINBOW PARK COLLECTION — PROYECTO COMPLETO
+Copia portátil preparada el 26 de octubre de 2026.
+
+ABRIR EN OTRA COMPUTADORA
+1. Extrae TODO el ZIP en una carpeta.
+2. Necesitas Python 3 instalado para la vista previa local.
+3. En Mac: abre ABRIR-EN-MAC.command. Si macOS impide ejecutarlo, abre Terminal en esta carpeta y ejecuta: python3 iniciar.py
+4. En Windows: abre ABRIR-EN-WINDOWS.bat.
+5. Mantén abierta la ventana del servidor mientras uses la página. El navegador se abrirá automáticamente.
+No abras index.html con doble clic: los modelos y mapas necesitan un servidor HTTP.
+
+CONTENIDO
+work/sites/r15-ocala/dist/ — web completa: HTML, CSS, JavaScript, video, fotos, mapas locales, modelos GLB, planos PDF, dossier y traducciones.
+work/utah-model/ — geometría extraída, texturas y scripts de trabajo de Utah.
+work/bell-model/ — reconstrucción de Bell.
+work/model-finishes/ — generación de materiales y traducciones.
+work/house-plans/ — planos rasterizados de trabajo.
+work/confirmed-lots/ — parcelas y datos geográficos.
+work/research-ocala/ — investigación y documentos de apoyo.
+outputs/ — modelos editables/exportados, renders, texturas y capturas de revisiones.
+INVENTARIO.json — lista de archivos, tamaños y SHA-256 para comprobar integridad.
+vercel.json — publicación del sitio completo usando como carpeta de salida work/sites/r15-ocala/dist.
+
+ORIGINALES Y LIMITACIONES
+Se incluyen las copias PDF de los planos del cliente:
+- work/sites/r15-ocala/dist/bell/bell-model.pdf (Bell).
+- work/sites/r15-ocala/dist/utah/utah-floor-plan.pdf (Utah).
+- work/sites/r15-ocala/dist/utah/utah-elevations.pdf (Utah).
+SketchUp editable disponible: outputs/utah/Utah-propuesta-v1.skp.
+El archivo original kimsa-UTAH ANEXO.skp ya no estaba disponible en Downloads y NO está incluido como original. Los scripts extract_skp.py y save_proposal_skp.py conservan esa ruta histórica y requieren ajustarla si se desea volver a procesar el original. No se necesitan para visualizar la web.
+Las tres capturas de Google Maps suministradas por el cliente tampoco estaban disponibles en sus rutas originales. Se incluyen los datos parcelarios y mapas locales utilizados por la web.
+El logo original del disco SanDisk no estaba conectado/disponible; se incluyen las copias de marca y el logo transparente utilizados en la web.
+
+La web funciona desde una carpeta distinta y no depende de /Users/robertochacon. Algunos scripts de producción requieren dependencias como NumPy, Pillow, Blender o las herramientas de SketchUp; no hace falta ejecutarlos para abrir la web.
+Internet es necesario para fuentes de Google, mapas de terceros, enlaces oficiales y documentos externos no descargados. No es una copia offline de sitios externos. Cesium conserva sus datos locales y la configuración actual sin token.
+No se incluyen contraseñas, sesiones, herramientas de autenticación, archivos de control del publicador, historial Git, registros ni ZIP antiguos duplicados. El formulario actual descarga una consulta; no envía leads.
+Este archivo no implica que el proyecto se haya subido a GitHub o publicado en Vercel.

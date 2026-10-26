@@ -1,0 +1,31 @@
+CASA UTAH · RAINBOW PARK COLLECTION
+Primera propuesta de presentación · 13 de octubre de 2026
+
+Origen: kimsa-UTAH ANEXO.skp, conservado sin sobrescribir.
+Utah-propuesta-v1.skp: versión editable, materiales actualizados, mobiliario esquemático y seis cámaras guardadas. Se verificó su apertura con el SDK oficial de SketchUp.
+Utah-propuesta.glb: versión web con la geometría de vivienda y mobiliario propuesto, sin la parcela original de referencia.
+Utah-planta.svg: sección geométrica del modelo. Nombres de ambientes y mobiliario propuestos. No es un plano constructivo.
+Vistas *-modelo.png: capturas del visor 3D. Acabados y muebles esquemáticos.
+Vistas *-concepto.png: imágenes generadas con IA a partir de capturas del modelo para explorar acabados; pueden diferir del modelo navegable en detalles y ambientación.
+
+MEDIDAS EXTRAÍDAS
+Losa horizontal modelada: 169.527 m². No equivale a superficie habitable certificada.
+Envolvente de la losa: 16.751 × 14.487 m.
+Envolvente de cubierta: 17.577 × 15.291 m.
+Las unidades nativas de SketchUp se convirtieron de pulgadas a metros.
+
+IMPLANTACIÓN DE EJEMPLO
+Lote ficticio de 23 × 44 m = 1,012 m².
+Losa: 16.75 % del lote. Fuera de la losa: 842.47 m² (incluye futuros accesos, jardines y otras obras).
+La cubierta sobresale de la losa. Colocación ilustrativa, sin validar retiros, linderos, orientación o normativa de un lote concreto.
+
+RECORRIDO
+http://127.0.0.1:8765/utah/ (requiere el servidor local del proyecto).
+Exterior 3D, vista aérea, planta y cuatro cámaras interiores orientables.
+Esta entrega propone materiales y presentación; no certifica ni corrige todos los posibles errores arquitectónicos o constructivos del archivo original.
+La publicación del sitio continúa pendiente; las mejoras están en la versión local.
+
+DIRECCIÓN VISUAL DE LAS IMÁGENES
+Generación mediante herramienta imagegen integrada, edición a partir de capturas del modelo.
+Exterior: conservar volumetría, cubierta, garaje y ventanas; estuco marfil cálido, cubierta oscura, carpinterías oscuras, acceso cálido y paisaje verde de Florida.
+Interior: conservar límites y aberturas visibles; proponer madera de roble, cuarzo claro, tonos salvia y luz natural para cocina y comedor.

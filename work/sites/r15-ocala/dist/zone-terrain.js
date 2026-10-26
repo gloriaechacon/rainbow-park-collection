@@ -1,0 +1,25 @@
+// Geographic elevation is kept separate from illustrative vegetation and visual grading.
+export function createTerrain(T,scene,data,dem,draw){
+let exaggeration=3,vivid=true,treesVisible=true,trees=[],treesBuilt=false;const base=dem.min,W=data.width,H=data.height;
+// Exported raster values sample pixel centers. Clamp outside those centers.
+function elevation(x,z){const u=T.MathUtils.clamp((x/W+.5)*dem.width-.5,0,dem.width-1),v=T.MathUtils.clamp((z/H+.5)*dem.height-.5,0,dem.height-1),i=Math.floor(u),j=Math.floor(v),a=u-i,b=v-j,at=(xx,zz)=>dem.values[Math.min(zz,dem.height-1)*dem.width+Math.min(xx,dem.width-1)];return T.MathUtils.lerp(T.MathUtils.lerp(at(i,j),at(i+1,j),a),T.MathUtils.lerp(at(i,j+1),at(i+1,j+1),a),b)}
+const height=(x,z)=>(elevation(x,z)-base)*exaggeration;
+const geo=new T.PlaneGeometry(W,H,256,210);geo.rotateX(-Math.PI/2);const material=new T.MeshBasicMaterial({color:0xffffff});let shader;
+material.onBeforeCompile=s=>{shader=s;s.uniforms.uVivid={value:vivid?1:0};s.vertexShader='varying float vTerrainLight;\n'+s.vertexShader;s.vertexShader=s.vertexShader.replace('#include <begin_vertex>','#include <begin_vertex>\nvTerrainLight=0.82+0.24*max(0.0,dot(normalize(normal),normalize(vec3(-0.5,0.85,0.3))));');s.fragmentShader='uniform float uVivid; varying float vTerrainLight;\n'+s.fragmentShader;s.fragmentShader=s.fragmentShader.replace('#include <map_fragment>',`#include <map_fragment>
+float luminance=dot(diffuseColor.rgb,vec3(0.2126,0.7152,0.0722));
+vec3 graded=mix(vec3(luminance),diffuseColor.rgb,1.68);
+graded=(graded-vec3(0.15))*1.13+vec3(0.15);
+graded*=vec3(0.97,1.10,0.94);
+diffuseColor.rgb=mix(diffuseColor.rgb,max(graded,vec3(0.0)),uVivid)*vTerrainLight;`)};
+const ground=new T.Mesh(geo,material);scene.add(ground);
+const treeGroup=new T.Group();scene.add(treeGroup);let crowns,trunks;
+function reshape(){const pos=geo.attributes.position;for(let i=0;i<pos.count;i++)pos.setY(i,height(pos.getX(i),pos.getZ(i)));pos.needsUpdate=true;geo.computeVertexNormals();geo.computeBoundingSphere();updateTrees()}
+function updateTrees(){if(!treesBuilt)return;const dummy=new T.Object3D();trees.forEach((tree,i)=>{const y=height(tree.x,tree.z);dummy.position.set(tree.x,y+tree.h*.48,tree.z);dummy.rotation.set(0,tree.r,0);dummy.scale.set(tree.w,tree.h*.38,tree.w*.86);dummy.updateMatrix();crowns.setMatrixAt(i,dummy.matrix);dummy.position.y=y+tree.h*.2;dummy.scale.set(.24,tree.h*.42,.24);dummy.updateMatrix();trunks.setMatrixAt(i,dummy.matrix)});crowns.instanceMatrix.needsUpdate=true;trunks.instanceMatrix.needsUpdate=true;crowns.computeBoundingSphere();trunks.computeBoundingSphere()}
+function vegetation(image){const c=document.createElement('canvas');c.width=512;c.height=420;const ctx=c.getContext('2d',{willReadFrequently:true});ctx.drawImage(image,0,0,512,420);const pixels=ctx.getImageData(0,0,512,420).data;let seed=42;const rand=()=>{seed=(seed*16807)%2147483647;return(seed-1)/2147483646};
+for(let z=-H/2+12;z<H/2-12;z+=18){for(let x=-W/2+12;x<W/2-12;x+=18){const xx=x+(rand()-.5)*27,zz=z+(rand()-.5)*27,ix=Math.floor((xx/W+.5)*512),iz=Math.floor((zz/H+.5)*420),k=(iz*512+ix)*4,r=pixels[k],g=pixels[k+1],b=pixels[k+2];if(g<r*1.01||g<b*1.04||g>157||g<35||r>150||rand()<.19)continue;
+// Keep the illustrative parcels and mapped road centerlines clear.
+if([[-430,-235],[-90,-430],[275,-210],[-165,255],[295,420],[605,225]].some(([px,pz])=>Math.abs(xx-px)<18&&Math.abs(zz-pz)<28))continue;
+let nearRoad=false;for(const road of data.roads){for(let i=1;i<road.points.length;i++){const a=road.points[i-1],b=road.points[i],dx=b[0]-a[0],dz=b[1]-a[1],t=T.MathUtils.clamp(((xx-a[0])*dx+(zz-a[1])*dz)/(dx*dx+dz*dz||1),0,1);if(Math.hypot(xx-a[0]-t*dx,zz-a[1]-t*dz)<9){nearRoad=true;break}}if(nearRoad)break}if(nearRoad)continue;trees.push({x:xx,z:zz,h:8+rand()*7,w:5.0+rand()*4.0,r:rand()*Math.PI*2,c:rand()});}}
+const crownGeometry=new T.BufferGeometry(),vertices=[],normals=[];for(const [x,y,z,r] of [[0,.1,0,.79],[-.48,-.1,.12,.62],[.43,-.06,.2,.65],[.05,-.15,-.47,.66]]){const g=new T.IcosahedronGeometry(r,1).toNonIndexed();g.translate(x,y,z);vertices.push(...g.attributes.position.array);normals.push(...g.attributes.normal.array);g.dispose()}crownGeometry.setAttribute('position',new T.Float32BufferAttribute(vertices,3));crownGeometry.setAttribute('normal',new T.Float32BufferAttribute(normals,3));crowns=new T.InstancedMesh(crownGeometry,new T.MeshStandardMaterial({color:0x547f34,roughness:1}),trees.length);trunks=new T.InstancedMesh(new T.CylinderGeometry(1,1,1,5),new T.MeshStandardMaterial({color:0x6d6140,roughness:1}),trees.length);trees.forEach((t,i)=>crowns.setColorAt(i,new T.Color().setHSL(.23+t.c*.06,.32+t.c*.1,.22+t.c*.12)));treeGroup.add(crowns,trunks);treesBuilt=true;updateTrees();draw();}
+reshape();return{height,elevation,ground,material,load(image){vegetation(image)},setRelief(value){exaggeration=value;reshape()},setColor(value){vivid=value;if(shader)shader.uniforms.uVivid.value=value?1:0},setTrees(value){treesVisible=value;treeGroup.visible=value},get factor(){return exaggeration}};
+}

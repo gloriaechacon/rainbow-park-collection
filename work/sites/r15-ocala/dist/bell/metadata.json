@@ -1,0 +1,186 @@
+{
+  "model": "Bell",
+  "source_document": "BELL MODEL.pdf",
+  "source_sheet": "Floor Plan + Front/Rear/Left/Right Elevations, sheet 3 of 6",
+  "source_author": "Kimsa Construction LLC",
+  "source_date": "2024-08-14",
+  "job": "2024-140",
+  "units": "m",
+  "coordinates": {
+    "up": "+Y",
+    "front": "+Z",
+    "origin": "Centre of main body + front porch bounding rectangle, finished floor at Y=0"
+  },
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "garage_spaces": 1,
+  "official_schedule_ft2": {
+    "living": 1157,
+    "entry": 67,
+    "garage": 310,
+    "total": 1534
+  },
+  "official_schedule_m2": {
+    "living": 107.489,
+    "entry": 6.225,
+    "garage": 28.8,
+    "total": 142.513
+  },
+  "footprint_m": {
+    "width": 15.24,
+    "body_depth": 8.9408,
+    "max_depth_with_front_porch": 10.4648,
+    "covered_total_area": 142.513
+  },
+  "roof": {
+    "pitch": "6:12",
+    "bearing_height_m": 2.54,
+    "overhang_m": 0.4064,
+    "type": "Hip main roof with front gable over porch",
+    "cutaway": "Hide nodes with extras.roof === true"
+  },
+  "rear_pad": {
+    "width_m": 3.048,
+    "depth_m": 2.4384,
+    "area_m2": 7.432,
+    "included_in_covered_area": false
+  },
+  "representation": "3D presentation reconstructed from supplied dimensioned architectural sheet. Exterior colors, material palette, furniture and decorative fixtures are proposed. Interior partitions/openings follow the drawing with presentation-level detail; verify against original architectural documents before construction.",
+  "floorplan": "floorplan.svg",
+  "source_floorplan": "floorplan.png",
+  "model_url": "bell.glb",
+  "camera_suggestions": {
+    "exterior": {
+      "position": [
+        3.8,
+        5.2,
+        22
+      ],
+      "target": [
+        0,
+        1.4,
+        0
+      ]
+    },
+    "cutaway": {
+      "position": [
+        1,
+        18,
+        12
+      ],
+      "target": [
+        0,
+        0,
+        0
+      ]
+    },
+    "interior_living": {
+      "position": [
+        -2.0,
+        1.6,
+        2.1
+      ],
+      "target": [
+        -0.15,
+        1.35,
+        -3.25
+      ],
+      "fov": 72
+    },
+    "interior_kitchen": {
+      "position": [
+        0.9,
+        1.6,
+        -3.4
+      ],
+      "target": [
+        2.1,
+        1.25,
+        -4.7
+      ],
+      "fov": 72
+    },
+    "interior_master": {
+      "position": [
+        0.82,
+        1.6,
+        3.18
+      ],
+      "target": [
+        2.05,
+        0.85,
+        1.4
+      ],
+      "fov": 72
+    },
+    "interior_bedroom2": {
+      "position": [
+        -4.8,
+        1.6,
+        -2.78
+      ],
+      "target": [
+        -5.74,
+        1.1,
+        -4.1
+      ],
+      "fov": 72
+    }
+  },
+  "revision": "2026-10-14 · closed vault returns and centered kitchen view",
+  "geometry_bounds_m": {
+    "slab": {
+      "min": [
+        -7.62,
+        -0.134112,
+        -5.2324
+      ],
+      "max": [
+        7.62,
+        0,
+        5.2324
+      ]
+    },
+    "covered_front_z": 5.2324,
+    "body_front_z": 3.7084,
+    "body_rear_z": -5.2324,
+    "rear_pad_back_z": -7.6708,
+    "roof_eave_front_z": 5.6388,
+    "roof_ridge_height": 5.0089
+  },
+  "footprint_polygon_xz_m": [
+    [
+      -7.62,
+      -5.2324
+    ],
+    [
+      7.62,
+      -5.2324
+    ],
+    [
+      7.62,
+      3.7084
+    ],
+    [
+      0.5081,
+      3.7084
+    ],
+    [
+      0.5081,
+      5.2324
+    ],
+    [
+      -3.6067,
+      5.2324
+    ],
+    [
+      -3.6067,
+      3.7084
+    ],
+    [
+      -7.62,
+      3.7084
+    ]
+  ],
+  "modeling_note": "The covered area uses the architect schedule (142.513 m²); do not calculate finished living area from the bounding rectangle. The unroofed rear concrete pad is modeled separately. Furnishings and finishes are illustrative."
+}

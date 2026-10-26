@@ -1,0 +1,257 @@
+{
+  "model": "Utah / Anexo",
+  "architectural_sources": [
+    "utah-floor-plan.pdf",
+    "utah-elevations.pdf"
+  ],
+  "author": "Kimsa Construction LLC",
+  "job": "2025-713",
+  "elevations_date": "2025-09-03",
+  "areas_from_sheet_sqft": {
+    "living": 1490,
+    "entry": 13,
+    "garage": 263,
+    "total": 1766
+  },
+  "areas_from_sheet_m2": {
+    "living": 138.43,
+    "entry": 1.21,
+    "garage": 24.43,
+    "total": 164.07
+  },
+  "wall_envelope_m": {
+    "width": 15.5448,
+    "total_depth": 14.478000000000002,
+    "main_depth": 9.2964
+  },
+  "source_skp_slab_envelope_m": {
+    "width_including_side_stoop": 16.751457966862514,
+    "depth": 14.486538519941988,
+    "slab_area_including_stoops": 169.5273611846705
+  },
+  "ceiling_m": 2.4384,
+  "front_elevation_ridge_m": 4.4196,
+  "bedrooms_main": 3,
+  "studio_annex": 1,
+  "bathrooms": 3,
+  "garage_spaces": 1,
+  "corrected": [
+    "Floorplan replaced with actual architectural sheet, preserving original room names and dimensions",
+    "Interior and exterior wall heights reconciled to 8 ft bearing height",
+    "Front roof ridge calibrated to 14 ft 6 in while preserving existing hip topology",
+    "Main kitchen revised to plan counters and sink peninsula; oversized prior island removed",
+    "Annex kitchen and W/D included",
+    "All three bathrooms fitted at plan locations",
+    "Decorative entry slats that covered the front door removed",
+    "Roof fascia and 8 ft flat ceilings included in removable roof group"
+  ],
+  "retained": [
+    "Source SketchUp wall XY arrangement and window/door geometry",
+    "PBR finish textures from v2",
+    "Source roof topology, adjusted vertically to the front elevation"
+  ],
+  "review_notes": [
+    "Presentation model derived from source SKP and architectural sheets; not a construction BIM",
+    "Source rear/right elevations omit some windows shown in the floorplan; model retains floorplan openings pending designer confirmation",
+    "Source sheet rear/side ridge dimensions differ slightly from front; v3 uses 14 ft 6 in front maximum",
+    "Materials and movable furnishings are a proposed design palette"
+  ],
+  "geometry_footprint": {
+    "coordinate_system": "GLB local metres; x is east/west, z is rear/front, front = +z",
+    "source_node": 73,
+    "area_m2": 169.52734375,
+    "contours_xz": [
+      [
+        [
+          -1.011780023574829,
+          -7.2402801513671875
+        ],
+        [
+          -1.011780023574829,
+          -3.30745005607605
+        ],
+        [
+          1.4266200065612793,
+          -3.30745005607605
+        ],
+        [
+          1.4266200065612793,
+          -2.050139904022217
+        ],
+        [
+          8.367730140686035,
+          -2.050139904022217
+        ],
+        [
+          8.367730140686035,
+          6.484260082244873
+        ],
+        [
+          4.430729866027832,
+          6.484260082244873
+        ],
+        [
+          4.430729866027832,
+          7.246260166168213
+        ],
+        [
+          0.9001299738883972,
+          7.246260166168213
+        ],
+        [
+          0.9001299738883972,
+          5.912759780883789
+        ],
+        [
+          -0.4714699983596802,
+          5.912759780883789
+        ],
+        [
+          -0.4714699983596802,
+          5.874660015106201
+        ],
+        [
+          -3.4161698818206787,
+          5.874660015106201
+        ],
+        [
+          -3.4161698818206787,
+          6.484260082244873
+        ],
+        [
+          -7.164529800415039,
+          6.484260082244873
+        ],
+        [
+          -7.164529800415039,
+          -2.4154999256134033
+        ],
+        [
+          -8.383729934692383,
+          -2.4154999256134033
+        ],
+        [
+          -8.383729934692383,
+          -3.939500093460083
+        ],
+        [
+          -7.164529800415039,
+          -3.939500093460083
+        ],
+        [
+          -7.164529800415039,
+          -2.4154999256134033
+        ],
+        [
+          -7.164529800415039,
+          -7.2402801513671875
+        ],
+        [
+          -1.011780023574829,
+          -7.2402801513671875
+        ]
+      ]
+    ],
+    "includes": "Source SKP slab includes side stoop and exterior entrance slab. Use as conservative house placement footprint; source architectural total is a separate 1,766 sq ft."
+  },
+  "cameras": {
+    "exterior": {
+      "position": [
+        2.8,
+        4.8,
+        23
+      ],
+      "target": [
+        0.6,
+        1.5,
+        0
+      ]
+    },
+    "living": {
+      "label": "Sala",
+      "position": [
+        -1.2,
+        1.6,
+        4.5
+      ],
+      "target": [
+        -2.0,
+        1.14,
+        2.4
+      ]
+    },
+    "kitchen": {
+      "label": "Cocina",
+      "position": [
+        -0.05,
+        1.6,
+        -0.05
+      ],
+      "target": [
+        -2.4,
+        1.1,
+        -0.7
+      ]
+    },
+    "primary": {
+      "label": "Dormitorio principal",
+      "position": [
+        4.8,
+        1.6,
+        1.1
+      ],
+      "target": [
+        6.6,
+        1.1,
+        -0.8
+      ]
+    },
+    "annex": {
+      "label": "Estudio anexo",
+      "position": [
+        -3.55,
+        1.6,
+        -4.5
+      ],
+      "target": [
+        -4.95,
+        1.1,
+        -5.8
+      ]
+    },
+    "annex_living": {
+      "label": "Sala del anexo",
+      "position": [
+        -2.1,
+        1.6,
+        -3.2
+      ],
+      "target": [
+        -5.5,
+        1.05,
+        -2.4
+      ]
+    },
+    "plan": {
+      "position": [
+        0.6,
+        28,
+        0.1
+      ],
+      "target": [
+        0.6,
+        0,
+        0
+      ]
+    }
+  },
+  "cutaway": {
+    "predicate": "node.userData.roof === true",
+    "roof_names": [
+      "165 Componente#83",
+      "Utah · cielo raso a 8 ft"
+    ],
+    "ceiling_height_m": 2.4384,
+    "notes": "The entire hip roof plus fascia share roof:true. Flat ceiling planes share the same roof flag. All inner walls are now capped to 8 ft for an unobstructed plan cutaway."
+  }
+}
