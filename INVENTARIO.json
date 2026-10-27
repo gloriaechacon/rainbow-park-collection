@@ -966,8 +966,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/experiencia-demo/index.html",
-    "bytes": 12898,
-    "sha256": "96f0b59bf40cf94500f9f099aba89c28447eec08663f7d9b1b826f4a1a6c0c3a"
+    "bytes": 12907,
+    "sha256": "6838b8492690445215ea2dfbb392b7bdeaa060cf320bc7c3c7898ccedb9f4ad7"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/house-data.js",
@@ -991,8 +991,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/index.html",
-    "bytes": 59946,
-    "sha256": "825d451a8569985e7025852b950ecfe4c2b258aba8952891fd51aaac487ac339"
+    "bytes": 59955,
+    "sha256": "741f9fbe733d33d63ef8560de0b27ef9a110a5795aab5fd5146a834212636c08"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/inversion/assets/wec-propuesta-campos.jpg",
@@ -1021,8 +1021,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/inversion/index.html",
-    "bytes": 53701,
-    "sha256": "309081b94aa2f2f643a8946b397c919af3746034352e66ebd8b54eb57723c3f8"
+    "bytes": 53710,
+    "sha256": "3fe9bcb66044948e425e5312624b87c77af74d5fbdf8f71e963757a9256ce2f8"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/inversion/project-map.json",
@@ -1106,8 +1106,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/utah/index.html",
-    "bytes": 3486,
-    "sha256": "fe898eb6e8f3ccd3bab2629061479f4152006dc1f186df106a9f172dea43c9b3"
+    "bytes": 3495,
+    "sha256": "9e4fd0dd4c21d77e9e97b6af0f380a5884fb1ec1d9cb32ce10410f1c61d1da46"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/utah/lot-environment.js",
@@ -3133,5 +3133,10 @@
     "archivo": "work/sites/r15-ocala/dist/assets/rainbow-park-social.png",
     "bytes": 21417,
     "sha256": "266fad7087df1189e121361456bf53d8b22a7a662e25c2c1f89e4980a43dab8d"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/assets/rainbow-park-social-square-v2.png",
+    "bytes": 32019,
+    "sha256": "8f73b47e73a4d5e831a0d32a8fe62c7491bf5c9b8f072bc2b2886aa8787a2e76"
   }
 ]
