@@ -776,8 +776,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/app.js",
-    "bytes": 7946,
-    "sha256": "16d3cecf0c929073cf22112dcb21406c889410e60038a0b0123aa268568b450f"
+    "bytes": 9566,
+    "sha256": "326c65e4579d52d14067569f898710cebb5982c461db5187f6069a1a62302b1b"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/assets/geography/collection-aerial.jpg",
@@ -891,13 +891,13 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/cesium-explorer.js",
-    "bytes": 16335,
-    "sha256": "ac7ed158bc02cd45bbc5d19e2584f7445a2e7f9656ac2e058ceed37677e7bd22"
+    "bytes": 16410,
+    "sha256": "2a284c1bec9f612204e19d6e2003f36319464fc96fa1804a54fe2f1c04d400c6"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/chapters.css",
-    "bytes": 8033,
-    "sha256": "77e7dab94f6f4da29611d21abe96c11c33cf043cc5ea68a1a65884dc7b7b5ca7"
+    "bytes": 9377,
+    "sha256": "821c0b44bb2dfa519799b1a9104916e84d3f984022f19011d226015dac13b59b"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/config/cesium.json",
@@ -906,8 +906,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/experience3d.js",
-    "bytes": 18031,
-    "sha256": "7636671e723c65d3b99f6310058a2cdab0902f73f66592941beb259fa3e9199f"
+    "bytes": 18154,
+    "sha256": "2f5efbe9ef922eb00b730d044ac7c0bee553b2cfbd2033b4effea62f5109a300"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/experiencia-demo/assets/bedroom-pano.jpg",
@@ -981,8 +981,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/i18n.js",
-    "bytes": 5183,
-    "sha256": "92a15c215a1341cd199c17bf16a8da9431f261afb55298a2b266c4d47b85d9fa"
+    "bytes": 5295,
+    "sha256": "ef97f8a09f0de059a49cb22e97fae735f3195e8f5c16303d0107623ff41b55a2"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/immersive.css",
@@ -991,8 +991,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/index.html",
-    "bytes": 58703,
-    "sha256": "40d78c4e3d0434eb78bd5aaf5e0c5880e618a5c8ef6f1e609be6c40e566407d6"
+    "bytes": 58853,
+    "sha256": "211b1c3c017466c18a26ec9a580920ac58719503c8f5fe57e0792d6fe6e49007"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/inversion/assets/wec-propuesta-campos.jpg",
@@ -1021,8 +1021,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/inversion/index.html",
-    "bytes": 52532,
-    "sha256": "cf5be3a1cdfc6518618eac3c1228a80afb951fffcde21f239b5572b358ca28c2"
+    "bytes": 52600,
+    "sha256": "3cfa7c06937ce64cce3ad531011afe1ec0e5230cecef606aaab10a9d69678735"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/inversion/project-map.json",
@@ -1041,8 +1041,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/locales/catalog.json",
-    "bytes": 112320,
-    "sha256": "32b778db06309ee4c8a7603ee0844fb855b98a753cc8ad980a1e4c4dc0104838"
+    "bytes": 115673,
+    "sha256": "32578e3d164d80ecda295b3d23e6b4e898aaab4ec7e1df52e30d8d286fb55c28"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/project-map.css",
@@ -1051,8 +1051,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/project-map.js",
-    "bytes": 5964,
-    "sha256": "ddda945c73ae0aae857db7e40a002f95dd8f1ed2c12d3907508de469326dd840"
+    "bytes": 6111,
+    "sha256": "827f1e0bc9961a324f3a94a475ce8f7c97d2ddb879a871c9778299dfdd376749"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/space-studio.js",
@@ -1106,8 +1106,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/utah/index.html",
-    "bytes": 2348,
-    "sha256": "98456a1e691b6dc2a409215b64d3e0b8fa059a810dcec77b264ce30cf3ae1b7d"
+    "bytes": 2401,
+    "sha256": "8571bb36b171d9790de68009e1a780478ac1057bd02ece00371b4d98ad4e466b"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/utah/lot-environment.js",
@@ -2936,8 +2936,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/zone-explorer.js",
-    "bytes": 7907,
-    "sha256": "a05ec73ed7a1d074b1cf56ee3642c48e231d10b7a5165934605c5d23affaa55c"
+    "bytes": 7936,
+    "sha256": "90f3f358e585ccd797aa944e25aac02881fc1d5e72eb8ac36c8e6a1e202d5407"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/zone-terrain.js",
@@ -3098,5 +3098,20 @@
     "archivo": "vercel.json",
     "bytes": 177,
     "sha256": "1d7c3fc33009c8d9c765c9604c2fc9589b34c01fb1401592cef8966f59bfcca3"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/responsive.css",
+    "bytes": 3419,
+    "sha256": "ae26e59c99f3b9e99ea80ac6c87f68261c8932b3c74615746da5c7bd0a8a7f2b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/typography.css",
+    "bytes": 4821,
+    "sha256": "7fe771b5b018cbdd76e68d390e6f80f67765247991e33b8301584b537e823fe1"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/header.css",
+    "bytes": 4855,
+    "sha256": "dd8f029146ac6fc7aebdc04fb56d0bb8329504399d395626b444b2bcba7d6785"
   }
 ]

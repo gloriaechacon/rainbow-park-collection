@@ -1,0 +1,53 @@
+/* Shared small-screen layout for the landing page, dossier and house viewer. */
+@media(max-width:900px){
+  .investment-signals,.investment-market,.investment-library-cta,.project-detail-grid,.home-specs{min-width:0}
+  .investment-signals>*,.investment-market>*,.investment-library-cta>*,.showroom>*,.contact-layout>*{min-width:0}
+  .project-name,.project-amount,.project-content,.source-item{min-width:0;overflow-wrap:anywhere}
+}
+@media(max-width:700px){
+  html{scroll-padding-top:112px}
+  #lotes,#entorno,#inversion,#viviendas,#contacto{scroll-margin-top:12px}
+  .investment-signals article,.investment-signals article:first-child,.investment-signals article:last-child{display:flex;flex-direction:column;align-items:flex-start;gap:8px}
+  .investment-signals strong{font-size:clamp(38px,11vw,52px);max-width:100%;overflow-wrap:anywhere}
+  .investment-signals p{font-size:14px;line-height:1.65}
+  .market-figures{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+  .market-figures>div{min-width:0;padding-left:6px}
+  .market-figures strong{font-size:clamp(21px,6.5vw,32px);white-space:nowrap}
+  .contact h2{font-size:clamp(48px,14vw,80px);overflow-wrap:normal}
+  .consultation{padding:20px 16px}
+  .consultation select,.consultation textarea,.source-tools input{font-size:16px}
+  .interest-picker{gap:8px}.interest-picker button{min-height:44px;padding:10px 12px}
+  .zone-top{flex-wrap:wrap}.zone-top-actions{width:100%;justify-content:space-between}
+  .zone-modes{left:10px;top:10px;max-width:calc(100% - 70px)}
+  .zone-modes button{padding:8px;font-size:11px;min-height:44px}
+  .zone-controls{right:10px;top:10px}
+  .zone-landscape{top:112px;max-width:calc(100% - 80px)}
+  .zone-landscape:not([open]){top:112px}
+  .zone-panel{overflow:visible;max-height:none;padding:20px 16px}
+  .zone-lot-list{grid-template-columns:repeat(5,minmax(0,1fr));gap:6px}
+  .zone-lot-list button{min-width:0;min-height:44px}
+  .home-stage{height:520px}
+  .home-stage .view-switch{display:flex;flex-wrap:wrap;justify-content:center;left:8px;right:8px;max-width:none;width:auto;margin:0;bottom:8px;gap:4px}
+  .home-stage .view-switch button{min-height:44px;padding:9px 10px;font-size:11px}
+  .home-stage .home-instruction{bottom:166px;line-height:1.5}
+  .home-selector{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .home-selector button small{letter-spacing:.5px;line-height:1.6;display:block}
+  .home-comparison{flex-wrap:wrap;gap:18px}.home-comparison button{min-height:44px}
+  .destination-tabs button{min-width:0}.destination-tabs strong{overflow-wrap:anywhere}
+  .project-map-filters{flex-wrap:wrap}.project-map-filters button{min-height:44px}
+  .gallery-controls button{min-height:44px;font-size:10px}
+  .project-amount{flex-wrap:wrap;gap:8px}
+  .source-item a{overflow-wrap:anywhere}
+  body:has(#view) header{display:flex;flex-wrap:wrap;height:auto;gap:10px;padding:12px}
+  body:has(#view) header>a:first-child{max-width:100%;flex:1 1 160px}
+  body:has(#view) .tabs{display:flex;flex-wrap:wrap;max-width:calc(100% - 70px);gap:4px}
+  body:has(#view) .tabs button{min-height:44px;font-size:11px;padding:8px}
+  body:has(#view) aside{min-width:0}
+}
+@media(max-width:360px){
+  .chapter-dock .dock-byline{display:none}
+  .market-figures{grid-template-columns:1fr;gap:16px}
+  .market-figures strong{font-size:32px}
+  .zone-modes{flex-wrap:wrap}.zone-landscape{top:120px}
+  .home-stage .home-instruction{bottom:190px}
+}

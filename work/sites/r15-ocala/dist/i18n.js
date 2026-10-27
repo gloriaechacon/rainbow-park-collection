@@ -1,5 +1,5 @@
 // Local, reviewed language catalog. No translation service or visitor data transfer.
-const catalog=await fetch(new URL('./locales/catalog.json?v=chapters1',import.meta.url)).then(r=>r.json());
+const catalog=await fetch(new URL('./locales/catalog.json?v=sections2',import.meta.url)).then(r=>r.json());
 const normalize=s=>s.replace(/\s+/g,' ').trim();
 const byKey=new Map(Object.entries(catalog).map(([k,v])=>[normalize(k).toLowerCase(),v]));
 const escape=s=>s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
@@ -46,7 +46,7 @@ function control(host,before=null){
  const select=label.querySelector('select');select.value=lang;select.addEventListener('change',()=>setLanguage(select.value));controls.push(select);host.insertBefore(label,before);
 }
 control(document.querySelector('.topbar'),document.querySelector('.menu-toggle'));
-control(document.querySelector('.chapter-dock'));
+if(!document.querySelector('.unified-header'))control(document.querySelector('.chapter-dock'));
 if(!document.querySelector('.topbar')){const header=document.querySelector('body>header');control(header,header?.lastElementChild)}
 function setLanguage(next){
  lang=next;try{localStorage.setItem('rpc-language',lang)}catch{}

@@ -1,0 +1,49 @@
+/* Reading scale independent of the expressive cover typography. */
+:root{--reading:1rem;--caption:.8125rem;--section-title:clamp(2.5rem,4.7vw,4rem);--nav-height:84px}
+html{scroll-padding-top:var(--nav-height)}
+body main [id]{scroll-margin-top:0!important}
+.rpc-language-control,.rpc-language-control select{font-family:var(--sans)}
+.chapter-dock,.chapter-dock.visible{height:84px;padding-inline:3vw;gap:6px}
+.chapter-dock>a:not(.dock-home){font-size:.9375rem!important;padding-inline:12px!important}
+.chapter-dock .dock-byline{display:flex;padding-left:12px;gap:6px}
+.chapter-dock .fraga-logo{width:132px;height:50px;flex-shrink:0}
+.chapter-dock .rpc-language-control,.chapter-dock .rpc-language-control select{font-size:.8125rem}
+.chapter-dock .rpc-language-control select{width:86px}
+.chapter-heading .eyebrow,.investment-edition .eyebrow{font-size:.8125rem;line-height:1.5;letter-spacing:.08em}
+.zone-intro h2,.territory-opening h2,.investment-intro h2,.home-heading h2,.contact h2{font-size:var(--section-title);line-height:1.08;letter-spacing:-.035em}
+.zone-intro>p,.destination-copy p,.territory-intro-note>span:last-child,.investment-intro>div>p:nth-child(2),.investment-signals p,.investment-feature-copy p,.investment-project-heading>p,.project-content p,.investment-market p,.investment-library-cta p,.home-heading p,.contact-layout>div>p{font-size:var(--reading);line-height:1.65}
+.zone-panel>p,.zone-parcel-meta,#zone-parcel-note,#zone-state-note,.zone-truth p,.zone-truth strong,.zone-measures span,.zone-parcel-meta a,.zone-state-heading,#zone-occupation,#zone-occupation small,.zone-top-sub{font-size:var(--caption);line-height:1.6}
+.zone-lot-list button,.zone-states button,.zone-top-actions button,.zone-modes button,.territory-map-toolbar button{font-size:.875rem}
+.zone-panel>.eyebrow,.zone-panel-title>span,.destination-tabs button>span,.territory-edition,.territory-footnote p,.project-name small,.project-name>small:last-child,.project-amount small,.investment-market .market-method,.investment-disclosure,.investment-gallery figcaption,.home-specs small,.home-note,.consultation .fine{font-size:var(--caption);line-height:1.6;letter-spacing:.02em}
+.project-name strong{font-size:1.125rem;line-height:1.4}
+.project-amount,.investment-signals strong,.market-figures strong{font-family:var(--sans);font-weight:500;letter-spacing:-.04em}
+.project-amount{font-size:1.875rem}.market-figures small{font-size:var(--caption)}
+.investment-jump a,.investment-button,.investment-all,.home-experience-links>button>span,.home-selector button small,.consultation label,.interest-picker button,.brief-button{font-size:.9375rem;line-height:1.5}
+.consultation select,.consultation textarea{font-size:1rem}
+.home-specs strong{font-size:1.125rem}.home-specs{max-width:280px}
+.contact-layout{padding:48px 0;align-items:start}.consultation{align-self:start}
+@media(max-width:1100px) and (min-width:701px){
+ .chapter-dock,.chapter-dock.visible{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));grid-template-rows:62px 44px;height:118px;padding:4px 16px 8px!important}
+ .chapter-dock .dock-home{grid-column:1/5;grid-row:1;justify-self:start;margin:0!important}
+ .chapter-dock .rpc-language-control{grid-column:5;grid-row:1;justify-self:end}
+ .chapter-dock>a:not(.dock-home){grid-row:2;padding:8px!important}
+ .contact-layout{gap:32px}
+}
+@media(max-width:700px){
+ :root{--section-title:clamp(2.25rem,8.5vw,3rem);--nav-height:158px}
+ .chapter-dock,.chapter-dock.visible{height:158px;grid-template-columns:repeat(10,minmax(0,1fr));grid-template-rows:100px 44px;padding:4px 10px 10px!important}
+ .chapter-dock .dock-home{grid-column:1/8;grid-row:1;display:grid;grid-template-columns:25px 1fr;gap:5px!important;min-width:0;max-width:100%}
+ .chapter-dock .dock-title{font-size:18px}.chapter-dock .dock-title small{font-size:8px}
+ .chapter-dock .dock-byline{display:flex;grid-column:1/-1;padding:0;margin:0;border:0;gap:6px}
+ .chapter-dock .fraga-logo{width:120px;height:44px}
+ .chapter-dock .rpc-language-control{grid-column:8/11;grid-row:1;align-self:start;margin-top:12px}
+ .chapter-dock .rpc-language-control select{width:70px;font-size:12px}
+ .chapter-dock>a:not(.dock-home){grid-column:span 2;grid-row:2;font-size:12px!important;padding:8px 0!important}
+ .chapter-heading>.eyebrow:last-child{font-size:12px;max-width:45%}
+ .zone-modes{flex-wrap:wrap}.zone-modes button{font-size:12px}.zone-landscape{top:126px}
+ .home-specs{max-width:none}.home-specs small{font-size:12px}
+ .contact-layout{padding:28px 0}
+ .investment-jump{grid-template-columns:1fr 1fr}.investment-jump a{font-size:14px;overflow-wrap:anywhere}
+ .project-amount{font-size:1.625rem}.project-amount small{max-width:100%}
+ .investment-project summary{grid-template-columns:16px minmax(0,1fr) 18px}
+}

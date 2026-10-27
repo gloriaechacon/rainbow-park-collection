@@ -6,18 +6,23 @@ const motion=matchMedia('(prefers-reduced-motion: reduce)');
 function syncVideo(){toggle.textContent=video.paused?'Reproducir ▶':'Pausar II';toggle.setAttribute('aria-label',video.paused?'Reproducir video':'Pausar video')}
 if(motion.matches)video.pause();video.addEventListener('play',syncVideo);video.addEventListener('pause',syncVideo);syncVideo();
 let manuallyPaused=false;toggle.addEventListener('click',()=>{manuallyPaused=!video.paused;if(video.paused)video.play().catch(syncVideo);else video.pause()});new IntersectionObserver(entries=>{if(entries[0].isIntersecting&&!manuallyPaused&&!motion.matches)video.play().catch(syncVideo);else if(!entries[0].isIntersecting)video.pause()},{threshold:.15}).observe(video);
-const dock=document.querySelector('.chapter-dock');
+const dock=document.querySelector('.unified-header');
+// Use the actual sticky header height once, rather than adding two offsets.
+const syncHeaderHeight=()=>document.documentElement.style.setProperty('--nav-height',Math.ceil(dock.getBoundingClientRect().height)+'px');
+new ResizeObserver(syncHeaderHeight).observe(dock);syncHeaderHeight();
+const alignInitialAnchor=()=>{syncHeaderHeight();const target=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(target)target.scrollIntoView({behavior:'instant',block:'start'})};
+window.addEventListener('load',()=>document.fonts.ready.then(alignInitialAnchor),{once:true});
 const chapters=[...document.querySelectorAll('.chapter')];
-function updateChapter(){dock.classList.toggle('visible',scrollY>innerHeight*.55);const current=chapters.filter(s=>s.getClientRects().length&&s.getBoundingClientRect().top<innerHeight*.45).at(-1);document.querySelectorAll('.chapter-dock a').forEach(a=>{const active=a.dataset.section===current?.id;a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current')})}
+function updateChapter(){const hero=document.querySelector('#inicio');const progress=Math.min(1,Math.max(0,scrollY/Math.max(1,hero.offsetHeight-dock.offsetHeight)));dock.style.setProperty('--header-progress',progress.toFixed(3));dock.classList.toggle('header-solid',progress>.48);const current=chapters.filter(s=>s.getClientRects().length&&s.getBoundingClientRect().top<=dock.getBoundingClientRect().height+48).at(-1);document.querySelectorAll('.chapter-dock a').forEach(a=>{const active=a.dataset.section===current?.id;a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current')})}
 let ticking=false;addEventListener('scroll',()=>{if(!ticking){requestAnimationFrame(()=>{updateChapter();ticking=false});ticking=true}},{passive:true});updateChapter();
 const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('in-view');observer.unobserve(entry.target)}}),{threshold:.08});
 document.querySelectorAll('.territory-intro,.territory-layout,.collection-title,.bridge,.contact-layout').forEach(el=>{el.classList.add('reveal');observer.observe(el)});
 document.querySelectorAll('.context-stories details').forEach(detail=>detail.addEventListener('toggle',()=>{if(detail.open)document.querySelectorAll('.context-stories details').forEach(other=>{if(other!==detail)other.open=false})}));
 const lotDialog=document.querySelector('#lot-dialog');document.querySelector('#lot-detail').addEventListener('click',()=>{document.querySelector('#dialog-lot-number').textContent=document.querySelector('#lot-number').textContent;lotDialog.showModal()});document.querySelector('#lot-to-homes').addEventListener('click',()=>lotDialog.close());document.querySelector('#about-demo').addEventListener('click',()=>document.querySelector('#demo-dialog').showModal());document.querySelectorAll('dialog').forEach(dialog=>{dialog.querySelector('.dialog-close').addEventListener('click',()=>dialog.close());dialog.addEventListener('click',event=>{if(event.target===dialog){const r=dialog.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)dialog.close()}})});
-let interest='Lote';document.querySelectorAll('[data-interest]').forEach(button=>button.addEventListener('click',()=>{interest=button.dataset.interest;document.querySelectorAll('[data-interest]').forEach(b=>{b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',String(b===button))})}));
+let interest='Lote';document.querySelectorAll('[data-interest]').forEach(button=>button.addEventListener('click',()=>{interest=button.dataset.interest;document.querySelector('#consultation-house-field').hidden=interest!=='Lote y vivienda';document.querySelectorAll('[data-interest]').forEach(b=>{b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',String(b===button))})}));
 document.querySelector('#download-brief').addEventListener('click',()=>{
  const t=s=>window.rpcI18n?.t(s)||s;
- const text=['RAINBOW PARK COLLECTION',t('Consulta para Next Fraga Real Estate'),'',t('Interés:')+' '+t(interest),t('Lote seleccionado:')+' '+document.querySelector('#lot-number').textContent,t('Modelo seleccionado:')+' '+selectedHomeName(),'',t('Mi idea:'),document.querySelector('#interest-note').value||t('Me gustaría conocer las opciones del proyecto.'),'',t('Ubicaciones según pins del cliente y contornos de Marion County. Viviendas según planos; acabados propuestos. Precio y disponibilidad a confirmar.'),t('Este resumen no ha sido enviado. Compártelo directamente con Next Fraga Real Estate.')].join('\n');
+ const text=['RAINBOW PARK COLLECTION',t('Consulta para Next Fraga Real Estate'),'',t('Interés:')+' '+t(interest),t('Lote seleccionado:')+' '+(document.querySelector('#consultation-lot').value||t('Aún no lo he decidido')),...(interest==='Lote y vivienda'?[t('Modelo seleccionado:')+' '+(document.querySelector('#consultation-house').value||t('Aún no lo he decidido'))]:[]),'',t('Mi idea:'),document.querySelector('#interest-note').value||t('Me gustaría conocer las opciones del proyecto.'),'',t('Ubicaciones según pins del cliente y contornos de Marion County. Viviendas según planos; acabados propuestos. Precio y disponibilidad a confirmar.'),t('Este resumen no ha sido enviado. Compártelo directamente con Next Fraga Real Estate.')].join('\n');
  const url=URL.createObjectURL(new Blob([text],{type:'text/plain;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download='rainbow-park-'+(window.rpcI18n?.language||'es')+'.txt';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);document.querySelector('#brief-status').textContent='Resumen descargado. Puedes compartirlo con Next Fraga Real Estate; no se ha enviado automáticamente.';
 });
 
@@ -27,13 +32,19 @@ document.querySelectorAll('dialog').forEach(dialog=>new MutationObserver(syncMod
 function closeMenu(returnFocus=false){menu.setAttribute('aria-expanded','false');menu.querySelector('span').textContent='＋';document.querySelector('.topbar').classList.remove('menu-open');if(returnFocus)menu.focus()}
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&menu.getAttribute('aria-expanded')==='true')closeMenu(true)});
 document.addEventListener('click',e=>{if(!e.target.closest('.topbar')&&menu.getAttribute('aria-expanded')==='true')closeMenu()});
-const selectedHomeName=()=>document.querySelector('#lotes').dataset.selectedHouse==='b'?'Casa Bell':'Casa Utah';
-const syncSelection=()=>{document.querySelector('#consultation-selection').textContent=`Lote ${document.querySelector('#lot-number').textContent} · ${selectedHomeName()}`};
-document.addEventListener('rpc:lot',syncSelection);document.addEventListener('rpc:home',syncSelection);syncSelection();
+// Exploration is a suggestion; the visitor explicitly chooses what to include.
+const consultationLot=document.querySelector('#consultation-lot');
+const useExploredLot=document.querySelector('#use-explored-lot');
+const selectionStatus=document.querySelector('#consultation-selection');
+const syncSelection=()=>{useExploredLot.hidden=!document.querySelector('#lot-explorer').dataset.selectedLot};
+document.addEventListener('rpc:lot',syncSelection);syncSelection();
+useExploredLot.addEventListener('click',()=>{const lot=document.querySelector('#lot-explorer').dataset.selectedLot;if(!lot)return;consultationLot.value=String(lot).padStart(2,'0');selectionStatus.textContent=(window.rpcI18n?.t('Lote seleccionado:')||'Lote seleccionado:')+' '+consultationLot.value});
+consultationLot.addEventListener('change',()=>{selectionStatus.textContent=''});
+if(location.hash==='#territorio')location.replace(location.href.replace('#territorio','#lotes'));
 
 // The graphic modules load when exploration is nearby, or when explicitly requested.
 let graphicsPromise;
-function loadExploration(){if(!graphicsPromise)graphicsPromise=import('./experience3d.js?v=finishes6').then(()=>import('./space-studio.js?v=finishes6')).catch(error=>{graphicsPromise=null;document.querySelectorAll('.scene-loading').forEach(el=>el.textContent='No pudimos cargar la vista. Vuelve a intentarlo.');throw error});return graphicsPromise}
+function loadExploration(){if(!graphicsPromise)graphicsPromise=import('./experience3d.js?v=sections2').then(()=>import('./space-studio.js?v=finishes6')).catch(error=>{graphicsPromise=null;document.querySelectorAll('.scene-loading').forEach(el=>el.textContent='No pudimos cargar la vista. Vuelve a intentarlo.');throw error});return graphicsPromise}
 const loadObserver=new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting)){loadExploration().catch(()=>{});loadObserver.disconnect()}},{rootMargin:'700px'});loadObserver.observe(document.querySelector('#coleccion-anterior'));loadObserver.observe(document.querySelector('#viviendas'));
 let explorationReady=false;
 document.addEventListener('click',async e=>{const button=e.target.closest('[data-open-placement],[data-open-tour],#compare-homes');if(!button||explorationReady)return;e.preventDefault();e.stopImmediatePropagation();button.setAttribute('aria-busy','true');try{await loadExploration();explorationReady=true;button.click()}catch{}finally{button.removeAttribute('aria-busy')}},true);
