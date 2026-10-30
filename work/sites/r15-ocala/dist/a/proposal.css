@@ -1,0 +1,10 @@
+@import url('/common.css');
+:root{--surface:#fffefa;--tint:#f0f1ec;--text:#183b35;--muted:#52615b;--accent:#174d43;--border:#aab7ae;--pine:#174d43;--deep:#173c35;--cream:#fffefa;--lime:#e5eee6;--ink:#183b35}
+.proposal-a .hero h1{top:31%;left:6vw}
+.proposal-a .hero-shade{background:linear-gradient(90deg,rgba(9,31,26,.6),rgba(9,31,26,.12)),linear-gradient(0deg,rgba(9,31,26,.7),transparent 65%)}
+.proposal-a .hero .enter-orbit{left:auto;right:6vw;bottom:132px}
+.proposal-a .hero-bottom{left:6vw;bottom:132px}
+.proposal-a .topbar.unified-header{background:rgb(255 254 250 / var(--header-progress));}
+.proposal-a .unified-header.header-solid,.proposal-a .unified-header.menu-open{color:var(--text)}
+.proposal-a .project-introduction h2{font-family:var(--serif);font-size:clamp(40px,4.8vw,66px)}
+@media(max-width:700px){.proposal-a .hero h1{left:24px;top:235px}.proposal-a .hero .enter-orbit{left:24px;right:auto;bottom:155px}.proposal-a .hero-bottom{left:24px;bottom:252px}.proposal-a .hero #video-toggle{bottom:-208px}.proposal-a .project-introduction h2{font-size:40px}}

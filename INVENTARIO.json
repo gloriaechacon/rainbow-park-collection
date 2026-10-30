@@ -991,8 +991,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/index.html",
-    "bytes": 59955,
-    "sha256": "741f9fbe733d33d63ef8560de0b27ef9a110a5795aab5fd5146a834212636c08"
+    "bytes": 7902,
+    "sha256": "d36ac0ca3961c6a40c38f796e3452f71497cf584126f1bbc36d97448d6f52602"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/inversion/assets/wec-propuesta-campos.jpg",
@@ -3096,8 +3096,8 @@
   },
   {
     "archivo": "vercel.json",
-    "bytes": 177,
-    "sha256": "1d7c3fc33009c8d9c765c9604c2fc9589b34c01fb1401592cef8966f59bfcca3"
+    "bytes": 515,
+    "sha256": "187a44823f90e55ece62cd33c1b56052d2b70d4fe20569ae2c643426a9acadc6"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/responsive.css",
@@ -3138,5 +3138,50 @@
     "archivo": "work/sites/r15-ocala/dist/assets/rainbow-park-social-square-v2.png",
     "bytes": 32019,
     "sha256": "8f73b47e73a4d5e831a0d32a8fe62c7491bf5c9b8f072bc2b2886aa8787a2e76"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/common.css",
+    "bytes": 10845,
+    "sha256": "73152e32aa7f692f950e4ccdfa70d5c5edf5debc6badd2d95dcad539889d12cc"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/proposal-i18n.js",
+    "bytes": 2288,
+    "sha256": "18694fad17c0464faecae104327ca678821aa4a84ea5dc00253f326951917d14"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/a/index.html",
+    "bytes": 60844,
+    "sha256": "8a7007f865a5e22484e1c3c35f4109006da5eb7c31417647a25e5fa9f824a47b"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/a/proposal.css",
+    "bytes": 1071,
+    "sha256": "6f9fb808c108bac01dde4d3787fb668e1f52bc032a59883528990b74d99501f4"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/a/proposal.js",
+    "bytes": 628,
+    "sha256": "4fd978611510984fce5b5e774acd8740d4ce26a34172ab03540b82a5d3014089"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/b/index.html",
+    "bytes": 60847,
+    "sha256": "8155cf85ad4691a112779340d4134e971bfd7c9443a6eecd13c6f08c933aaf98"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/b/proposal.css",
+    "bytes": 3103,
+    "sha256": "3dac8c08356cf26d8744c994eb65445e94f678388ad3a32d5c0357a98c9b1595"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/b/proposal.js",
+    "bytes": 628,
+    "sha256": "4fd978611510984fce5b5e774acd8740d4ce26a34172ab03540b82a5d3014089"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/original/index.html",
+    "bytes": 59955,
+    "sha256": "741f9fbe733d33d63ef8560de0b27ef9a110a5795aab5fd5146a834212636c08"
   }
 ]

@@ -3,5 +3,22 @@
   "framework": null,
   "buildCommand": null,
   "installCommand": null,
-  "outputDirectory": "work/sites/r15-ocala/dist"
+  "outputDirectory": "work/sites/r15-ocala/dist",
+  "routes": [
+    {
+      "src": "^/(a|b|original)/?$",
+      "dest": "/$1/index.html"
+    },
+    {
+      "src": "^/(?:a|b|original)/(utah|inversion)/?$",
+      "dest": "/$1/index.html"
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "^/(?:a|b|original)/(.*)$",
+      "dest": "/$1"
+    }
+  ]
 }

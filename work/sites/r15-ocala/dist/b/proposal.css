@@ -1,0 +1,38 @@
+@import url('/common.css');
+:root{--surface:#fcfaf5;--tint:#eee6dc;--text:#382e29;--muted:#695d54;--accent:#794c3c;--border:#b6a69a;--pine:#794c3c;--deep:#50392f;--cream:#fcfaf5;--lime:#eee6dc;--ink:#382e29}
+.proposal-b .topbar.unified-header,.proposal-b .unified-header.header-solid,.proposal-b .unified-header.menu-open{background:var(--surface);color:var(--text);border-bottom:1px solid var(--border);backdrop-filter:none}
+.proposal-b .unified-header .fraga-logo img{filter:none}
+.proposal-b .hero{height:790px;min-height:790px;background:var(--surface);color:var(--text)}
+.proposal-b .hero #hero-video{inset:120px 32px 32px auto;width:52%;height:calc(100% - 152px);border-radius:120px 0 0 0;object-fit:cover;filter:none}
+.proposal-b .hero-shade{display:none}
+.proposal-b .hero h1{left:5vw;top:198px;width:40%;font-size:clamp(58px,6.1vw,88px);line-height:1.08}
+.proposal-b .hero h1 em{color:var(--accent)}
+.proposal-b .hero-bottom{left:5vw;bottom:215px;width:35%;color:var(--muted)}
+.proposal-b .hero-bottom p{font-size:18px;max-width:32ch}
+.proposal-b .hero .enter-orbit{left:5vw;right:auto;bottom:126px;background:var(--accent);color:white}
+.proposal-b .hero #video-toggle{bottom:-160px;color:var(--text)}
+.proposal-b .media-note{right:50px;bottom:50px;background:#fcfaf5ed;color:var(--text);padding:7px 12px;max-width:40%}
+.proposal-b .project-introduction{background:var(--tint);border:0;grid-template-columns:1.1fr 1fr}
+.proposal-b .project-introduction h2{font-family:var(--sans);font-weight:500}
+.proposal-b .territory-opening h2 em,.proposal-b .zone-intro h2 em{font-family:var(--sans);color:var(--accent)}
+.proposal-b .investment{background:var(--accent);color:white}
+.proposal-b .investment-intro>div>p:nth-child(2){color:#f7eee8}
+.proposal-b .investment-opening .investment-button{background:var(--surface);color:var(--accent)}
+.proposal-b .investment-detail{border-color:#ffffff55}
+.proposal-b .investment-detail-body{background:var(--surface);color:var(--text);padding:24px}
+.proposal-b #contacto{background:var(--tint);color:var(--text)}
+.proposal-b .contact-layout>div>p{color:var(--muted)}
+.proposal-b footer{color:var(--text);border-color:var(--border)}
+@media(max-width:700px){
+ .proposal-b .hero{height:1040px;min-height:1040px}
+ .proposal-b .hero h1{top:172px;left:24px;width:calc(100% - 48px);font-size:54px}
+ .proposal-b .hero-bottom{left:24px;top:325px;bottom:auto;width:calc(100% - 48px)}
+ .proposal-b .hero-bottom p{font-size:17px;max-width:34ch}
+ .proposal-b .hero .enter-orbit{top:435px;left:24px;bottom:auto;right:auto}
+ .proposal-b .hero #hero-video{top:528px;left:24px;right:24px;width:calc(100% - 48px);height:454px;border-radius:72px 0 0 0}
+ .proposal-b .hero #video-toggle{top:665px;bottom:auto;left:0}
+ .proposal-b .media-note{right:24px;bottom:10px;background:transparent;max-width:60%;font-size:10px;padding:0}
+ .proposal-b .project-introduction{grid-template-columns:1fr}
+ .proposal-b .investment-detail-body{padding:16px}
+}
+@media(max-width:360px){.proposal-b .hero h1{font-size:46px}.proposal-b .hero-bottom{top:307px}.proposal-b .hero .enter-orbit{top:425px}}
