@@ -1,0 +1,18 @@
+.review-workspace{display:grid;grid-template-columns:250px minmax(0,1fr);gap:20px;padding:0 24px 24px;align-items:start}
+.review-workspace #stage{margin:0;min-width:0}
+.palette-panel{background:#fff;padding:22px 18px;border:1px solid #c7cec9;border-radius:8px;position:sticky;top:16px}
+.palette-panel h2{margin:0 0 6px;font-size:21px;font-weight:600;letter-spacing:-.02em}
+.palette-panel>p{font-size:14px;color:#52615b;line-height:1.55;margin:0 0 20px}
+.palette-options{display:grid;gap:10px}
+.palette-choice{width:100%;background:white;text-align:left;border:1px solid #bdc6c0;padding:14px;border-radius:6px;color:#183b35;line-height:1.4}
+.palette-choice[aria-pressed=true]{background:#f0f4ef;color:#183b35;border:2px solid #174d43;padding:13px}
+.palette-choice strong{display:block;font-size:15px;font-weight:600}
+.palette-choice small{display:block;font-size:13px;margin-top:2px;color:#52615b}
+.palette-swatches{display:flex;height:23px;overflow:hidden;border-radius:3px;border:1px solid #00000026;margin-bottom:10px}
+.palette-swatches i{flex:1;background:var(--swatch)}
+.palette-choice:disabled{cursor:default;opacity:.5}
+.palette-panel .palette-status{margin:18px 0 0;font-size:13px;min-height:40px}
+.palette-panel .palette-scope{border-top:1px solid #dce1dd;padding-top:16px;margin:14px 0 0;font-size:13px}
+.audit-archive{margin:16px 24px 32px}.audit-archive>summary{cursor:pointer;min-height:44px;padding:12px 0}.audit-archive .audit{margin:0}
+@media(max-width:900px){.review-workspace{grid-template-columns:1fr;padding:0 16px 20px}.palette-panel{position:static;padding:18px}.palette-options{grid-template-columns:repeat(3,minmax(0,1fr))}.palette-panel>p{margin-bottom:14px}.palette-panel .palette-status{min-height:0;margin:12px 0 0}.palette-panel .palette-scope{margin-top:10px;padding-top:10px}.palette-choice{padding:11px}.palette-choice[aria-pressed=true]{padding:10px}}
+@media(max-width:450px){.review-workspace{padding:0 10px 20px}.palette-panel{padding:14px 12px}.palette-options{gap:6px}.palette-choice strong{font-size:13px}.palette-choice small{font-size:11px}.palette-choice{padding:9px}.palette-choice[aria-pressed=true]{padding:8px}.palette-swatches{height:20px}.palette-panel h2{font-size:19px}.audit-archive{margin-inline:16px}}

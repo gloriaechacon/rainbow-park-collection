@@ -991,8 +991,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/index.html",
-    "bytes": 7902,
-    "sha256": "d36ac0ca3961c6a40c38f796e3452f71497cf584126f1bbc36d97448d6f52602"
+    "bytes": 7930,
+    "sha256": "6aba6c4a876f56225817979531346659453742eabbf22faa3b00f6ed4e760ed8"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/inversion/assets/wec-propuesta-campos.jpg",
@@ -3151,8 +3151,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/a/index.html",
-    "bytes": 60844,
-    "sha256": "8a7007f865a5e22484e1c3c35f4109006da5eb7c31417647a25e5fa9f824a47b"
+    "bytes": 60924,
+    "sha256": "44deb16935a853a0d29c2c30bdca782e5252ba03e1e7d05a21c7d3a10f9ecd44"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/a/proposal.css",
@@ -3166,8 +3166,8 @@
   },
   {
     "archivo": "work/sites/r15-ocala/dist/b/index.html",
-    "bytes": 60847,
-    "sha256": "8155cf85ad4691a112779340d4134e971bfd7c9443a6eecd13c6f08c933aaf98"
+    "bytes": 60927,
+    "sha256": "51bc0ee6cc83e2b5d6bce0e627d10eb5eb3e907dfb5cff9a463f4415d41f179c"
   },
   {
     "archivo": "work/sites/r15-ocala/dist/b/proposal.css",
@@ -3183,5 +3183,25 @@
     "archivo": "work/sites/r15-ocala/dist/original/index.html",
     "bytes": 59955,
     "sha256": "741f9fbe733d33d63ef8560de0b27ef9a110a5795aab5fd5146a834212636c08"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/palette-panel.css",
+    "bytes": 2253,
+    "sha256": "5f21337bc0abc3f7aeacc496164a1136d16a64ebb543e84a0fcf81fca2e6ed9e"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/palette-panel.js",
+    "bytes": 3146,
+    "sha256": "049fe38cb593512b2d57d29aa40485c3f5a48ac5f0d785cdc2110565c187abbf"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/palettes.css",
+    "bytes": 1957,
+    "sha256": "4a4644ceedb296d507e6e7c9adddfa45a6ceeb237deb3d115cf8b0c2a9c64b43"
+  },
+  {
+    "archivo": "work/sites/r15-ocala/dist/palettes.js",
+    "bytes": 384,
+    "sha256": "5494114b686cf0c490fcfb2a8fb80b86fbd734a8d1f738acea7cfc33e2984a1a"
   }
 ]
